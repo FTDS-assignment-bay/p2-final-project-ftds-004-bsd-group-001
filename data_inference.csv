@@ -1,0 +1,2 @@
+neighborhood,price,size_in_sqft,price_per_sqft,no_of_bedrooms,no_of_bathrooms,maid_room,concierge,pets_allowed,private_garden,private_gym,private_jacuzzi,private_pool,shared_pool
+Downtown Dubai,15800000,5253,3007.81,4,5,False,False,False,True,True,False,True,False
