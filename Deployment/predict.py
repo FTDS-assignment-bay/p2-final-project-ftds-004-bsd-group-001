@@ -121,10 +121,13 @@ def run():
             
             # Show data table based on the result
             st.subheader('Data Table Based on Prediction Result')
-            data = pd.read_csv("data_setelah_clustering.csv")
-            predicted_labels = np.full(len(data), result)  # Create an array with the same length as the DataFrame
-            filtered_data = data[data['cluster_label'] == predicted_labels]
-            st.write(filtered_data)
+            data_cluster = pd.read_csv("data_setelah_clustering.csv")
+            if result == 0:
+                 st.write(data_cluster.loc[(data_cluster['cluster']==0)].sample(n=5))
+            elif result == 1:
+                st.write(data_cluster.loc[(data_cluster['cluster']==1)].sample(n=5))
+            else:
+                st.write(data_cluster.loc[(data_cluster['cluster']==2)].sample(n=5))
         else:
             st.write('Error: Prediction result is None')
 
