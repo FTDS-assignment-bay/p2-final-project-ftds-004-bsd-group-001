@@ -122,6 +122,7 @@ def run():
             # Show data table based on the result
             st.subheader('Data Table Based on Prediction Result')
             data_cluster = pd.read_csv("data_setelah_clustering.csv")
+            data_cluster = data_cluster.drop(columns=['Unnamed: 0']) 
             if result == 0:
                  st.write(data_cluster.loc[(data_cluster['cluster']==0)].sample(n=5))
             elif result == 1:

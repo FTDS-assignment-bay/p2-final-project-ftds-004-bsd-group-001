@@ -29,5 +29,27 @@ def run():
     st.markdown('<p style="text-align: center;">Apart Helper is a product website designed to assist customers in choosing apartments or properties based on their preferences.</p>', unsafe_allow_html=True)
     st.divider()
 
+    # Melakukan loading dataset
+    data_sebelum = pd.read_csv('properties_data.csv')
+    data_sesudah = pd.read_csv('data_setelah_clustering.csv', index_col=0)
+
+    st.header('Exploratory Data Analysis Sebelum Cluster', divider='rainbow')
+    st.subheader('Top 5 Location By Average Price')
+
+    # Calculate the average price for each neighborhood
+    avg_price_by_neighborhood = data_sebelum.groupby('neighborhood')['price'].mean()
+
+    # Sort the average prices in descending order and select the top 5
+    top_5_avg_price = avg_price_by_neighborhood.sort_values(ascending=False).head(5)
+
+    # Display the top 5 neighborhoods using Streamlit
+    st.bar_chart(top_5_avg_price)
+
+    st.subheader('Number of Bedrooms',divider='rainbow')
+
+    
+
+
+
 if __name__ == '__main__':
     run()
