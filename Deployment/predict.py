@@ -97,15 +97,34 @@ def run():
         # Prediction explanation
         if result is not None:
             if result == 0:
-                keterangan_prediksi = "Cluster Apartemen Mewah"
+                keterangan_prediksi = "Cluster Apartemen Mewah\n\n" \
+                                    "- Mencakup apartemen paling mahal dalam kumpulan data.\n" \
+                                    "- Mungkin memiliki ukuran terbesar dalam satuan luas.\n" \
+                                    "- Mungkin memiliki harga per satuan luas tertinggi.\n" \
+                                    "- Memiliki jumlah kamar tidur dan kamar mandi yang lebih tinggi dibandingkan dengan cluster lainnya."
             elif result == 1:
-                keterangan_prediksi = "Cluster Apartemen Menengah"
+                keterangan_prediksi = "Cluster Apartemen Menengah\n\n" \
+                                    "- Memiliki harga lebih rendah daripada Cluster 0 (Cluster Apartemen Mewah) tetapi lebih tinggi dari Cluster 2 (Cluster Apartemen Ekonomis).\n" \
+                                    "- Mungkin memiliki ukuran sedang dalam satuan luas dibandingkan dengan cluster lainnya.\n" \
+                                    "- Harga per satuan luas berada di antara dua cluster lainnya.\n" \
+                                    "- Memiliki jumlah kamar tidur dan kamar mandi yang sedang."
             else:
-                keterangan_prediksi = "Cluster Apartemen Ekonomis"
+                keterangan_prediksi = "Cluster Apartemen Ekonomis\n\n" \
+                                    "- Mencakup apartemen paling terjangkau dalam kumpulan data.\n" \
+                                    "- Mungkin memiliki ukuran terkecil dalam satuan luas.\n" \
+                                    "- Mungkin memiliki harga per satuan luas terendah.\n" \
+                                    "- Memiliki jumlah kamar tidur dan kamar mandi yang lebih rendah dibandingkan dengan cluster lainnya."
 
             # Display result
             st.write('# Result')
             st.write(f'Prediksi : {int(result)} - {keterangan_prediksi}')
+            
+            # Show data table based on the result
+            st.subheader('Data Table Based on Prediction Result')
+            data = pd.read_csv("data_setelah_clustering.csv")
+            predicted_labels = np.full(len(data), result)  # Create an array with the same length as the DataFrame
+            filtered_data = data[data['cluster_label'] == predicted_labels]
+            st.write(filtered_data)
         else:
             st.write('Error: Prediction result is None')
 
