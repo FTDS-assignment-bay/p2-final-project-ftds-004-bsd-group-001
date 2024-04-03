@@ -47,9 +47,65 @@ def run():
 
     st.subheader('Number of Bedrooms',divider='rainbow')
 
-    
+    # Group data by 'no_of_bathrooms' and count frequencies
+    bathroom_counts = data_sebelum['no_of_bedrooms'].value_counts().sort_index()
+
+    # Plot bar chart using Streamlit
+    st.bar_chart(bathroom_counts)
+
+    st.subheader('Number of Bathrooms',divider='rainbow')
+
+    # Group data by 'no_of_bathrooms' and count frequencies
+    bathroom_counts = data_sebelum['no_of_bathrooms'].value_counts().sort_index()
+
+    # Plot bar chart using Streamlit
+    st.bar_chart(bathroom_counts)
 
 
+    st.header('Exploratory Data Analysis Setelah Cluster', divider='rainbow')
+    # Assuming mean_data is your DataFrame containing the mean prices for each cluster
+    mean_data = data_sesudah.groupby('cluster')['price'].mean().reset_index()
+    mean_data['cluster'] = mean_data['cluster'].astype(int)  # Ensure 'cluster' column is of integer type
+    mean_data = mean_data.round(0).astype(int)
+
+    # Display the DataFrame in Streamlit
+    st.dataframe(mean_data)
+
+    st.subheader('Average Price by Cluste',divider='rainbow')
+
+    # Assuming mean_data is your DataFrame containing the mean prices for each cluster
+    mean_data = data_sesudah.groupby('cluster')['price'].mean().reset_index()
+    mean_data['cluster'] = mean_data['cluster'].astype(int)  # Ensure 'cluster' column is of integer type
+    mean_data = mean_data.round(0).astype(int)
+
+    # Plot stacked bar chart
+    st.bar_chart(mean_data.set_index('cluster'), use_container_width=True)
+
+    st.subheader('Top 5 Location By Average Price Based on Price',divider='rainbow')
+    # Filter data for the top 5 neighborhoods
+    top_5_avg_price = avg_price_by_neighborhood.sort_values(ascending=False).head(5)
+    filtered_data = data_sesudah[data_sesudah['neighborhood'].isin(top_5_avg_price.index)]
+
+    # Group by 'neighborhood' and 'cluster', then calculate the average price for each group
+    avg_price_by_neighborhood_cluster = filtered_data.groupby(['neighborhood', 'cluster'])['price'].mean().unstack()
+
+    # Plot stacked bar chart for top 5 neighborhoods
+    st.bar_chart(avg_price_by_neighborhood_cluster, use_container_width=True)    
+
+
+    st.subheader('Number of Bedrooms Based on Cluster',divider='rainbow')
+    # Group data by 'no_of_bathrooms' and 'cluster', then count frequencies
+    bathroom_cluster_counts = data_sesudah.groupby(['no_of_bedrooms', 'cluster']).size().unstack(fill_value=0)
+
+    # Plot stacked bar chart
+    st.bar_chart(bathroom_cluster_counts, use_container_width=True)
+
+    st.subheader('Number of Bathrooms Based on Cluster',divider='rainbow')
+    # Group data by 'no_of_bathrooms' and 'cluster', then count frequencies
+    bathroom_cluster_counts = data_sesudah.groupby(['no_of_bathrooms', 'cluster']).size().unstack(fill_value=0)
+
+    # Plot stacked bar chart
+    st.bar_chart(bathroom_cluster_counts, use_container_width=True)
 
 if __name__ == '__main__':
     run()

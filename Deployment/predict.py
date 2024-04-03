@@ -120,15 +120,15 @@ def run():
             st.write(f'Prediksi : {int(result)} - {keterangan_prediksi}')
             
             # Show data table based on the result
-            st.subheader('Data Table Based on Prediction Result')
+            st.subheader('Rekomendasi Apartment :')
             data_cluster = pd.read_csv("data_setelah_clustering.csv")
             data_cluster = data_cluster.drop(columns=['Unnamed: 0']) 
             if result == 0:
-                 st.write(data_cluster.loc[(data_cluster['cluster']==0)].sample(n=5))
+                 st.write(data_cluster.loc[(data_cluster['cluster']==0)& (data_cluster['price'] <= price)].head(5))
             elif result == 1:
-                st.write(data_cluster.loc[(data_cluster['cluster']==1)].sample(n=5))
+                st.write(data_cluster.loc[(data_cluster['cluster']==1)& (data_cluster['price'] <= price)].head(5))
             else:
-                st.write(data_cluster.loc[(data_cluster['cluster']==2)].sample(n=5))
+                st.write(data_cluster.loc[(data_cluster['cluster']==2) & (data_cluster['price'] <= price)].head(10))
         else:
             st.write('Error: Prediction result is None')
 
