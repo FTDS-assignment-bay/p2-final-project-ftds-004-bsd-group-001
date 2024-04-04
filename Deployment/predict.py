@@ -124,9 +124,9 @@ def run():
             data_cluster = pd.read_csv("data_setelah_clustering.csv")
             data_cluster = data_cluster.drop(columns=['Unnamed: 0']) 
             if result == 0:
-                 st.write(data_cluster.loc[(data_cluster['cluster']==0)& (data_cluster['price'] <= price)].head(5))
+                 st.write(data_cluster.loc[(data_cluster['cluster']==0)& (data_cluster['price'] <= price)].head(10))
             elif result == 1:
-                st.write(data_cluster.loc[(data_cluster['cluster']==1)& (data_cluster['price'] <= price)].head(5))
+                st.write(data_cluster.loc[(data_cluster['cluster']==1)& (data_cluster['price'] <= price)].head(10))
             else:
                 st.write(data_cluster.loc[(data_cluster['cluster']==2) & (data_cluster['price'] <= price)].head(10))
         else:
