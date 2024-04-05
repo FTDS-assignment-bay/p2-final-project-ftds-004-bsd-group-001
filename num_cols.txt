@@ -1,0 +1,1 @@
+["price", "size_in_sqft", "price_per_sqft", "no_of_bedrooms", "no_of_bathrooms"]

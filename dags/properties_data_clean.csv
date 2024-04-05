@@ -1,0 +1,1906 @@
+,neighborhood,price,size_in_sqft,price_per_sqft,no_of_bedrooms,no_of_bathrooms,maid_room,concierge,pets_allowed,private_garden,private_gym,private_jacuzzi,private_pool,shared_pool
+0,Palm Jumeirah,2700000,1079,2502.32,1,2,False,True,True,False,False,False,False,False
+1,Palm Jumeirah,2850000,1582,1801.52,2,2,False,False,False,False,False,False,False,True
+2,Jumeirah Lake Towers,1150000,1951,589.44,3,5,True,False,False,False,False,True,False,True
+3,Culture Village,2850000,2020,1410.89,2,3,False,True,True,False,False,False,False,False
+4,Palm Jumeirah,1729200,507,3410.65,0,1,False,False,False,False,False,False,False,True
+5,Palm Jumeirah,3119900,1015,3073.79,1,2,False,False,False,False,False,False,False,True
+6,Palm Jumeirah,8503600,2062,4123.96,2,3,True,False,False,False,False,False,False,True
+7,Palm Jumeirah,3119900,1015,3073.79,1,2,False,False,False,False,False,False,False,True
+8,Palm Jumeirah,2100000,2186,960.66,3,3,False,False,False,False,False,False,False,False
+9,Downtown Dubai,2690000,1521,1768.57,2,3,False,False,False,False,False,False,False,True
+10,Downtown Dubai,3550000,1918,1850.89,3,4,False,False,False,False,False,False,False,True
+11,Dubai Marina,2094999,1058,1980.15,2,3,False,False,False,False,False,False,False,True
+12,Dubai Marina,1049999,609,1724.14,1,2,False,False,False,False,False,False,False,True
+13,Palm Jumeirah,1849000,1071,1726.42,1,1,False,True,False,False,False,False,False,True
+14,Palm Jumeirah,2089999,1051,1988.58,1,1,False,True,False,False,False,False,False,True
+15,Palm Jumeirah,2349990,1109,2119.02,1,1,False,True,False,False,False,False,False,True
+16,Palm Jumeirah,3499000,1633,2142.68,2,2,False,True,False,False,False,False,False,True
+17,Downtown Dubai,2700000,1348,2002.97,2,3,False,False,False,False,False,False,False,False
+18,Downtown Dubai,1490000,1167,1276.78,2,2,False,False,False,False,False,False,False,True
+19,Business Bay,950000,894,1062.64,1,2,False,False,False,False,False,False,True,True
+20,Dubai Marina,1100000,985,1116.75,2,2,False,False,True,False,False,False,False,True
+21,Dubai Marina,1390000,1307,1063.5,2,4,False,False,False,False,False,False,False,False
+22,Downtown Dubai,3999900,2323,1721.87,3,4,True,True,False,False,False,True,False,True
+23,Dubai Marina,3349000,3930,852.16,3,4,False,False,False,False,False,False,False,False
+24,Palm Jumeirah,8470000,5232,1618.88,3,3,True,True,False,False,False,False,False,True
+25,Dubai Marina,2499000,2490,1003.61,3,4,False,True,True,False,False,False,False,True
+26,Downtown Dubai,2800000,1712,1635.51,2,3,False,True,False,False,False,False,True,False
+27,Dubai Marina,8500000,5079,1673.56,4,4,False,True,False,False,False,False,False,True
+28,Downtown Dubai,1875000,1543,1215.17,2,3,False,False,False,False,False,False,False,True
+29,Old Town,1275000,938,1359.28,1,2,False,False,False,False,False,False,False,False
+30,Al Kifaf,1465777,999,1467.24,1,2,False,True,False,False,True,False,True,True
+31,Palm Jumeirah,1260000,1646,765.49,2,3,False,False,False,False,False,False,False,False
+32,Meydan,1386795,1084,1279.33,2,3,False,False,False,False,False,False,False,True
+33,Culture Village,4500000,3048,1476.38,2,3,False,False,False,False,False,False,False,True
+34,Arjan,750000,796,942.21,1,1,False,False,False,False,False,False,False,True
+35,Arjan,991000,1162,852.84,2,2,False,False,False,False,False,False,False,True
+36,Jumeirah Beach Residence,3599999,1966,1831.13,3,3,False,False,True,False,False,False,False,False
+37,Dubai Marina,2625000,1786,1469.76,3,4,False,False,False,False,False,False,False,True
+38,Dubai Creek Harbour (The Lagoons),1270000,900,1411.11,1,2,False,False,False,False,False,False,False,True
+39,Dubai Creek Harbour (The Lagoons),1398000,1168,1196.92,1,2,False,False,True,False,False,False,False,False
+40,Dubai Marina,1795000,1002,1791.42,1,2,False,False,False,False,False,False,False,True
+41,Old Town,1600000,1221,1310.4,2,3,False,False,False,False,False,False,False,False
+42,Palm Jumeirah,1050000,549,1912.57,0,1,False,False,False,False,False,False,False,True
+43,Greens,1150000,1133,1015.0,2,2,False,False,False,False,False,False,False,False
+44,City Walk,1800000,1191,1511.34,1,2,False,False,False,False,False,False,False,True
+45,Al Furjan,1349999,1861,725.42,3,4,False,False,True,False,False,False,False,True
+46,Dubai Creek Harbour (The Lagoons),1800000,1582,1137.8,2,3,False,False,False,False,False,False,False,False
+47,Business Bay,2353146,1168,2014.68,2,3,False,False,False,False,False,False,False,True
+48,Dubai Marina,2800000,3172,882.72,4,5,False,False,False,False,False,False,False,False
+49,DAMAC Hills,365000,451,809.31,0,1,False,False,True,False,False,False,False,True
+50,Palm Jumeirah,1980000,935,2117.65,1,1,False,True,False,False,False,False,False,True
+51,Dubai Marina,2300000,775,2967.74,1,2,False,False,True,False,False,False,False,True
+52,Dubai Marina,2200000,1277,1722.79,2,3,False,False,True,False,False,False,False,True
+53,Dubai Creek Harbour (The Lagoons),1270000,981,1294.6,1,2,False,False,False,False,False,False,False,True
+54,Jumeirah Beach Residence,2650000,1703,1556.08,2,2,False,False,False,False,False,False,False,False
+55,Jumeirah Lake Towers,375000,450,833.33,0,1,False,False,True,False,False,False,False,True
+56,Jumeirah Golf Estates,1150000,1367,841.26,2,3,False,False,True,False,False,False,False,False
+57,Business Bay,2400000,1965,1221.37,3,4,False,False,False,False,False,False,False,True
+58,Business Bay,1700000,1358,1251.84,2,3,False,True,False,False,False,False,False,True
+59,Business Bay,1709847,1367,1250.8,2,3,False,False,False,False,False,False,False,True
+60,Jumeirah,12000000,2631,4561.0,3,5,False,False,False,False,False,False,False,True
+61,Dubai Hills Estate,1850000,1993,928.25,3,4,True,False,True,False,False,False,False,True
+62,Umm Suqeim,2090000,1365,1531.14,2,3,False,False,False,False,False,False,False,False
+63,Meydan,1425000,1535,928.34,2,3,False,False,False,False,False,False,False,False
+64,Dubai Marina,1595000,1350,1181.48,2,2,False,False,False,False,False,False,False,False
+65,Dubai Marina,975000,627,1555.02,1,1,False,True,False,False,False,False,False,True
+66,Jumeirah Beach Residence,3400000,1672,2033.49,2,3,False,True,False,False,False,False,False,True
+67,Business Bay,2050000,2197,933.09,3,4,True,False,False,False,False,False,False,True
+68,Motor City,995000,1670,595.81,2,1,False,False,False,False,False,False,False,False
+69,Dubai Hills Estate,1300000,1182,1099.83,2,3,False,False,True,False,False,False,False,True
+70,Motor City,1100000,1670,658.68,2,3,False,False,True,False,False,False,False,True
+71,DAMAC Hills,750000,851,881.32,1,2,False,False,False,False,False,False,False,False
+72,DIFC,1999999,1755,1139.6,2,2,False,False,True,False,False,False,False,True
+73,Downtown Dubai,2990000,1903,1571.2,3,4,False,True,False,False,False,False,False,False
+74,Palm Jumeirah,2400000,1717,1397.79,2,3,True,True,False,False,False,False,False,True
+75,Downtown Dubai,2600000,1360,1911.76,2,3,False,False,False,False,False,False,False,False
+76,Dubai Marina,2000000,1477,1354.1,2,3,False,False,False,False,False,False,False,True
+77,Downtown Dubai,1800000,1622,1109.74,2,3,False,False,False,False,False,False,False,False
+78,Downtown Dubai,930000,774,1201.55,1,2,False,False,False,False,False,False,False,False
+79,Palm Jumeirah,3200000,1572,2035.62,2,3,False,False,False,False,False,False,False,True
+80,Jumeirah Village Circle,714000,732,975.41,1,1,False,False,True,True,False,False,False,True
+81,Dubai Marina,1075000,1300,826.92,3,3,False,False,False,False,False,False,False,True
+82,Downtown Dubai,2299900,1133,2029.92,1,2,False,True,False,False,False,True,False,True
+83,Dubai Marina,1200000,1180,1016.95,2,2,False,True,False,False,False,False,False,True
+84,Dubai Marina,1525000,1440,1059.03,2,3,False,False,False,False,False,False,False,False
+85,City Walk,2700000,1685,1602.37,2,2,False,False,False,False,False,False,False,True
+86,Jumeirah Beach Residence,815000,779,1046.21,1,1,False,False,False,False,False,False,False,False
+87,Jumeirah Lake Towers,860000,971,885.68,1,2,False,False,False,False,False,False,False,True
+88,Barsha Heights (Tecom),1200000,1450,827.59,2,1,False,False,True,False,False,False,False,True
+89,Jumeirah Beach Residence,1300000,763,1703.8,1,1,False,False,False,False,False,False,False,False
+90,Downtown Dubai,2100000,1135,1850.22,1,1,False,True,True,False,False,False,True,True
+91,Downtown Dubai,2100000,1974,1063.83,3,5,False,False,False,False,False,False,False,False
+92,Palm Jumeirah,2100000,1051,1998.1,1,1,False,True,False,False,False,False,False,True
+93,Downtown Dubai,2100000,826,2542.37,1,2,False,False,False,False,False,False,False,False
+94,Palm Jumeirah,3499000,1633,2142.68,2,2,False,True,False,False,False,False,False,True
+95,Dubai Marina,5500000,2609,2108.09,4,5,False,False,False,False,False,False,False,True
+96,Dubai Marina,2100000,1579,1329.96,2,3,False,False,False,False,False,False,False,False
+97,DIFC,1845000,1526,1209.04,2,2,False,False,False,False,False,False,False,True
+98,Al Barari,1800000,1964,916.5,1,2,False,True,False,False,False,False,False,True
+99,Dubai Production City (IMPZ),600000,1256,477.71,2,3,False,False,False,False,False,False,False,True
+100,Downtown Dubai,1155000,753,1533.86,1,2,False,False,False,False,False,False,False,True
+101,The Hills,2095000,1436,1458.91,2,3,False,True,False,False,False,True,False,True
+102,Downtown Dubai,1900000,1438,1321.28,2,3,False,False,True,False,False,True,False,True
+103,Palm Jumeirah,1800000,1490,1208.05,1,2,False,False,False,False,False,False,False,True
+104,Palm Jumeirah,1800000,1490,1208.05,1,2,False,False,False,False,False,False,False,True
+105,Jumeirah Village Circle,890000,1400,635.71,1,2,False,False,False,False,False,False,False,False
+106,Palm Jumeirah,3600000,1724,2088.17,2,3,False,False,False,False,False,False,False,True
+107,Dubai Marina,1845000,1346,1370.73,2,2,False,True,False,False,False,False,False,True
+108,DIFC,1850000,1623,1139.86,2,3,False,False,True,False,False,False,False,True
+109,Palm Jumeirah,4995000,2990,1670.57,3,4,True,False,False,False,False,False,False,True
+110,Palm Jumeirah,3000000,2201,1363.02,3,4,False,False,False,False,False,False,False,True
+111,Business Bay,610000,458,1331.88,0,1,False,False,False,False,False,False,False,False
+112,City Walk,2850000,1734,1643.6,2,4,False,False,False,False,False,False,False,True
+113,City Walk,3315000,1950,1700.0,2,4,False,False,False,False,False,False,False,False
+114,Downtown Dubai,1800000,1209,1488.83,2,3,False,False,True,False,False,False,False,True
+115,Downtown Dubai,2100000,1354,1550.96,2,3,False,False,True,False,False,False,False,True
+116,Downtown Dubai,1400000,860,1627.91,1,2,False,False,False,False,False,False,False,False
+117,Old Town,2300000,1338,1718.98,2,3,False,False,False,False,False,False,False,False
+118,Business Bay,2300000,1442,1595.01,2,3,False,False,False,False,False,False,False,True
+119,The Views,1335000,1336,999.25,2,2,False,False,False,False,False,False,False,False
+120,Downtown Dubai,2200000,1891,1163.41,3,4,False,True,False,False,False,False,False,False
+121,Dubai Hills Estate,1100000,1087,1011.96,2,2,False,False,False,False,False,False,False,False
+122,Dubai Hills Estate,700000,646,1083.59,1,1,False,False,False,False,False,False,False,False
+123,Dubai Sports City,700000,883,792.75,2,2,False,False,False,False,False,False,False,True
+124,City Walk,3680000,2574,1429.68,3,5,False,False,False,False,False,False,False,False
+125,Downtown Dubai,10000000,3399,2942.04,4,5,True,True,False,True,True,True,True,False
+126,Downtown Dubai,2200000,1447,1520.39,2,2,False,False,False,False,False,False,False,True
+127,Old Town,1820000,1185,1535.86,1,2,True,False,False,False,False,False,False,True
+128,Palm Jumeirah,655888,380,1726.02,0,1,False,True,False,False,False,False,False,True
+129,Dubai Hills Estate,2300000,1953,1177.68,3,5,False,True,False,False,False,False,False,True
+130,City Walk,3200000,1830,1748.63,2,4,False,False,False,False,False,False,False,False
+131,Dubai Marina,2175000,1385,1570.4,2,3,False,False,True,False,False,False,False,False
+132,Jumeirah Village Circle,700000,846,827.42,1,1,False,True,True,False,False,False,False,True
+133,Dubai Marina,850000,759,1119.89,2,2,False,False,False,False,False,False,False,True
+134,Dubai Hills Estate,1066888,718,1485.92,1,1,False,False,False,False,False,False,True,True
+135,Palm Jumeirah,2500000,1356,1843.66,2,3,True,True,False,False,False,False,False,True
+136,Jumeirah Village Circle,1502000,1460,1028.77,3,3,False,False,True,False,False,False,False,True
+137,Dubai Silicon Oasis,860000,1800,477.78,2,3,False,False,True,False,False,True,False,True
+138,Downtown Dubai,1000000,915,1092.9,1,1,False,False,False,False,False,False,False,False
+139,Dubai Marina,850000,545,1559.63,0,2,False,True,False,False,False,True,False,True
+140,Downtown Dubai,3400000,1566,2171.14,2,3,False,False,False,False,False,False,False,True
+141,Downtown Dubai,5500000,2310,2380.95,3,4,True,False,False,False,False,False,False,False
+142,Jumeirah Village Circle,813000,935,869.52,2,2,False,False,False,False,False,False,False,False
+143,City Walk,3399000,2084,1631.0,3,4,False,False,False,False,False,False,False,True
+144,Dubai Marina,1589950,1302,1221.16,2,3,False,False,True,False,False,False,False,True
+145,Jumeirah Beach Residence,10560000,3638,2902.69,4,3,True,False,True,False,False,False,False,True
+146,Dubai Sports City,390000,849,459.36,1,2,False,False,False,False,False,False,False,True
+147,The Views,1650000,1458,1131.69,2,2,False,False,True,False,False,False,False,True
+148,Jumeirah Beach Residence,1200000,1262,950.87,2,2,False,False,False,False,False,False,False,True
+149,Palm Jumeirah,5400000,4526,1193.11,4,5,True,True,False,False,False,False,False,True
+150,Jumeirah Beach Residence,14800000,5018,2949.38,5,5,True,True,False,False,True,False,False,True
+151,Palm Jumeirah,1700000,1509,1126.57,1,1,False,False,False,False,False,False,False,False
+152,Jumeirah Beach Residence,810000,779,1039.79,1,2,False,False,True,False,False,False,False,True
+153,Downtown Dubai,2350000,1391,1689.43,2,3,False,False,False,False,False,False,False,False
+154,Downtown Dubai,3000000,796,3768.84,1,2,False,False,False,False,False,False,False,True
+155,Jumeirah Lake Towers,920000,1315,699.62,3,2,False,False,False,False,False,False,False,True
+156,Palm Jumeirah,2000000,1040,1923.08,1,2,False,False,False,False,False,False,False,True
+157,Palm Jumeirah,1325000,1144,1158.22,1,1,False,False,False,False,False,False,False,False
+158,Downtown Dubai,2850000,1244,2291.0,2,2,False,True,False,False,False,False,False,True
+159,Downtown Dubai,1650000,792,2083.33,1,2,False,True,False,False,False,False,False,True
+160,Dubai Sports City,410000,969,423.12,1,2,False,True,False,False,False,False,False,True
+161,Umm Suqeim,3700000,1860,1989.25,3,4,True,False,True,False,False,False,False,True
+162,Jumeirah Village Circle,670000,726,922.87,1,2,False,False,False,False,False,False,False,False
+163,Downtown Dubai,1100000,1182,930.63,1,2,False,True,False,False,False,False,False,True
+164,Greens,620000,767,808.34,1,1,False,False,False,False,False,False,False,True
+165,Business Bay,2000000,1414,1414.43,3,3,False,False,False,False,False,False,False,True
+166,Jumeirah Village Circle,662000,634,1044.16,1,2,False,False,False,False,False,False,False,True
+167,Downtown Dubai,1992888,858,2322.71,1,1,False,True,False,False,False,False,False,True
+168,Jumeirah Lake Towers,525000,569,922.67,1,1,False,False,False,False,False,False,False,True
+169,Dubai Marina,1990000,1556,1278.92,2,2,False,False,False,False,False,False,False,False
+170,Jumeirah Lake Towers,767000,811,945.75,1,2,False,False,True,False,False,False,False,True
+171,Dubai Hills Estate,1096888,650,1687.52,1,1,False,False,True,False,False,False,False,True
+172,Dubai Hills Estate,749888,482,1555.78,1,1,False,False,False,False,False,False,True,True
+173,Jumeirah Village Circle,900000,1439,625.43,2,3,False,False,True,False,False,False,False,True
+174,Jumeirah Village Circle,575000,771,745.78,1,2,False,False,True,False,False,False,False,True
+175,Palm Jumeirah,1650000,1974,835.87,2,4,True,False,True,False,False,False,False,False
+176,Dubai Marina,1600000,977,1637.67,1,2,False,False,False,False,False,False,False,True
+177,The Hills,1900000,1436,1323.12,2,3,False,True,False,False,False,True,False,True
+178,Dubai Marina,1700000,1694,1003.54,2,3,False,False,True,False,False,False,False,True
+179,Jumeirah Beach Residence,1150000,1289,892.16,2,2,False,False,False,False,False,False,False,False
+180,Dubai Marina,1200000,1468,817.44,2,3,False,True,True,False,False,False,False,True
+181,Business Bay,1400000,864,1620.37,1,2,False,True,True,False,False,False,False,True
+182,Jumeirah Lake Towers,875000,1327,659.38,2,3,True,False,False,False,False,False,False,True
+183,Jumeirah Lake Towers,640000,897,713.49,1,2,False,False,True,False,False,False,False,True
+184,Dubai Marina,1150000,1684,682.9,2,2,False,False,False,False,False,True,False,True
+185,Downtown Dubai,1275000,812,1570.2,1,1,False,True,False,False,False,False,False,True
+186,Downtown Dubai,3000000,1150,2608.7,2,2,False,False,True,False,False,False,False,False
+187,Downtown Dubai,2500000,1900,1315.79,3,4,True,True,False,False,False,False,False,True
+188,Downtown Dubai,1450000,1020,1421.57,1,1,False,True,False,False,False,False,False,True
+189,Downtown Dubai,949000,916,1036.03,1,1,False,False,True,False,False,False,False,True
+190,Downtown Dubai,880000,847,1038.96,1,2,False,False,False,False,False,False,False,False
+191,DIFC,1850000,1634,1132.19,2,3,False,False,False,False,False,False,False,False
+192,Jumeirah Beach Residence,2700000,3000,900.0,4,5,True,False,False,False,False,False,False,True
+193,Palm Jumeirah,2950000,2248,1312.28,3,2,False,False,False,False,False,False,False,False
+194,Jumeirah Village Triangle,310000,425,729.41,0,1,False,False,False,False,False,False,False,False
+195,Palm Jumeirah,3600000,2279,1579.64,3,4,False,False,False,False,False,False,True,True
+196,Downtown Dubai,3999900,2008,1991.98,3,4,False,False,False,False,False,True,False,True
+197,Jumeirah Village Circle,410000,738,555.56,1,1,False,False,False,False,False,False,False,True
+198,Mohammed Bin Rashid City,2100000,1457,1441.32,2,3,True,False,False,False,False,False,False,True
+199,Dubai Harbour,1464888,867,1689.61,1,1,False,False,False,False,False,False,False,True
+200,Dubai Marina,1199999,1072,1119.4,1,2,False,False,False,False,False,False,False,True
+201,Bluewaters,3150000,1448,2175.41,2,3,False,False,True,False,False,False,False,True
+202,Dubai Marina,1150000,768,1497.4,1,1,False,True,False,False,False,False,False,True
+203,Business Bay,925000,1395,663.08,1,2,False,False,False,False,False,False,False,True
+204,Downtown Dubai,4500000,1751,2569.96,2,3,False,False,False,False,False,False,False,True
+205,Dubai Marina,800000,1219,656.28,2,3,False,False,True,False,False,False,False,True
+206,Jumeirah Village Circle,625000,1007,620.66,2,2,False,True,False,False,False,False,True,True
+207,Downtown Dubai,2650000,1365,1941.39,2,2,False,False,False,False,False,False,False,True
+208,DIFC,2400000,2030,1182.27,2,3,False,False,True,False,False,False,False,True
+209,DIFC,2050000,1724,1189.1,2,3,False,True,True,False,False,False,False,True
+210,DIFC,5800000,3330,1741.74,3,4,True,True,True,False,False,False,False,True
+211,Dubai Marina,1450000,1970,736.04,3,4,False,False,True,False,False,False,False,True
+212,Meydan,758500,590,1285.59,1,1,False,True,False,False,False,False,False,True
+213,Al Furjan,1051938,1191,883.24,2,3,False,False,True,False,False,False,False,True
+214,Business Bay,7500000,7344,1021.24,3,5,True,False,True,False,False,False,False,False
+215,Jumeirah Village Circle,600000,670,895.52,1,2,False,False,False,False,False,False,False,False
+216,Jumeirah,14000000,3168,4419.19,3,5,False,False,False,False,False,False,False,False
+217,The Views,1699999,1642,1035.32,2,2,False,True,True,False,False,True,False,True
+218,International City,305000,743,410.5,1,2,False,False,False,False,False,False,False,False
+219,Dubai Hills Estate,1300000,1356,958.7,2,3,False,False,False,False,False,False,False,False
+220,Old Town,1250000,954,1310.27,1,1,False,False,False,False,False,False,False,True
+221,Dubai Marina,1250000,1348,927.3,2,3,False,False,False,False,False,False,False,False
+222,Palm Jumeirah,2350000,2524,931.06,3,4,False,False,False,False,False,False,False,False
+223,Dubai Marina,1400000,822,1703.16,1,2,False,True,True,False,False,False,False,True
+224,Dubai Marina,2750000,1674,1642.77,3,4,False,True,False,False,False,False,False,True
+225,Arjan,683001,561,1217.47,1,1,False,True,False,False,False,True,False,True
+226,Jumeirah Beach Residence,1690000,1877,900.37,3,4,False,False,False,False,False,False,False,True
+227,Downtown Dubai,1450000,1390,1043.17,2,2,False,False,False,False,False,False,False,True
+228,Palm Jumeirah,2606000,1303,2000.0,2,3,True,False,False,False,False,False,False,True
+229,The Views,1375000,1349,1019.27,2,2,False,False,False,False,False,False,False,False
+230,Palm Jumeirah,2600000,1475,1762.71,2,3,False,False,False,False,False,False,False,True
+231,Palm Jumeirah,7649000,2942,2599.93,3,4,True,True,False,False,False,False,False,True
+232,Jumeirah Village Circle,480000,829,579.01,1,2,False,False,True,False,False,False,False,False
+233,Dubai Marina,2400000,1508,1591.51,2,3,False,False,False,False,False,False,False,False
+234,Dubai Marina,800000,522,1532.57,0,1,False,False,False,False,False,False,False,True
+235,Downtown Dubai,10820000,2840,3809.86,4,5,False,True,False,False,False,False,False,True
+236,Motor City,629000,1051,598.48,1,1,False,False,False,False,False,False,False,True
+237,Dubai Sports City,430000,793,542.24,1,2,False,False,True,False,False,False,False,False
+238,Jumeirah Village Circle,410000,796,515.08,1,2,False,False,True,False,False,True,False,True
+239,The Views,1690000,1305,1295.02,2,2,False,False,False,False,False,False,False,False
+240,Jumeirah Lake Towers,400888,415,966.0,0,1,False,False,False,False,False,False,False,True
+241,Downtown Dubai,2100000,1312,1600.61,2,2,False,False,False,False,False,False,False,False
+242,DAMAC Hills,650000,825,787.88,1,2,False,False,False,False,False,False,False,True
+243,Dubai Marina,1290000,2173,593.65,3,3,True,False,True,False,False,False,False,True
+244,Dubai Sports City,420000,768,546.88,1,1,False,False,False,False,False,False,False,True
+245,Dubai Marina,1950000,1410,1382.98,2,3,False,False,False,False,False,False,False,False
+246,Downtown Dubai,1600000,1450,1103.45,2,3,False,True,True,False,False,False,False,True
+247,Dubai Marina,685000,844,811.61,1,1,False,False,True,False,False,False,False,True
+248,Downtown Dubai,1399900,767,1825.16,1,2,False,True,False,False,False,False,False,True
+249,Downtown Dubai,3400000,1703,1996.48,3,4,False,False,False,False,False,False,False,True
+250,Downtown Dubai,1389900,900,1544.33,1,2,False,False,False,False,False,False,False,True
+251,Dubai Marina,850000,708,1200.56,1,2,False,False,False,False,False,False,False,False
+252,Dubai Marina,1425000,950,1500.0,1,2,False,False,False,False,False,False,False,True
+253,Jumeirah Village Triangle,462888,402,1151.46,1,2,False,False,False,False,False,False,False,False
+254,Mohammed Bin Rashid City,825828,539,1532.15,0,1,False,True,True,False,False,False,False,True
+255,Dubai Production City (IMPZ),850000,1083,784.86,2,2,False,False,False,False,False,False,False,True
+256,Dubai Marina,3050000,3201,952.83,4,5,False,True,False,False,False,False,False,False
+257,Mohammed Bin Rashid City,808520,492,1643.33,1,1,False,True,True,False,False,False,False,True
+258,Palm Jumeirah,1760000,1943,905.82,2,3,False,False,False,False,False,False,False,False
+259,Dubai Marina,850000,592,1435.81,1,1,False,True,False,False,False,False,False,True
+260,Dubai Marina,1690000,1176,1437.07,2,2,False,True,False,False,False,False,False,True
+261,Jumeirah Village Circle,617000,850,725.88,1,2,False,True,True,False,False,False,False,True
+262,Downtown Dubai,3850000,2024,1902.17,3,3,False,False,False,False,False,False,False,False
+263,Dubai Marina,1355000,1760,769.89,2,3,False,False,True,False,False,False,False,True
+264,Downtown Dubai,1375000,856,1606.31,1,2,False,False,False,False,False,False,False,False
+265,Dubai Marina,1599999,2172,736.65,3,3,True,False,False,False,False,False,False,True
+266,Falcon City of Wonders,863400,549,1572.68,1,2,False,True,False,False,False,False,False,True
+267,Falcon City of Wonders,641700,405,1584.44,0,1,False,True,False,False,False,False,False,True
+268,Palm Jumeirah,1250000,1355,922.51,1,1,False,False,False,False,False,False,False,False
+269,Dubai Marina,3200000,2280,1403.51,3,4,False,False,False,False,False,False,False,False
+270,Downtown Dubai,1700000,1663,1022.25,2,3,False,False,False,False,False,False,False,False
+271,Dubai Marina,2050000,1500,1366.67,2,3,False,False,False,False,False,False,False,False
+272,Business Bay,1441498,1417,1017.29,2,3,False,False,False,False,False,False,False,True
+273,Business Bay,2299880,2370,970.41,3,4,False,False,False,False,False,False,False,True
+274,Downtown Dubai,1789000,986,1814.4,1,2,False,False,False,False,False,False,False,True
+275,Dubai Marina,3450000,1746,1975.95,3,3,False,True,True,False,False,False,False,True
+276,Downtown Dubai,3094900,1285,2408.48,2,3,False,True,False,False,False,False,False,True
+277,Palm Jumeirah,1890000,1587,1190.93,1,1,False,True,False,False,False,False,False,True
+278,Dubai Marina,1500000,926,1619.87,1,2,False,True,False,False,False,False,False,False
+279,Dubai Marina,1800000,1056,1704.55,2,2,True,False,False,False,False,False,False,True
+280,Palm Jumeirah,5790000,3447,1679.72,3,4,True,True,False,False,False,False,False,True
+281,Dubai Creek Harbour (The Lagoons),2800000,1930,1450.78,3,3,False,False,True,False,False,False,False,True
+282,Palm Jumeirah,2800000,2250,1244.44,3,4,False,False,False,False,False,False,False,True
+283,Palm Jumeirah,2399999,2439,984.01,3,4,False,False,False,True,False,False,True,True
+284,Dubai Creek Harbour (The Lagoons),864000,690,1252.17,1,1,False,False,False,False,False,False,False,True
+285,Jumeirah Beach Residence,1540000,640,2406.25,1,2,False,True,False,False,False,False,False,True
+286,Jumeirah Beach Residence,1600000,639,2503.91,1,2,False,False,False,False,False,False,False,True
+287,Jumeirah Beach Residence,2320000,1160,2000.0,2,3,False,True,False,False,False,False,False,True
+288,Jumeirah Beach Residence,2320000,1981,1171.13,2,3,False,True,False,False,False,False,False,True
+289,Jumeirah Beach Residence,2450000,1181,2074.51,2,3,False,True,False,False,False,False,False,True
+290,Jumeirah Beach Residence,2450000,1181,2074.51,2,3,False,True,False,False,False,False,False,True
+291,Downtown Dubai,2700000,1300,2076.92,2,3,False,True,False,False,False,False,False,False
+292,Downtown Dubai,2167888,800,2709.86,1,2,False,True,False,False,False,False,False,True
+293,Downtown Dubai,1700000,977,1740.02,1,2,False,True,False,False,False,False,False,True
+294,Dubai Creek Harbour (The Lagoons),1667888,1170,1425.55,2,3,False,True,False,False,False,False,False,True
+295,Dubai Creek Harbour (The Lagoons),1399888,820,1707.18,1,2,False,True,False,False,False,False,False,True
+296,Dubai Hills Estate,1051888,727,1446.89,2,3,False,False,False,False,False,False,False,False
+297,Dubai Hills Estate,1050888,723,1453.51,2,3,False,False,False,False,False,False,False,False
+298,Dubai Hills Estate,1021888,742,1377.21,2,3,False,False,False,False,False,False,False,False
+299,Dubai Creek Harbour (The Lagoons),1040000,643,1617.42,1,2,False,True,False,False,False,False,False,False
+300,Dubai Marina,1964888,992,1980.73,1,2,False,True,False,False,False,False,False,True
+301,Dubai Harbour,1370888,746,1837.65,1,2,False,True,False,False,False,False,False,True
+302,Dubai Harbour,1722888,789,2183.63,1,2,False,True,False,False,False,False,False,True
+303,Dubai Harbour,1949888,1139,1711.93,2,3,False,True,False,False,False,False,False,True
+304,Dubai Harbour,4000000,2097,1907.49,3,4,False,True,False,False,False,False,False,True
+305,Dubai Harbour,1500000,745,2013.42,1,2,False,False,False,False,False,True,False,True
+306,Dubai Harbour,1150000,729,1577.5,1,2,False,True,False,False,False,False,False,True
+307,Dubai Creek Harbour (The Lagoons),2500000,1501,1665.56,2,3,False,True,False,False,False,False,False,True
+308,Dubai Creek Harbour (The Lagoons),1739999,1143,1522.31,2,3,False,True,False,False,False,False,False,True
+309,Business Bay,5460661,1400,3900.47,2,3,False,False,False,False,False,False,False,False
+310,Dubai Hills Estate,1471888,996,1477.8,2,3,False,True,False,False,False,False,False,True
+311,Dubai Hills Estate,1165000,998,1167.33,2,3,False,True,False,False,False,False,False,True
+312,Dubai Marina,1900000,2352,807.82,2,3,False,True,False,False,False,False,False,True
+313,Dubai Creek Harbour (The Lagoons),3621888,1847,1960.96,3,4,False,True,False,False,False,False,False,True
+314,Downtown Dubai,1780888,998,1784.46,2,3,False,True,False,False,False,False,False,False
+315,Downtown Dubai,1780888,994,1791.64,2,3,False,False,False,False,False,False,False,False
+316,Dubai Creek Harbour (The Lagoons),2042888,1393,1466.54,3,4,False,True,False,False,False,False,False,True
+317,Jumeirah,1710000,1301,1314.37,2,3,False,False,False,False,False,False,False,False
+318,Jumeirah,6400000,2932,2182.81,4,5,False,False,False,False,False,False,False,True
+319,Jumeirah,1234000,817,1510.4,1,2,False,False,False,False,False,False,False,True
+320,Jumeirah,1737000,1290,1346.51,2,3,False,False,False,False,False,False,False,False
+321,Jumeirah,1459000,794,1837.53,1,2,False,False,False,False,False,False,False,True
+322,Jumeirah,1868000,1216,1536.18,2,3,False,True,False,False,False,False,False,True
+323,Umm Suqeim,2008000,1348,1489.61,2,3,False,True,False,False,False,False,False,True
+324,Business Bay,1592892,1323,1204.0,2,3,False,False,False,False,False,False,False,False
+325,Business Bay,1650000,1300,1269.23,2,3,False,True,False,False,False,False,False,True
+326,Palm Jumeirah,649888,314,2069.71,0,1,False,True,False,False,False,False,False,True
+327,Palm Jumeirah,876888,353,2484.1,0,1,False,True,False,False,False,False,False,True
+328,Dubai Marina,1600000,975,1641.03,1,2,False,False,False,False,False,False,False,True
+329,Dubai Harbour,1750000,1109,1578.0,2,3,False,True,False,False,False,False,False,False
+330,Downtown Dubai,1950000,1120,1741.07,2,2,False,True,False,False,False,False,False,True
+331,Downtown Dubai,1550000,1216,1274.67,2,3,False,True,False,False,False,False,False,True
+332,Dubai Silicon Oasis,850000,1650,515.15,2,3,False,False,True,False,False,True,False,True
+333,Culture Village,1500000,1357,1105.38,2,3,True,True,False,False,False,False,False,True
+334,Jumeirah Village Circle,657903,851,773.09,1,2,False,True,True,False,False,False,False,True
+335,Jumeirah,1367000,818,1671.15,1,1,False,False,False,False,False,False,False,False
+336,Downtown Dubai,18614888,5383,3458.09,4,6,False,True,False,False,True,True,True,False
+337,Mina Rashid,1500888,2070,725.07,2,2,False,False,True,False,False,False,False,True
+338,Dubai Sports City,520000,1071,485.53,2,3,False,False,False,False,False,False,False,True
+339,Dubai Marina,1900000,2314,821.09,2,2,False,False,False,False,False,False,False,True
+340,Palm Jumeirah,1750000,1750,1000.0,2,3,False,True,False,False,False,False,False,True
+341,Al Barari,4500000,3845,1170.35,3,4,False,False,False,False,False,False,False,False
+342,Dubai Marina,3000000,3180,943.4,4,4,True,True,True,False,False,False,True,True
+343,Downtown Dubai,12930000,3049,4240.73,4,6,False,False,False,False,False,False,False,False
+344,Dubai Hills Estate,1750000,1606,1089.66,3,3,True,True,False,False,False,False,False,True
+345,The Views,1375000,1380,996.38,2,3,False,False,True,False,False,False,False,True
+346,Bluewaters,3100000,1488,2083.33,2,3,False,True,False,False,False,False,False,True
+347,Downtown Dubai,1690000,1150,1469.57,2,2,False,True,True,False,False,True,True,True
+348,Business Bay,799900,989,808.8,1,1,False,True,True,False,False,True,False,True
+349,Town Square,580000,631,919.18,1,1,False,False,True,True,False,False,False,True
+350,Old Town,1700000,1335,1273.41,2,3,False,False,False,False,False,False,False,False
+351,Palm Jumeirah,1699000,1338,1269.81,1,2,False,False,False,False,False,False,True,True
+352,Downtown Dubai,1400000,1299,1077.75,2,3,False,False,False,False,False,False,False,False
+353,Dubai Marina,2450000,2204,1111.62,3,4,False,False,False,False,False,False,False,False
+354,City Walk,2298999,1862,1234.69,2,3,False,False,False,False,False,False,False,True
+355,Business Bay,605000,513,1179.34,0,1,False,True,False,False,False,False,False,True
+356,Dubai Silicon Oasis,599000,885,676.84,1,2,False,False,True,False,False,False,False,True
+357,Downtown Dubai,4681888,1720,2722.03,2,3,False,False,False,False,False,False,False,False
+358,Jumeirah Beach Residence,2500000,1817,1375.89,2,3,False,True,False,False,False,False,False,True
+359,Dubai Marina,1800000,1281,1405.15,2,3,False,True,False,False,False,False,False,True
+360,Dubai Marina,1890000,1255,1505.98,2,3,False,False,False,False,False,False,False,True
+361,Palm Jumeirah,1750000,1812,965.78,2,3,False,False,False,False,False,False,False,False
+362,Downtown Dubai,1100000,730,1506.85,1,1,False,False,False,False,False,False,False,False
+363,Dubai Hills Estate,900000,989,910.01,1,1,False,False,False,False,False,False,False,False
+364,Green Community,1295000,2554,507.05,3,2,False,False,False,False,False,False,False,False
+365,Dubai Marina,1640000,1302,1259.6,2,3,False,True,True,False,False,False,False,True
+366,Jumeirah,1200000,733,1637.11,1,2,False,False,False,False,False,False,False,True
+367,Dubai Silicon Oasis,350000,535,654.21,0,1,False,False,True,False,False,False,False,True
+368,Dubai Marina,1150000,1210,950.41,2,4,True,False,True,False,False,False,False,True
+369,Jumeirah Village Circle,589000,844,697.87,1,2,False,False,False,False,False,False,False,True
+370,Dubai Marina,1670000,1366,1222.55,2,3,True,False,False,False,False,False,False,True
+371,Motor City,1550000,2931,528.83,3,3,False,False,False,False,False,False,False,False
+372,Downtown Dubai,1650000,872,1892.2,1,2,False,False,False,False,False,False,False,False
+373,Palm Jumeirah,2650000,1493,1774.95,2,2,False,False,False,False,False,False,False,True
+374,Palm Jumeirah,1930000,2046,943.3,2,3,False,False,False,False,False,False,False,True
+375,Jumeirah Village Circle,368000,385,955.84,0,1,False,False,True,False,False,False,False,True
+376,Downtown Dubai,5500000,2285,2407.0,4,4,False,False,False,False,False,False,False,True
+377,Downtown Dubai,3900000,1978,1971.69,3,4,False,False,False,False,False,False,False,False
+378,Dubai Marina,1500000,1727,868.56,2,3,False,False,True,False,False,True,False,True
+379,Downtown Dubai,1650000,1104,1494.57,2,3,True,True,True,False,False,True,False,True
+380,Jumeirah Village Circle,1150000,1607,715.62,3,4,False,False,False,False,False,False,False,False
+381,Jumeirah,1890000,1023,1847.51,2,3,False,False,False,False,False,False,True,True
+382,Downtown Dubai,15800000,5253,3007.81,4,5,False,False,False,True,True,False,True,False
+383,Downtown Dubai,3000000,1317,2277.9,2,3,False,True,False,False,False,False,False,True
+384,Downtown Dubai,4000000,1908,2096.44,3,3,False,True,True,False,False,False,False,True
+385,Dubai Marina,1625000,875,1857.14,1,2,False,False,False,False,False,False,False,False
+386,Downtown Dubai,2243000,1293,1734.73,2,2,False,False,True,False,False,False,False,True
+387,Jumeirah Lake Towers,800000,1028,778.21,1,2,False,False,True,False,False,False,False,True
+388,Downtown Dubai,2650000,1616,1639.85,3,4,False,True,False,False,False,False,False,True
+389,Downtown Dubai,1239000,747,1658.63,1,1,False,True,True,False,False,False,False,True
+390,Downtown Dubai,4100000,1774,2311.16,2,3,False,False,False,False,False,False,False,False
+391,Dubai Hills Estate,2600888,1583,1643.01,3,3,False,True,False,False,False,False,False,True
+392,Jumeirah,1200000,733,1637.11,1,1,False,False,False,False,False,False,False,False
+393,Palm Jumeirah,3150000,1645,1914.89,2,2,True,True,False,False,False,False,False,True
+394,Jumeirah Beach Residence,1100000,1101,999.09,1,2,False,True,True,False,False,False,False,True
+395,Jumeirah Beach Residence,2499000,1463,1708.13,2,3,False,True,True,False,False,False,False,True
+396,Dubai Hills Estate,1061888,730,1454.64,2,2,False,False,True,False,False,False,False,True
+397,Town Square,930888,930,1000.95,2,2,False,False,True,False,False,False,False,True
+398,Town Square,453888,339,1338.9,0,1,False,False,True,False,False,False,False,True
+399,Dubai Hills Estate,2040888,1607,1270.0,3,3,False,False,True,False,False,False,False,True
+400,Dubai Marina,1100000,829,1326.9,2,2,False,True,False,False,False,False,False,True
+401,Mohammed Bin Rashid City,1261142,742,1699.65,1,2,False,True,False,False,False,False,False,True
+402,Dubai Marina,1170000,980,1193.88,1,2,False,False,True,False,False,False,False,False
+403,Palm Jumeirah,2499000,1367,1828.09,2,5,False,False,False,False,False,False,False,False
+404,Al Kifaf,1642777,998,1646.07,1,2,False,False,True,False,False,False,False,True
+405,Dubai Hills Estate,1450000,1487,975.12,2,3,False,False,False,False,False,False,False,False
+406,Mohammed Bin Rashid City,1276686,760,1679.85,1,2,False,True,False,False,False,False,False,True
+407,Al Kifaf,1550000,990,1565.66,1,2,False,False,True,False,False,False,False,True
+408,Al Kifaf,2046777,1634,1252.62,2,3,False,False,False,False,False,False,False,True
+409,City Walk,3700000,2270,1629.96,3,4,False,False,False,False,False,False,False,True
+410,Palm Jumeirah,2800000,2156,1298.7,3,4,False,False,False,False,False,False,False,False
+411,Downtown Dubai,2999900,1778,1687.23,2,3,False,False,False,False,False,False,False,False
+412,Dubai Marina,2650000,1786,1483.76,3,4,False,False,False,False,False,False,False,False
+413,Palm Jumeirah,3500000,1766,1981.88,2,3,False,True,False,False,False,True,False,True
+414,DIFC,1300000,1133,1147.4,1,2,False,False,False,False,False,False,False,False
+415,Jumeirah Beach Residence,2950000,1503,1962.74,2,3,False,True,False,False,False,False,False,True
+416,Jumeirah Beach Residence,1780000,1028,1731.52,1,2,False,True,False,False,False,False,False,True
+417,Meydan,675000,826,817.19,1,1,False,False,False,False,False,False,False,False
+418,DIFC,1450000,1274,1138.15,1,2,False,True,True,False,False,False,False,True
+419,Downtown Dubai,1010000,860,1174.42,1,2,False,True,False,False,False,False,False,True
+420,Jumeirah Beach Residence,5750000,2574,2233.88,3,5,True,True,False,False,False,False,False,True
+421,DIFC,1250000,1133,1103.27,1,2,False,False,False,False,False,False,False,True
+422,Downtown Dubai,4649900,2663,1746.11,3,4,True,True,False,False,False,True,False,True
+423,Dubai Marina,1250000,1210,1033.06,2,3,False,True,False,False,False,False,False,True
+424,Downtown Dubai,2049999,1039,1973.05,2,3,False,True,False,False,False,False,False,True
+425,Town Square,888000,888,1000.0,2,2,False,False,False,False,False,True,False,True
+426,Business Bay,16950000,4907,3454.25,3,3,False,False,False,False,False,False,False,True
+427,Business Bay,30950000,7922,3906.84,4,4,False,False,False,False,False,False,False,True
+428,Dubai Harbour,1225000,735,1666.67,1,2,False,True,False,False,False,False,False,True
+429,Downtown Dubai,2577888,1352,1906.72,3,4,False,False,False,False,False,False,False,False
+430,Palm Jumeirah,1025888,720,1424.84,1,2,False,False,False,False,False,False,False,True
+431,Dubai Marina,913548,529,1726.93,0,1,False,False,False,False,False,False,False,True
+432,Downtown Dubai,2250000,1700,1323.53,2,3,False,True,False,False,False,False,False,True
+433,DIFC,1275000,893,1427.77,1,1,False,True,True,False,False,True,False,True
+434,DAMAC Hills,350000,527,664.14,0,1,False,False,False,False,False,False,False,True
+435,Dubai Creek Harbour (The Lagoons),780000,707,1103.25,1,1,False,False,False,False,False,False,False,False
+436,Downtown Dubai,1650000,1049,1572.93,2,3,False,False,False,False,False,False,False,False
+437,Jumeirah Village Circle,424340,385,1102.18,0,1,False,False,True,False,False,False,False,True
+438,Palm Jumeirah,1800000,1100,1636.36,1,2,False,False,False,False,False,False,False,True
+439,Palm Jumeirah,3175000,2281,1391.93,3,4,False,True,False,False,False,False,False,True
+440,Dubai Marina,1500000,1525,983.61,2,3,False,False,True,False,False,False,False,True
+441,Palm Jumeirah,1850000,935,1978.61,1,2,False,False,False,False,False,False,False,True
+442,Dubai Hills Estate,990000,722,1371.19,1,1,False,False,False,False,False,False,False,True
+443,Dubai Hills Estate,750000,648,1157.41,1,1,False,False,False,False,False,False,False,True
+444,Business Bay,900000,1036,868.73,1,1,False,True,True,False,False,False,False,True
+445,Jumeirah,1700000,1164,1460.48,2,3,False,False,False,False,False,False,False,True
+446,Jumeirah,1271000,732,1736.34,1,2,False,False,False,False,False,False,False,True
+447,Town Square,485000,603,804.31,1,1,False,False,False,False,False,False,False,True
+448,Palm Jumeirah,1125000,1300,865.38,1,1,False,False,False,False,False,False,False,False
+449,Downtown Dubai,1000000,681,1468.43,1,2,False,False,False,False,False,False,False,False
+450,Business Bay,700000,563,1243.34,0,1,False,False,False,False,False,False,False,False
+451,Business Bay,725000,692,1047.69,0,1,False,False,False,False,False,False,False,False
+452,Palm Jumeirah,1300000,1799,722.62,2,3,False,False,False,False,False,False,False,False
+453,Al Barsha,778000,730,1065.75,1,2,False,False,True,False,False,False,False,True
+454,Dubai Marina,2099999,1382,1519.54,2,3,False,False,False,False,False,False,False,False
+455,Palm Jumeirah,17910000,6246,2867.44,4,5,False,True,False,False,False,False,True,False
+456,Palm Jumeirah,15460000,4331,3569.61,3,4,False,True,False,False,False,False,True,False
+457,Al Furjan,700000,1000,700.0,2,3,False,False,True,False,False,False,False,True
+458,Jumeirah Lake Towers,450000,500,900.0,0,1,False,False,False,False,False,False,False,False
+459,Downtown Dubai,1275000,1282,994.54,2,3,False,False,False,False,False,False,False,True
+460,Palm Jumeirah,15490000,3944,3927.48,3,4,False,True,False,False,False,False,True,False
+461,Palm Jumeirah,15830000,3554,4454.14,3,4,False,True,False,False,False,False,True,False
+462,Palm Jumeirah,15910000,3492,4556.13,4,5,False,True,False,False,False,False,True,False
+463,Palm Jumeirah,21990000,6252,3517.27,4,5,False,True,False,False,False,False,True,False
+464,Palm Jumeirah,21870000,5188,4215.5,4,5,False,True,False,False,False,False,True,False
+465,Palm Jumeirah,22640000,5505,4112.62,4,5,False,True,False,False,False,False,True,False
+466,Mohammed Bin Rashid City,1246305,780,1597.83,1,2,True,True,True,False,False,False,False,True
+467,Mohammed Bin Rashid City,2085804,1109,1880.8,2,3,True,True,True,False,False,False,False,True
+468,Mohammed Bin Rashid City,1246305,780,1597.83,1,2,False,True,False,False,False,False,False,True
+469,Dubai Hills Estate,1400000,1358,1030.93,2,2,False,False,False,False,False,False,False,True
+470,Palm Jumeirah,2850000,1350,2111.11,2,2,False,False,False,False,False,False,False,False
+471,Palm Jumeirah,1100000,1144,961.54,1,1,False,False,False,False,False,False,False,False
+472,Palm Jumeirah,3800000,4053,937.58,3,3,False,False,False,False,False,False,False,False
+473,Business Bay,1100000,952,1155.46,1,2,False,True,True,False,False,True,False,True
+474,Greens,650000,767,847.46,1,1,False,False,False,False,False,False,False,True
+475,Palm Jumeirah,17130000,4595,3727.97,3,4,False,True,False,False,False,False,True,False
+476,Palm Jumeirah,22260000,4923,4521.63,4,5,False,True,False,False,False,False,True,False
+477,Business Bay,490000,563,870.34,0,1,False,False,False,False,False,False,False,False
+478,Dubai Hills Estate,2800000,1993,1404.92,3,4,False,False,True,False,False,False,False,True
+479,Jumeirah Village Circle,450000,1105,407.24,1,2,False,False,False,False,False,False,False,True
+480,Town Square,1400000,1450,965.52,3,3,False,False,False,False,False,False,False,True
+481,Jumeirah Lake Towers,1700000,1992,853.41,2,2,False,True,False,False,False,False,False,True
+482,Palm Jumeirah,3000000,2279,1316.37,3,4,False,False,False,False,False,False,False,True
+483,Town Square,1125888,1850,608.59,3,4,False,True,False,False,False,False,False,True
+484,Jumeirah Beach Residence,1150000,1396,823.78,2,3,False,True,True,False,False,False,False,False
+485,Dubai Marina,1499000,1721,871.01,3,3,False,False,True,False,False,False,False,True
+486,Al Sufouh,990000,722,1371.19,1,2,False,True,False,False,False,False,False,True
+487,Jumeirah Lake Towers,1400000,1680,833.33,2,4,False,False,False,False,False,False,False,False
+488,Town Square,590888,546,1082.21,1,2,False,True,False,False,False,False,False,True
+489,Dubai Hills Estate,749888,482,1555.78,1,2,False,True,False,False,False,False,False,True
+490,Mohammed Bin Rashid City,796195,493,1615.0,1,1,False,False,False,False,False,False,False,True
+491,Meydan,700000,835,838.32,1,2,False,False,True,False,False,False,False,True
+492,Palm Jumeirah,1055000,1173,899.4,1,1,False,False,False,False,False,False,False,False
+493,Town Square,1100000,1462,752.39,3,3,False,False,False,False,False,False,False,True
+494,Downtown Dubai,3600000,2583,1393.73,3,4,False,True,False,False,False,False,False,True
+495,Dubai Marina,1575000,1150,1369.57,2,3,False,False,False,False,False,False,False,True
+496,Greens,2000000,1693,1181.33,2,3,False,False,False,False,False,False,False,False
+497,Dubai Hills Estate,900000,1000,900.0,1,2,False,False,True,False,False,False,False,True
+498,Dubai Marina,2099999,1381,1520.64,2,3,False,True,False,False,False,False,False,True
+499,Al Furjan,420000,442,950.23,0,1,False,False,False,False,True,False,True,True
+500,Business Bay,849999,685,1240.87,1,2,False,True,False,False,False,False,False,True
+501,Downtown Dubai,4900000,2157,2271.67,3,4,False,False,False,False,False,False,False,True
+502,Greens,750000,758,989.45,1,1,False,False,False,False,False,False,False,True
+503,Palm Jumeirah,1900000,2223,854.7,3,4,False,True,False,False,False,False,False,False
+504,Meydan,1400000,1534,912.65,2,3,False,False,False,False,False,False,False,False
+505,Jumeirah,1780000,1200,1483.33,2,2,True,False,True,False,False,False,False,True
+506,Palm Jumeirah,1754888,1131,1551.63,2,3,False,False,True,False,False,False,False,True
+507,Downtown Dubai,2350000,1858,1264.8,2,3,False,False,False,False,False,False,False,False
+508,Palm Jumeirah,2350000,2524,931.06,3,4,True,False,False,False,False,False,False,True
+509,Dubai Marina,1100000,1005,1094.53,1,2,False,True,False,False,False,False,False,True
+510,Old Town,1095000,781,1402.05,1,1,False,False,False,False,False,False,False,False
+511,Town Square,525000,697,753.23,1,1,False,False,False,False,False,False,False,True
+512,Jumeirah,1290000,831,1552.35,1,2,False,False,False,False,False,False,False,False
+513,Town Square,500000,589,848.9,1,1,False,False,False,False,False,False,False,True
+514,Dubai Marina,990000,1500,660.0,2,3,False,False,False,False,False,False,False,True
+515,Downtown Dubai,1025000,740,1385.14,1,2,False,False,True,False,False,False,False,True
+516,Dubai Hills Estate,761888,486,1567.67,1,2,False,True,False,False,False,False,False,True
+517,Downtown Dubai,18614888,5383,3458.09,4,5,False,True,False,False,False,False,False,True
+518,Downtown Dubai,1430000,723,1977.87,1,2,False,False,False,False,False,False,False,False
+519,The Views,1550000,1418,1093.09,2,2,False,False,False,False,False,False,False,False
+520,Downtown Dubai,2750000,1236,2224.92,2,3,False,True,False,False,False,False,False,False
+521,Downtown Dubai,1150000,713,1612.9,1,1,False,False,False,False,False,False,False,True
+522,Palm Jumeirah,1150000,1184,971.28,1,1,False,False,False,False,False,False,False,False
+523,Palm Jumeirah,2000000,2164,924.21,2,3,False,True,False,False,False,False,False,True
+524,Dubai Hills Estate,1290000,1362,947.14,2,3,False,False,True,False,False,False,False,True
+525,Downtown Dubai,1700000,934,1820.13,2,3,False,False,False,False,False,False,False,True
+526,Dubai Marina,2349000,2979,788.52,3,4,True,True,False,False,False,False,False,True
+527,Business Bay,1976504,1165,1696.57,1,2,False,True,True,False,False,True,True,False
+528,Downtown Dubai,1900000,1538,1235.37,2,3,False,False,True,False,False,False,False,True
+529,Business Bay,610000,477,1278.83,0,1,False,False,False,False,False,False,False,True
+530,Palm Jumeirah,1900000,1890,1005.29,2,2,False,False,False,False,False,False,False,False
+531,Palm Jumeirah,1100000,1101,999.09,1,2,False,False,True,False,False,True,False,True
+532,Dubai Sports City,429000,460,932.61,0,2,False,False,False,False,False,False,False,False
+533,The Views,1300000,1342,968.7,2,2,False,False,False,False,False,False,False,False
+534,Dubai Marina,1460000,868,1682.03,1,2,False,True,True,False,False,False,False,True
+535,Palm Jumeirah,3450000,2260,1526.55,3,3,False,False,False,False,False,False,False,False
+536,The Views,1999999,1660,1204.82,3,4,True,True,True,True,False,False,False,True
+537,Dubai Marina,1650000,1860,887.1,1,2,False,True,True,True,False,False,False,True
+538,Jumeirah,7000000,1934,3619.44,2,2,False,False,False,False,False,False,False,True
+539,Jumeirah Lake Towers,820000,640,1281.25,1,1,False,False,False,False,False,False,False,True
+540,Downtown Dubai,1525000,1740,876.44,2,2,False,False,False,False,False,False,False,False
+541,Dubai Hills Estate,1299999,1361,955.18,2,3,False,True,False,False,False,False,False,True
+542,The Views,950000,863,1100.81,1,1,False,False,False,False,False,False,False,False
+543,Palm Jumeirah,1850000,1070,1728.97,1,2,False,False,False,False,False,False,False,True
+544,Jumeirah,7600000,2093,3631.15,2,4,False,False,False,False,False,False,False,True
+545,DIFC,1500000,968,1549.59,1,2,False,False,False,False,False,False,False,False
+546,Palm Jumeirah,1850000,2055,900.24,2,4,True,True,True,False,False,False,False,True
+547,DIFC,3250000,2087,1557.26,2,3,False,False,False,False,False,False,False,True
+548,Jumeirah Village Circle,670000,910,736.26,1,2,False,True,False,False,False,False,False,False
+549,Dubai Marina,850000,760,1118.42,2,2,False,False,False,False,False,False,False,True
+550,Dubai Festival City,3250000,4071,798.33,3,4,False,False,True,False,False,False,False,True
+551,Old Town,1500000,1313,1142.42,2,3,False,False,True,False,False,False,False,True
+552,Palm Jumeirah,1950000,1040,1875.0,1,2,False,False,False,False,False,False,False,True
+553,Jumeirah Beach Residence,2300000,1704,1349.77,2,3,True,False,False,False,False,False,False,True
+554,Palm Jumeirah,2500000,2177,1148.37,3,3,False,False,False,False,False,False,False,False
+555,Dubai Marina,1400000,1206,1160.86,2,3,False,False,True,False,False,False,False,True
+556,Jumeirah Village Circle,1150000,1778,646.79,2,2,False,False,False,False,False,False,False,False
+557,Dubai Marina,1300000,950,1368.42,1,2,False,False,False,False,False,False,False,True
+558,Jumeirah Village Circle,545000,680,801.47,1,2,False,False,True,False,False,False,False,True
+559,Dubai Marina,1400000,1302,1075.27,2,3,False,False,False,False,False,False,False,True
+560,Dubai Marina,2200000,1748,1258.58,3,3,False,False,True,False,False,False,False,True
+561,DIFC,1300000,938,1385.93,1,2,False,False,False,False,False,False,False,True
+562,Dubai Marina,800000,908,881.06,1,2,False,True,False,False,False,False,False,True
+563,The Views,850000,733,1159.62,1,1,False,False,False,False,False,False,False,True
+564,Dubai Marina,1540000,772,1994.82,1,2,False,False,False,False,False,True,False,True
+565,Jebel Ali,550000,970,567.01,2,3,False,False,False,False,False,False,True,True
+566,DIFC,2600000,2119,1226.99,3,4,False,False,False,False,False,False,False,True
+567,Dubai Marina,700000,915,765.03,1,2,False,False,False,False,False,False,False,True
+568,Downtown Dubai,1100000,855,1286.55,1,2,False,True,True,False,False,True,False,True
+569,Jumeirah Lake Towers,699999,929,753.5,1,2,False,False,True,False,False,True,False,True
+570,Dubai Marina,1900000,975,1948.72,1,2,False,True,True,False,False,False,False,True
+571,Greens,900000,1093,823.42,2,2,False,True,False,False,False,False,False,True
+572,Dubai Creek Harbour (The Lagoons),2949999,2309,1277.61,3,5,True,True,False,False,False,False,False,True
+573,Jumeirah Beach Residence,980000,1080,907.41,1,2,False,False,False,False,False,False,False,True
+574,Jumeirah Village Circle,350000,437,800.92,0,1,False,False,True,False,False,False,False,True
+575,Palm Jumeirah,2500000,2439,1025.01,3,3,False,True,True,False,False,False,False,True
+576,Palm Jumeirah,34314000,9576,3583.33,4,5,False,True,False,False,False,False,True,False
+577,Downtown Dubai,3050000,1851,1647.76,3,3,False,False,True,False,False,False,False,True
+578,Downtown Dubai,1650000,1105,1493.21,2,2,False,False,True,False,False,False,False,True
+579,The Views,850000,748,1136.36,1,2,False,False,True,False,False,False,False,True
+580,Al Barari,3350000,3017,1110.37,2,3,False,False,True,False,False,False,False,True
+581,Dubai Hills Estate,1749510,1602,1092.08,3,4,True,False,False,False,False,False,False,True
+582,Downtown Dubai,1100000,965,1139.9,1,2,False,False,False,True,False,True,False,False
+583,Dubai Marina,1950000,1347,1447.66,2,3,False,False,False,False,False,True,False,True
+584,Jumeirah Beach Residence,815000,779,1046.21,1,2,False,True,True,False,False,False,False,True
+585,The Views,849000,754,1125.99,1,1,False,False,True,False,False,False,False,True
+586,Palm Jumeirah,2120000,1465,1447.1,2,3,False,False,False,False,False,False,False,True
+587,Downtown Dubai,1750000,1400,1250.0,2,2,False,False,False,False,False,False,False,False
+588,Dubai Hills Estate,808255,648,1247.31,1,1,False,False,False,False,False,False,False,True
+589,Jumeirah Beach Residence,2300000,1703,1350.56,2,2,False,False,False,False,False,False,False,False
+590,Jumeirah Lake Towers,1675000,2326,720.12,4,4,True,True,False,False,False,False,False,True
+591,Jumeirah Lake Towers,1373000,1909,719.22,3,3,False,True,False,False,False,False,False,True
+592,Jumeirah,1980000,1703,1162.65,2,3,False,False,False,False,False,False,True,False
+593,Palm Jumeirah,2200000,1709,1287.3,2,3,False,False,False,False,False,False,False,True
+594,Dubai Marina,1850000,1347,1373.42,2,3,False,True,True,False,False,False,False,True
+595,Jumeirah Beach Residence,1500000,1903,788.23,3,3,True,False,True,False,False,False,False,True
+596,Al Furjan,1055093,1191,885.89,2,3,False,False,True,False,False,False,False,True
+597,Al Furjan,568801,750,758.4,1,2,False,False,True,False,False,False,False,True
+598,Dubai Hills Estate,2650000,2127,1245.89,3,5,True,False,False,False,False,False,False,True
+599,Falcon City of Wonders,540000,356,1516.85,0,1,False,True,False,False,False,False,False,True
+600,Mohammed Bin Rashid City,1253686,747,1678.29,2,2,False,False,False,False,False,False,False,True
+601,Palm Jumeirah,4400000,2005,2194.51,3,2,False,False,False,False,False,False,False,False
+602,Downtown Dubai,1000000,833,1200.48,1,2,False,False,True,False,False,False,False,True
+603,DAMAC Hills,550000,635,866.14,0,1,True,False,True,False,False,False,False,False
+604,Motor City,675000,1053,641.03,1,2,False,False,False,False,False,False,False,False
+605,Jumeirah Beach Residence,1050000,761,1379.76,1,2,False,False,True,False,False,False,False,False
+606,Dubai Land,380000,929,409.04,1,2,False,False,True,False,False,False,False,False
+607,DIFC,1225000,877,1396.81,1,2,False,False,True,False,False,False,False,True
+608,Jumeirah Beach Residence,1720000,1929,891.65,3,4,False,True,True,False,False,False,False,True
+609,Downtown Dubai,1700000,1265,1343.87,2,2,False,False,False,False,False,False,False,False
+610,Palm Jumeirah,1230000,1116,1102.15,1,2,False,True,True,False,False,False,False,True
+611,Al Furjan,739000,928,796.34,2,2,False,True,True,False,False,True,False,True
+612,World Trade Center,2800000,2938,953.03,3,3,True,False,False,False,False,False,False,True
+613,Dubai Marina,1350000,1741,775.42,2,3,False,True,False,False,False,False,False,True
+614,Jumeirah Lake Towers,850000,1184,717.91,1,2,False,False,False,False,False,False,False,False
+615,Jumeirah Beach Residence,2300000,1610,1428.57,2,3,False,False,False,False,False,False,False,False
+616,Downtown Dubai,1445888,666,2171.0,1,2,False,False,False,False,False,False,False,True
+617,Mudon,1286000,986,1304.26,2,2,False,False,True,False,False,False,False,True
+618,Dubai Marina,999950,922,1084.54,1,2,False,False,False,False,False,False,False,False
+619,Discovery Gardens,320000,548,583.94,0,1,False,False,True,False,False,False,False,True
+620,Jumeirah Beach Residence,1849000,3003,615.72,3,3,False,True,False,False,False,False,False,True
+621,Dubai Marina,1450000,848,1709.91,1,1,False,False,False,False,False,False,False,False
+622,Motor City,790000,1358,581.74,2,3,False,False,True,False,False,False,False,True
+623,Dubai Silicon Oasis,500000,943,530.22,2,2,False,False,True,False,False,False,False,True
+624,Jumeirah Village Circle,830000,871,952.93,1,2,False,False,False,False,False,False,False,True
+625,Dubai Marina,1640000,1693,968.69,2,3,False,False,True,False,False,False,False,True
+626,Remraam,475000,1157,410.54,1,1,False,False,False,True,False,False,True,False
+627,Dubai Marina,3200000,1822,1756.31,3,5,False,False,False,False,False,False,False,False
+628,Jumeirah Village Circle,699000,782,893.86,1,2,False,False,False,True,False,False,True,True
+629,Jumeirah Village Circle,610000,746,817.69,1,2,True,True,False,False,False,False,False,True
+630,Jumeirah Village Circle,610500,851,717.39,1,2,True,True,False,False,False,False,False,True
+631,Jumeirah Village Circle,600205,805,745.6,1,2,True,True,False,False,False,False,False,True
+632,Jumeirah Village Circle,610500,814,750.0,1,2,True,True,True,False,False,False,False,True
+633,Palm Jumeirah,1700000,1997,851.28,2,2,True,False,False,False,False,False,False,True
+634,Jumeirah Village Circle,610503,815,749.08,1,2,True,True,True,False,False,False,False,True
+635,Jumeirah Beach Residence,1275000,1381,923.24,2,2,False,False,False,False,False,False,False,True
+636,Palm Jumeirah,1295000,737,1757.12,1,2,False,False,True,False,False,True,False,True
+637,Dubai Marina,3300000,2756,1197.39,3,5,False,False,False,False,False,False,False,False
+638,Downtown Dubai,1300000,1092,1190.48,1,2,False,False,False,False,False,False,False,False
+639,Jumeirah Village Circle,900502,1137,792.0,2,3,True,True,True,False,False,False,False,True
+640,Jumeirah Village Circle,901345,1147,785.83,2,3,True,True,True,False,False,False,False,True
+641,Discovery Gardens,525000,968,542.36,1,1,False,False,False,False,False,False,False,True
+642,Downtown Dubai,3489900,1888,1848.46,2,3,False,True,False,False,False,True,False,False
+643,Dubai Marina,760000,709,1071.93,1,1,False,False,True,False,False,False,False,True
+644,Dubai Marina,700000,736,951.09,1,2,False,True,True,False,False,False,False,True
+645,Palm Jumeirah,1675000,1746,959.34,2,2,True,False,True,False,False,False,False,False
+646,Dubai Marina,625000,916,682.31,1,2,False,True,False,False,False,False,False,True
+647,Palm Jumeirah,1390000,1954,711.36,2,3,False,True,False,False,False,False,False,True
+648,Palm Jumeirah,1700000,1142,1488.62,1,1,False,False,False,False,False,False,False,False
+649,Downtown Dubai,1400000,886,1580.14,1,1,False,False,True,False,False,False,False,True
+650,Dubai Marina,3600000,3172,1134.93,4,5,True,True,True,False,False,False,False,True
+651,Jumeirah,1434000,758,1891.82,1,2,False,False,False,False,False,False,False,True
+652,Dubai Harbour,1200000,745,1610.74,1,2,False,True,False,False,False,False,False,False
+653,Jumeirah,1795000,1220,1471.31,2,3,False,True,False,False,False,False,False,True
+654,Downtown Dubai,2444888,1064,2297.83,2,3,False,False,False,False,False,False,False,True
+655,Jumeirah Beach Residence,2650000,1198,2212.02,2,3,False,False,False,False,False,False,False,False
+656,Jumeirah Beach Residence,3750000,1968,1905.49,3,5,False,False,False,False,False,False,False,False
+657,Jumeirah Beach Residence,2399999,1180,2033.9,2,3,False,False,False,False,False,False,False,False
+658,Dubai Marina,1700000,1302,1305.68,2,3,False,False,False,False,False,False,False,False
+659,Dubai Marina,1550000,1188,1304.71,2,3,False,False,False,False,False,False,False,True
+660,Downtown Dubai,1775000,1420,1250.0,2,2,False,False,False,False,False,False,False,True
+661,Dubai Marina,2450000,2552,960.03,3,5,True,True,False,False,False,False,False,True
+662,Jumeirah,12000000,3142,3819.22,3,5,False,False,False,False,False,False,False,True
+663,Palm Jumeirah,624888,360,1735.8,0,1,False,True,False,False,False,True,False,True
+664,Dubai Marina,560000,691,810.42,1,2,False,False,True,False,False,False,False,True
+665,Palm Jumeirah,992888,713,1392.55,1,2,False,True,False,False,False,True,False,True
+666,Jumeirah,1234000,754,1636.6,1,2,False,False,False,False,False,False,False,True
+667,Dubai Creek Harbour (The Lagoons),1300000,1089,1193.76,2,3,False,True,False,False,False,False,False,True
+668,Mudon,1150000,965,1191.71,2,3,False,False,False,False,False,False,False,False
+669,The Views,1400000,1450,965.52,2,2,False,True,True,False,False,True,False,True
+670,The Views,1690000,1305,1295.02,2,3,False,False,True,False,False,False,False,True
+671,Jumeirah Village Circle,1050000,1620,648.15,1,1,False,True,True,False,False,True,False,False
+672,The Views,1500000,1665,900.9,3,2,False,True,True,True,False,False,False,True
+673,Mirdif,2892000,2704,1069.53,4,5,True,False,True,False,False,False,False,True
+674,Mirdif,1688000,1581,1067.68,3,4,True,False,True,False,False,False,False,True
+675,Mirdif,1399000,1321,1059.05,2,3,True,False,False,False,False,False,False,True
+676,Downtown Dubai,3750000,1362,2753.3,2,3,False,False,False,False,False,False,False,True
+677,Dubai Marina,1574950,755,2086.03,1,2,False,True,False,False,False,False,False,True
+678,Jumeirah Village Circle,412000,375,1098.67,0,1,True,False,True,True,True,True,True,True
+679,Jumeirah Village Circle,999000,1249,799.84,2,3,True,False,True,True,True,True,True,True
+680,Palm Jumeirah,2445000,1550,1577.42,2,3,True,True,False,False,False,False,False,True
+681,Jumeirah,1700000,1200,1416.67,2,3,False,False,False,False,False,False,False,True
+682,Downtown Dubai,4294888,1636,2625.24,3,4,False,True,False,False,False,False,False,True
+683,Dubai Marina,2975000,1694,1756.2,2,2,False,True,False,False,False,False,False,True
+684,Palm Jumeirah,2600000,1994,1303.91,2,4,False,False,False,False,False,False,False,False
+685,Palm Jumeirah,1450000,1100,1318.18,1,2,False,False,False,False,False,False,False,True
+686,Jumeirah Village Circle,1400206,1215,1152.43,2,3,True,True,True,False,False,False,False,True
+687,The Views,3299950,2825,1168.12,3,3,True,False,True,False,False,False,False,True
+688,Palm Jumeirah,1395000,1953,714.29,2,2,False,False,False,False,False,False,False,False
+689,Dubai Harbour,1380888,745,1853.54,1,1,False,True,False,False,False,False,False,True
+690,Palm Jumeirah,1275000,1886,676.03,2,2,False,False,False,False,False,False,False,False
+691,Downtown Dubai,1300000,917,1417.67,1,2,False,True,False,False,False,False,False,True
+692,Jumeirah Village Circle,1350000,2045,660.15,3,4,True,True,True,False,False,False,False,True
+693,Dubai Creek Harbour (The Lagoons),3000000,1932,1552.8,3,4,False,False,False,False,False,False,False,True
+694,Dubai Marina,1490000,838,1778.04,1,2,False,True,True,False,False,False,False,True
+695,Jumeirah Village Circle,612870,695,881.83,1,2,True,True,True,False,False,False,False,True
+696,Palm Jumeirah,2250000,2182,1031.16,3,3,False,True,False,False,False,False,False,True
+697,Jumeirah Beach Residence,1350000,1850,729.73,3,4,True,False,True,False,False,False,False,True
+698,Dubai Marina,1575000,775,2032.26,1,2,False,False,False,False,False,False,False,False
+699,Jumeirah Village Circle,639777,817,783.08,1,2,True,True,True,False,False,False,False,True
+700,Jumeirah Village Circle,627777,750,837.04,1,2,True,True,True,False,False,False,False,True
+701,Jumeirah Village Circle,620000,744,833.33,1,2,True,True,True,False,False,False,False,True
+702,Jumeirah Village Circle,706000,767,920.47,1,2,True,False,True,False,False,False,False,True
+703,Jumeirah Village Circle,993999,1163,854.69,2,3,True,False,True,False,False,False,False,True
+704,Jumeirah Village Circle,670000,880,761.36,1,2,True,True,True,False,False,False,False,True
+705,Jumeirah Village Circle,914000,1196,764.21,2,3,False,True,True,False,False,False,False,True
+706,Jumeirah Village Circle,1113000,1465,759.73,2,3,False,True,True,False,False,False,False,True
+707,Jumeirah Village Circle,1131000,1558,725.93,2,3,True,True,False,False,False,False,False,True
+708,Jumeirah Village Circle,635000,692,917.63,1,2,True,True,True,False,False,False,False,True
+709,Jumeirah Village Circle,941000,1316,715.05,2,3,True,True,True,False,False,False,False,True
+710,Jumeirah Village Circle,1080000,1421,760.03,2,3,True,True,True,False,False,False,False,True
+711,Dubai Harbour,4222888,1968,2145.78,3,4,False,True,False,False,False,False,False,False
+712,Jumeirah,1737000,1213,1431.99,2,3,False,True,False,False,False,False,False,True
+713,Jumeirah Beach Residence,1200000,1295,926.64,2,3,False,False,False,False,False,False,False,True
+714,Dubai Marina,1450000,1329,1091.05,2,3,False,False,False,False,False,False,False,True
+715,Dubai Creek Harbour (The Lagoons),3400000,1931,1760.75,3,4,False,False,False,False,False,False,False,False
+716,Jumeirah Lake Towers,525000,675,777.78,1,1,False,False,True,False,False,False,False,True
+717,Palm Jumeirah,1259999,1583,795.96,2,4,True,False,True,False,False,False,False,True
+718,DAMAC Hills,425000,559,760.29,0,1,False,False,True,False,False,False,False,True
+719,Dubai Marina,1550000,1207,1284.18,2,3,False,True,False,False,False,False,False,True
+720,Dubai Marina,790000,1219,648.07,2,2,False,False,False,False,False,False,False,True
+721,Barsha Heights (Tecom),1020000,1307,780.41,2,2,False,False,True,False,False,False,False,True
+722,Jumeirah Village Circle,954505,1312,727.52,2,3,False,True,True,False,False,False,False,True
+723,Downtown Dubai,999999,838,1193.32,1,2,False,False,False,False,False,False,False,False
+724,Greens,1750000,2070,845.41,3,3,False,False,False,False,False,False,False,False
+725,Downtown Dubai,1475000,782,1886.19,1,2,False,False,False,False,False,False,False,True
+726,Jumeirah Beach Residence,3380000,1901,1778.01,3,4,False,False,False,False,False,False,False,False
+727,Dubai Marina,1801000,800,2251.25,1,2,False,True,True,False,False,False,False,True
+728,Jumeirah Village Circle,1270000,1538,825.75,3,4,True,True,True,False,False,False,False,True
+729,Jumeirah Village Circle,635356,629,1010.1,1,2,True,True,True,False,False,False,False,True
+730,Greens,1220000,1281,952.38,2,2,False,False,False,False,False,False,False,False
+731,Dubai Marina,999905,1271,786.71,2,3,False,True,True,False,False,True,False,True
+732,Dubai Hills Estate,1700000,1493,1138.65,2,2,False,False,False,False,False,False,False,False
+733,Dubai Sports City,550000,860,639.53,1,2,False,False,True,False,False,True,False,True
+734,Jumeirah Beach Residence,1550000,1922,806.45,3,4,True,False,False,False,False,False,False,True
+735,Palm Jumeirah,3600000,2535,1420.12,3,4,True,True,False,False,False,False,False,True
+736,Jumeirah Village Circle,620000,666,930.93,1,2,False,False,False,False,False,False,False,True
+737,Greens,1110000,1408,788.35,2,2,False,False,False,False,False,False,False,False
+738,Jumeirah Beach Residence,1399999,1305,1072.8,2,2,False,True,False,False,False,False,False,False
+739,Jumeirah Village Circle,799999,1268,630.91,1,2,False,False,True,False,False,False,False,True
+740,International City,275000,732,375.68,1,2,False,False,True,False,False,False,False,False
+741,Jumeirah Village Circle,850000,900,944.44,1,2,False,False,True,False,False,False,False,True
+742,Dubai Hills Estate,1850000,1960,943.88,3,4,False,False,True,False,False,False,False,True
+743,Jumeirah Village Circle,626999,813,771.22,1,2,True,True,True,False,False,False,False,True
+744,Jumeirah Village Circle,1269999,1500,846.67,3,4,True,True,True,False,False,False,False,True
+745,Dubai Marina,1625000,1550,1048.39,2,3,False,False,False,False,False,False,False,True
+746,Jumeirah Beach Residence,8000000,2587,3092.39,3,4,True,False,False,False,False,False,False,True
+747,Jumeirah Lake Towers,1450000,1680,863.1,2,3,True,False,False,False,False,False,False,False
+748,Downtown Dubai,950000,936,1014.96,1,2,False,True,True,False,False,False,False,True
+749,Dubai Silicon Oasis,245000,306,800.65,0,1,False,False,False,False,False,False,False,False
+750,Arjan,699000,800,873.75,1,1,False,False,True,False,False,False,False,True
+751,Palm Jumeirah,1650000,1734,951.56,2,4,True,True,False,False,False,False,False,False
+752,Palm Jumeirah,2150000,2439,881.51,3,4,True,False,False,False,False,False,False,True
+753,Dubai Creek Harbour (The Lagoons),850000,695,1223.02,1,1,False,False,False,False,False,False,False,True
+754,Dubai Marina,1490000,616,2418.83,0,1,False,True,True,False,False,False,False,True
+755,Dubai Marina,1492000,616,2422.08,0,1,False,True,True,True,False,False,False,True
+756,Palm Jumeirah,2599950,2055,1265.18,2,3,True,True,False,False,False,False,False,True
+757,Downtown Dubai,1250000,653,1914.24,1,1,False,False,False,False,False,False,False,True
+758,Downtown Dubai,1300000,619,2100.16,1,1,False,False,False,False,False,False,False,True
+759,Dubai Silicon Oasis,600000,881,681.04,1,1,False,False,True,False,False,False,False,True
+760,Jumeirah Village Circle,626999,813,771.22,1,2,True,True,True,False,False,False,False,True
+761,Old Town,2235000,1966,1136.83,3,4,False,False,False,False,False,False,False,False
+762,Motor City,925000,1439,642.81,2,3,False,False,True,False,False,False,False,True
+763,The Hills,1400000,1282,1092.04,2,2,False,True,True,False,False,False,False,True
+764,Dubai Marina,2099950,1405,1494.63,2,3,False,False,False,False,False,False,False,False
+765,Dubai Marina,2485000,1688,1472.16,2,2,False,True,False,False,False,False,False,True
+766,Downtown Dubai,880000,865,1017.34,1,1,False,False,False,False,False,False,False,False
+767,Dubai Sports City,699000,775,901.94,1,2,False,False,True,False,False,False,False,True
+768,Dubai Hills Estate,1280000,1296,987.65,2,2,False,False,False,False,False,False,False,False
+769,Dubai Marina,1680000,1653,1016.33,2,3,True,False,False,False,False,False,False,True
+770,Dubai Hills Estate,1750000,1607,1088.99,3,4,False,False,False,False,False,False,False,True
+771,Palm Jumeirah,2950000,2250,1311.11,3,4,False,False,False,False,False,False,False,False
+772,Palm Jumeirah,1350000,1603,842.17,2,1,False,False,False,False,False,False,False,False
+773,Jumeirah Village Circle,870000,1145,759.83,1,2,False,False,True,False,False,False,False,True
+774,Downtown Dubai,1200000,827,1451.03,0,1,False,False,False,False,False,False,False,True
+775,Palm Jumeirah,1900000,1377,1379.81,1,2,False,False,False,False,False,False,False,True
+776,Palm Jumeirah,2000000,950,2105.26,1,2,False,False,False,False,False,False,False,False
+777,Downtown Dubai,1000000,915,1092.9,1,1,False,False,False,False,False,False,False,False
+778,Palm Jumeirah,1690000,1777,951.04,2,2,False,False,True,False,False,False,False,False
+779,Jumeirah Beach Residence,789999,756,1044.97,1,1,False,False,False,False,False,False,False,True
+780,DIFC,4100000,2440,1680.33,2,3,False,False,True,False,False,False,False,True
+781,Downtown Dubai,999999,836,1196.17,1,2,False,True,False,False,False,False,False,False
+782,Downtown Dubai,1275000,1282,994.54,2,3,False,False,False,False,False,False,False,False
+783,Palm Jumeirah,2900000,2603,1114.1,3,4,True,True,False,False,False,False,False,True
+784,Downtown Dubai,8950000,2813,3181.66,4,5,False,False,False,False,False,False,False,True
+785,Dubai Marina,1600000,2455,651.73,2,4,False,False,False,False,False,False,False,False
+786,Dubai Marina,2587000,1211,2136.25,2,2,False,True,True,False,False,False,False,True
+787,Town Square,914888,916,998.79,2,3,True,True,False,False,False,False,False,True
+788,Jumeirah Village Circle,610577,771,791.93,1,1,True,False,False,False,False,False,False,True
+789,Discovery Gardens,500000,861,580.72,1,2,False,False,False,False,False,False,False,True
+790,Palm Jumeirah,14570000,3236,4502.47,3,4,False,True,False,False,False,False,True,False
+791,Mohammed Bin Rashid City,948307,792,1197.36,1,2,False,True,False,False,False,False,False,True
+792,Dubai Marina,1890000,1277,1480.03,2,2,False,True,True,False,False,False,False,True
+793,Green Community,1250000,2100,595.24,2,2,True,False,True,True,False,False,False,True
+794,Palm Jumeirah,3750000,2279,1645.46,3,3,False,True,False,False,False,False,False,True
+795,Downtown Dubai,3200000,1976,1619.43,3,3,False,False,False,True,False,False,False,True
+796,Motor City,650000,1066,609.76,1,2,False,False,True,False,False,False,False,True
+797,City Walk,1398000,956,1462.34,1,2,False,True,False,False,False,True,False,True
+798,Jumeirah Lake Towers,1300000,2063,630.15,2,4,True,False,True,False,False,False,False,True
+799,Dubai Marina,3950000,3882,1017.52,3,6,False,False,False,False,False,False,False,False
+800,Jumeirah Beach Residence,1299999,1450,896.55,2,3,False,False,True,False,False,False,False,True
+801,Jumeirah Village Circle,906888,1110,817.02,2,3,True,False,False,False,False,False,False,True
+802,Jumeirah Lake Towers,395000,437,903.89,0,1,False,False,False,False,False,False,False,True
+803,Palm Jumeirah,2500000,1512,1653.44,1,2,False,True,True,False,False,False,False,True
+804,Downtown Dubai,5796888,1861,3114.93,3,4,False,True,False,True,False,True,False,False
+805,Jumeirah,2900000,2007,1444.94,3,4,False,False,False,False,False,False,False,False
+806,Jumeirah,1700000,1200,1416.67,2,3,False,False,False,False,False,False,False,False
+807,Al Furjan,1250000,1797,695.6,3,4,False,False,False,False,False,False,False,False
+808,Jumeirah Village Circle,745000,1272,585.69,1,1,False,False,False,False,False,False,False,False
+809,Palm Jumeirah,3500000,1800,1944.44,2,2,False,False,False,False,False,False,False,False
+810,The Views,890000,754,1180.37,1,1,False,False,False,False,False,False,False,False
+811,Dubai Marina,1000000,699,1430.62,1,2,False,True,True,False,False,False,False,True
+812,Town Square,1200000,2408,498.34,3,3,False,False,False,False,False,False,False,True
+813,Dubai Creek Harbour (The Lagoons),1700000,1164,1460.48,2,3,False,True,False,False,False,False,False,True
+814,Downtown Dubai,2800000,1607,1742.38,3,3,False,False,False,False,False,False,False,True
+815,Dubai Marina,770000,807,954.15,1,2,False,False,False,False,False,False,False,False
+816,Al Sufouh,1900000,1782,1066.22,3,4,True,False,False,False,False,False,False,True
+817,Arjan,540000,377,1432.36,0,1,False,False,False,False,False,False,False,True
+818,Dubai Marina,4500000,3554,1266.18,3,5,False,False,False,False,False,False,False,False
+819,Downtown Dubai,1250000,967,1292.66,1,2,False,False,True,False,False,False,False,False
+820,Palm Jumeirah,2400000,1723,1392.92,2,3,False,False,False,False,False,False,False,False
+821,Business Bay,1350000,891,1515.15,2,3,False,False,False,False,False,False,False,True
+822,DIFC,3800000,2437,1559.29,3,3,True,False,True,False,False,False,False,True
+823,Downtown Dubai,2650000,1449,1828.85,2,3,False,False,False,False,False,False,False,True
+824,Downtown Dubai,4700000,2184,2152.01,3,5,True,True,True,False,False,True,True,True
+825,Jumeirah Village Circle,325000,554,586.64,0,1,False,False,False,False,False,False,False,True
+826,Mohammed Bin Rashid City,820845,493,1665.0,1,1,False,True,False,False,False,False,False,True
+827,Greens,1785000,2398,744.37,4,3,False,True,False,False,False,False,False,True
+828,The Views,1399000,1237,1130.96,2,2,False,False,False,False,False,False,False,True
+829,Dubai Silicon Oasis,390000,790,493.67,1,1,False,False,False,False,False,False,False,True
+830,Jumeirah Beach Residence,1540000,640,2406.25,1,2,False,True,False,False,False,False,False,True
+831,Mohammed Bin Rashid City,1483350,899,1650.0,2,2,False,True,False,False,False,False,False,True
+832,Jumeirah Beach Residence,1550000,1105,1402.71,1,2,False,False,True,False,False,False,False,True
+833,Town Square,689999,1064,648.5,2,2,False,False,False,False,False,False,False,True
+834,Jumeirah Village Circle,425000,510,833.33,0,1,False,False,False,False,False,False,False,False
+835,Jumeirah Beach Residence,2450000,1181,2074.51,2,3,False,True,False,False,False,False,False,True
+836,Business Bay,16200000,4000,4050.0,2,2,False,False,False,False,False,False,False,False
+837,Al Barari,2700000,2745,983.61,2,3,False,False,False,False,False,False,False,True
+838,Dubai Creek Harbour (The Lagoons),740000,725,1020.69,1,1,False,False,False,False,False,False,False,True
+839,Town Square,675000,883,764.44,2,2,False,True,False,False,False,False,False,True
+840,The Views,1650000,1364,1209.68,2,2,False,False,False,False,False,False,False,False
+841,Downtown Dubai,1900000,880,2159.09,1,1,False,False,False,False,False,False,False,False
+842,Dubai Production City (IMPZ),550000,1256,437.9,2,2,False,False,False,False,False,False,False,False
+843,Jumeirah Lake Towers,950000,980,969.39,1,2,False,False,False,False,False,False,False,False
+844,Greens,1100000,1441,763.36,2,2,False,False,False,False,False,False,False,True
+845,Downtown Dubai,2100000,1678,1251.49,2,3,False,False,False,False,False,False,False,False
+846,Downtown Dubai,2290000,1442,1588.07,2,3,False,True,False,False,False,False,False,False
+847,Mohammed Bin Rashid City,1110200,700,1586.0,1,2,False,False,False,False,False,False,False,True
+848,Palm Jumeirah,1699000,1890,898.94,1,2,False,True,False,False,False,False,False,True
+849,Business Bay,700000,713,981.77,0,1,False,True,False,False,False,False,False,False
+850,Town Square,490000,680,720.59,1,1,False,False,False,False,False,False,False,False
+851,Town Square,808000,1340,602.99,3,3,True,True,True,False,False,False,False,True
+852,Palm Jumeirah,4996000,1621,3082.05,2,3,False,True,False,False,False,False,False,True
+853,Palm Jumeirah,16500000,4877,3383.23,3,4,False,True,False,False,False,False,False,True
+854,Motor City,650000,907,716.65,1,2,False,False,True,False,False,False,False,True
+855,The Hills,4000000,2035,1965.6,3,4,True,True,True,False,False,False,False,True
+856,Dubai Marina,590000,666,885.89,1,1,False,False,False,False,False,False,False,True
+857,Downtown Dubai,4500000,1271,3540.52,2,3,False,True,False,False,False,False,False,True
+858,Downtown Dubai,2100000,1242,1690.82,2,3,False,True,False,False,False,False,False,True
+859,Downtown Dubai,1950000,1400,1392.86,2,3,False,True,False,False,False,False,False,True
+860,Al Furjan,650000,795,817.61,1,2,False,True,True,False,False,False,False,True
+861,Downtown Dubai,2300000,1470,1564.63,2,3,False,True,True,False,False,False,False,True
+862,Business Bay,1110888,669,1660.52,0,1,False,True,False,False,False,False,False,True
+863,Dubai Creek Harbour (The Lagoons),2000000,1592,1256.28,3,4,True,False,False,False,False,False,False,True
+864,Al Sufouh,1300000,1366,951.68,2,2,False,False,False,False,False,False,False,False
+865,Motor City,675000,907,744.21,1,1,False,False,False,False,False,False,False,False
+866,Dubai Hills Estate,1125000,844,1332.94,1,1,False,False,False,False,False,False,False,False
+867,Downtown Dubai,3499900,2379,1471.16,3,3,False,True,False,False,False,False,False,False
+868,Dubai Marina,3378000,1516,2228.23,2,3,False,True,True,False,False,False,False,True
+869,Culture Village,4202898,1764,2382.6,2,3,False,False,False,False,False,False,False,False
+870,Culture Village,1000000,707,1414.43,1,1,False,False,False,False,False,False,False,False
+871,Culture Village,749000,561,1335.12,0,1,False,False,False,False,False,False,False,False
+872,Culture Village,4300000,2289,1878.55,3,4,False,False,False,False,False,False,False,False
+873,Jumeirah Beach Residence,3650000,1899,1922.06,3,4,True,False,False,False,False,False,False,True
+874,DAMAC Hills,677250,407,1664.0,0,1,False,True,False,False,False,False,False,True
+875,DAMAC Hills,982800,591,1662.94,1,1,False,True,False,False,False,False,False,True
+876,Jumeirah Lake Towers,950000,1389,683.95,1,1,False,True,False,False,False,False,False,True
+877,Mirdif,936000,780,1200.0,1,2,False,False,False,False,False,False,False,True
+878,Jumeirah Village Circle,825888,745,1108.57,1,2,False,True,False,False,False,False,False,True
+879,Jumeirah Village Circle,835000,890,938.2,1,2,False,True,False,False,False,False,False,True
+880,Jumeirah Lake Towers,1500000,1561,960.92,3,3,False,False,False,False,False,True,False,True
+881,Jumeirah Village Circle,425000,609,697.87,0,1,False,True,True,False,False,False,False,True
+882,Dubai Sports City,1349000,1921,702.24,3,4,False,False,True,False,False,False,False,True
+883,Jumeirah Village Circle,980000,1089,899.91,2,3,False,False,True,False,False,False,False,True
+884,City Walk,4600000,2678,1717.7,3,4,False,False,False,False,False,False,False,True
+885,Jumeirah Golf Estates,615000,776,792.53,1,2,False,False,True,False,False,False,False,True
+886,Downtown Dubai,1770000,1625,1089.23,2,3,False,True,True,False,False,False,False,True
+887,Downtown Dubai,1512888,607,2492.4,1,2,False,False,True,False,False,False,False,True
+888,Old Town,1195000,919,1300.33,1,2,False,False,False,False,False,False,False,False
+889,Downtown Dubai,1600000,1202,1331.11,2,3,False,False,True,False,False,False,False,False
+890,Jumeirah Lake Towers,1399999,2063,678.62,2,3,True,False,False,False,False,False,False,True
+891,Jumeirah Village Circle,400000,437,915.33,0,1,False,True,False,False,False,False,False,True
+892,Palm Jumeirah,649888,314,2069.71,0,1,False,True,False,False,False,False,False,True
+893,Bluewaters,2750000,1510,1821.19,2,3,False,True,False,False,False,False,False,True
+894,The Views,1300000,1269,1024.43,2,2,False,True,True,False,False,False,False,True
+895,Dubai Marina,1200000,1503,798.4,3,3,False,True,False,False,False,False,False,True
+896,Jumeirah Village Circle,475000,483,983.44,1,2,False,True,False,False,False,False,False,True
+897,Dubai Festival City,1825000,2182,836.39,3,3,False,False,True,False,False,False,False,False
+898,Jumeirah Beach Residence,1550000,639,2425.67,1,2,False,False,False,False,False,False,False,True
+899,Jumeirah Beach Residence,2320000,1160,2000.0,1,2,False,False,False,False,False,False,False,True
+900,Jumeirah Lake Towers,1425000,1690,843.2,2,2,True,False,True,False,False,False,False,True
+901,Downtown Dubai,4500000,2530,1778.66,3,4,False,True,False,False,False,False,False,True
+902,Jumeirah Lake Towers,3200000,3756,851.97,4,4,True,False,False,False,False,False,True,False
+903,Dubai Marina,3050000,1958,1557.71,3,5,False,False,False,False,False,False,False,False
+904,Jumeirah Village Circle,850000,1492,569.71,2,3,False,True,False,False,False,False,False,True
+905,Business Bay,16950000,4907,3454.25,3,2,True,True,False,False,False,False,False,True
+906,Dubai Marina,1300000,950,1368.42,1,2,False,False,False,False,False,False,False,True
+907,Downtown Dubai,1650000,1241,1329.57,2,3,False,True,False,False,False,False,False,True
+908,Downtown Dubai,1650000,1325,1245.28,2,3,False,True,False,False,False,False,False,True
+909,Downtown Dubai,2300000,1755,1310.54,3,4,False,True,False,False,False,False,False,True
+910,Jumeirah Beach Residence,850000,760,1118.42,0,1,False,True,False,False,False,False,False,True
+911,City Walk,4949999,2420,2045.45,3,4,False,False,False,False,False,False,False,True
+912,Downtown Dubai,1000000,915,1092.9,1,1,False,True,False,False,False,False,False,True
+913,Downtown Dubai,2800000,1507,1858.0,2,3,False,False,False,False,False,False,False,True
+914,Al Sufouh,1200000,1201,999.17,2,3,False,False,False,False,False,False,False,False
+915,Jumeirah Village Circle,1350000,2184,618.13,2,2,False,False,True,False,False,False,False,True
+916,Jumeirah Lake Towers,690000,852,809.86,1,2,False,False,False,False,False,False,False,True
+917,Umm Suqeim,1423000,772,1843.26,1,1,False,False,False,False,False,False,False,False
+918,Dubai Marina,1590000,1192,1333.89,2,2,False,False,False,False,False,False,False,True
+919,Dubai Marina,750000,890,842.7,1,2,False,True,False,False,False,False,False,True
+920,Downtown Dubai,1400000,1487,941.49,2,3,False,False,False,False,False,False,False,False
+921,Downtown Dubai,7900000,2385,3312.37,3,4,False,True,False,False,False,False,True,False
+922,Dubai South (Dubai World Central),425000,665,639.1,1,1,False,False,True,False,False,False,False,True
+923,Downtown Dubai,2325000,1338,1737.67,2,3,False,False,False,False,True,False,True,True
+924,Downtown Dubai,2700000,1649,1637.36,2,3,False,False,False,False,False,False,False,False
+925,Dubai Marina,3195000,2514,1270.88,3,4,False,True,False,False,False,False,False,True
+926,Greens,1100000,1294,850.08,2,2,False,False,True,False,False,False,False,True
+927,Palm Jumeirah,1300000,1886,689.29,2,3,False,True,True,False,False,False,False,False
+928,Downtown Dubai,3199999,1969,1625.19,3,3,True,False,True,False,False,False,False,True
+929,Al Furjan,530000,700,757.14,1,1,False,True,False,False,False,False,False,True
+930,Palm Jumeirah,3600000,1739,2070.16,2,3,False,False,False,False,False,False,False,True
+931,Dubai Land,330000,634,520.5,1,1,False,False,True,False,False,False,False,False
+932,Dubai Marina,3600000,2050,1756.1,3,4,False,False,False,False,False,False,False,False
+933,Jumeirah Lake Towers,500000,532,939.85,0,2,False,False,False,False,False,True,False,True
+934,Dubai Marina,2000000,1314,1522.07,2,3,False,True,False,False,False,False,False,True
+935,Downtown Dubai,3110000,1550,2006.45,3,3,False,False,False,False,False,False,False,True
+936,Palm Jumeirah,1240000,790,1569.62,1,1,False,False,False,False,False,False,False,False
+937,Dubai Marina,888000,713,1245.44,1,2,False,False,False,False,False,False,False,False
+938,Downtown Dubai,1300000,974,1334.7,1,2,False,False,False,False,False,False,False,True
+939,Jumeirah Beach Residence,3615000,1515,2386.14,2,2,False,False,False,False,False,False,False,True
+940,Business Bay,970000,685,1416.06,1,2,False,True,False,False,False,True,False,True
+941,Dubai Marina,2175000,1312,1657.77,2,3,False,False,False,False,False,False,False,True
+942,Dubai Land,350000,715,489.51,1,1,False,False,True,False,False,False,False,False
+943,Dubai Land,500000,1239,403.55,2,3,False,False,True,False,False,False,False,False
+944,Meydan,1300000,1494,870.15,2,2,True,False,False,False,True,False,False,True
+945,Business Bay,750000,1007,744.79,1,2,False,True,False,False,False,False,False,True
+946,Jumeirah,4499000,1620,2777.16,1,2,False,True,False,False,False,False,False,True
+947,Downtown Dubai,1483888,611,2428.62,1,2,False,True,False,False,False,False,False,True
+948,Jumeirah Lake Towers,570000,900,633.33,1,2,False,False,False,False,False,False,False,True
+949,Downtown Dubai,1390000,1162,1196.21,2,3,False,False,False,False,False,False,False,True
+950,Dubai Marina,1650000,1900,868.42,3,4,False,True,True,False,False,False,False,True
+951,Jumeirah Beach Residence,2900000,3090,938.51,3,5,True,False,False,False,False,False,False,True
+952,Dubai Marina,1595000,1376,1159.16,2,3,False,False,False,False,False,False,False,False
+953,Downtown Dubai,1100000,940,1170.21,1,2,False,False,False,False,False,False,False,False
+954,Dubai Hills Estate,900000,989,910.01,1,2,False,False,True,False,False,False,False,True
+955,Dubai Silicon Oasis,325000,644,504.66,0,1,False,False,False,False,False,False,False,True
+956,Al Kifaf,1700000,1616,1051.98,2,2,False,False,False,False,False,False,False,True
+957,Dubai Sports City,580000,1137,510.11,1,2,False,True,False,False,False,False,False,True
+958,Palm Jumeirah,3450000,1800,1916.67,2,3,False,False,False,False,False,False,False,False
+959,Jumeirah Lake Towers,1700000,1966,864.7,2,2,False,False,True,False,False,False,False,True
+960,Dubai Creek Harbour (The Lagoons),1855000,1441,1287.3,3,3,False,True,False,False,False,False,False,True
+961,Downtown Dubai,999999,838,1193.32,1,1,False,True,True,False,False,False,False,True
+962,Jumeirah,6474000,3425,1890.22,4,5,False,False,False,False,False,False,False,False
+963,Palm Jumeirah,1266000,712,1778.09,1,2,False,True,False,False,False,False,False,True
+964,Dubai Marina,1999995,2800,714.28,3,4,True,False,False,False,False,False,False,True
+965,Town Square,650000,1064,610.9,2,2,False,False,False,False,False,False,False,True
+966,Greens,1100000,1441,763.36,2,2,False,False,False,False,False,False,False,False
+967,Downtown Dubai,1825000,1336,1366.02,2,3,False,True,True,False,False,False,False,True
+968,Dubai Land,750000,1806,415.28,3,3,True,False,True,False,False,False,False,False
+969,Mohammed Bin Rashid City,1950000,1215,1604.94,2,3,False,True,False,False,False,False,False,True
+970,Downtown Dubai,18614888,5383,3458.09,4,6,False,False,False,False,False,False,False,True
+971,Downtown Dubai,2063888,1078,1914.55,2,2,False,False,False,False,False,False,False,False
+972,Downtown Dubai,2060888,1077,1913.55,2,2,False,False,False,False,False,False,False,False
+973,Downtown Dubai,1926888,1016,1896.54,2,2,False,False,False,False,False,False,False,False
+974,Downtown Dubai,1979888,1047,1891.01,2,2,False,False,False,False,False,False,False,False
+975,Downtown Dubai,2079888,1016,2047.13,2,2,False,False,False,False,False,False,False,False
+976,Dubai Marina,1300000,891,1459.03,1,2,False,True,False,False,False,False,False,True
+977,Mohammed Bin Rashid City,399950,421,950.0,0,1,False,False,False,False,False,False,False,False
+978,Dubai Creek Harbour (The Lagoons),1245888,978,1273.91,2,2,False,False,False,False,False,False,False,True
+979,Jumeirah Beach Residence,2547000,1401,1817.99,2,3,False,False,False,False,False,False,False,True
+980,Dubai Marina,1400000,1334,1049.48,2,2,False,False,True,False,False,False,False,True
+981,Jumeirah Village Circle,414000,450,920.0,0,1,False,True,True,False,False,False,False,True
+982,Jumeirah Village Circle,935000,1350,692.59,2,3,False,True,True,False,False,False,False,True
+983,Jumeirah Village Circle,1286000,1500,857.33,3,4,False,True,True,False,False,False,False,True
+984,Jumeirah Village Circle,940000,1100,854.55,2,3,False,True,True,False,False,False,False,True
+985,Jumeirah Village Circle,1398000,1600,873.75,3,4,True,True,True,False,False,False,False,True
+986,Jumeirah Village Circle,625000,750,833.33,1,2,False,True,True,False,False,False,False,True
+987,Business Bay,679000,410,1656.1,1,1,False,True,False,False,False,False,False,True
+988,Bluewaters,2930000,1512,1937.83,2,3,False,False,False,False,False,False,False,False
+989,Palm Jumeirah,35000000,7346,4764.5,4,5,False,True,False,False,False,False,True,False
+990,Jumeirah Lake Towers,425000,532,798.87,0,1,False,False,False,False,False,False,False,True
+991,Jumeirah Village Circle,620000,800,775.0,1,2,True,True,True,False,False,False,False,True
+992,Jumeirah Village Circle,1175000,1600,734.38,3,4,True,True,True,False,False,False,False,True
+993,Jumeirah Village Circle,759000,900,843.33,2,3,True,True,True,False,False,False,False,True
+994,Palm Jumeirah,2585000,2055,1257.91,2,1,False,True,False,False,False,False,False,True
+995,Dubai Hills Estate,1325000,1264,1048.26,2,2,False,True,False,False,False,False,False,True
+996,Dubai Silicon Oasis,510000,936,544.87,2,3,False,False,False,False,False,False,False,False
+997,Jumeirah Village Circle,1220000,1203,1014.13,2,3,True,False,False,False,False,False,False,False
+998,Motor City,850000,1442,589.46,2,2,False,False,False,False,False,False,False,False
+999,The Hills,1250000,828,1509.66,1,2,False,False,False,False,False,False,False,True
+1000,Downtown Dubai,3000000,1841,1629.55,3,5,True,False,True,False,False,False,False,False
+1001,Downtown Dubai,1390000,717,1938.63,1,1,True,True,False,False,False,False,False,True
+1002,Dubai Marina,2200000,1788,1230.43,3,4,False,False,False,False,False,False,False,False
+1003,Jumeirah Village Circle,656000,727,902.34,1,2,False,False,False,False,False,False,False,True
+1004,Dubai Marina,2990000,1746,1712.49,3,4,False,False,False,False,False,False,False,True
+1005,Motor City,1000000,1880,531.91,2,2,False,False,False,False,False,False,False,False
+1006,Jumeirah Village Circle,443000,423,1047.28,0,1,False,False,False,False,False,False,False,True
+1007,Dubai Creek Harbour (The Lagoons),2600000,1480,1756.76,3,4,False,True,True,False,False,True,False,True
+1008,Jumeirah Beach Residence,2110000,766,2754.57,1,2,False,True,False,False,False,True,False,True
+1009,Jumeirah Beach Residence,1880000,807,2329.62,1,2,False,True,False,False,False,True,False,True
+1010,The Views,1600000,1477,1083.28,2,2,False,False,True,False,False,False,False,True
+1011,Downtown Dubai,2300000,1350,1703.7,2,2,False,False,False,False,False,False,False,True
+1012,Business Bay,1123000,940,1194.68,1,1,False,False,False,False,False,False,False,False
+1013,DIFC,5700000,4042,1410.19,4,5,True,True,True,False,False,False,False,True
+1014,Motor City,600000,1000,600.0,1,2,False,False,False,False,False,False,False,False
+1015,Dubai Marina,1650000,1861,886.62,2,2,False,True,False,False,False,False,False,True
+1016,Dubai Marina,1095000,1225,893.88,2,2,False,True,False,False,False,False,False,True
+1017,Jumeirah Lake Towers,950000,1389,683.95,1,2,False,False,False,False,False,False,False,False
+1018,Greens,1120000,1305,858.24,2,2,False,True,True,False,False,False,False,True
+1019,Greens,1300000,761,1708.28,1,1,False,True,True,False,False,False,False,True
+1020,The Views,2250000,2233,1007.61,3,4,True,False,True,True,False,False,False,True
+1021,DIFC,1200000,877,1368.3,1,2,False,False,False,False,False,False,False,True
+1022,Dubai Hills Estate,1350000,1361,991.92,2,2,False,False,False,False,False,False,False,False
+1023,Dubai Sports City,615000,822,748.18,1,2,False,False,False,False,False,False,False,True
+1024,Downtown Dubai,1900000,1538,1235.37,2,3,False,True,False,False,False,False,False,True
+1025,Palm Jumeirah,1695000,1338,1266.82,1,2,False,False,False,False,False,False,False,True
+1026,Dubai Marina,500000,761,657.03,1,2,False,False,False,False,False,False,False,False
+1027,Dubai Marina,1200000,895,1340.78,1,2,False,True,True,False,False,False,False,False
+1028,Dubai Marina,1650000,1109,1487.83,2,3,False,True,True,False,False,False,False,True
+1029,Downtown Dubai,3799900,1580,2405.0,2,2,False,True,False,False,False,False,False,True
+1030,Downtown Dubai,2250000,2219,1013.97,2,3,False,False,False,False,False,False,False,False
+1031,Downtown Dubai,1200000,850,1411.76,1,2,False,False,False,False,False,False,False,False
+1032,Dubai Marina,3990000,2352,1696.43,4,4,False,False,False,False,False,False,False,False
+1033,Dubai Hills Estate,1895000,1968,962.91,3,4,False,False,False,False,False,False,False,True
+1034,Dubai Marina,950000,936,1014.96,1,2,False,False,False,False,False,False,False,False
+1035,Mohammed Bin Rashid City,1288888,742,1737.05,1,2,False,False,False,False,False,False,False,True
+1036,Mohammed Bin Rashid City,1288888,742,1737.05,1,2,False,False,False,False,False,False,False,True
+1037,Mohammed Bin Rashid City,1288888,742,1737.05,1,2,False,True,False,False,False,False,False,True
+1038,Old Town,4900000,2678,1829.72,3,5,False,False,False,False,False,False,False,False
+1039,Palm Jumeirah,5045846,1740,2899.91,2,2,False,False,False,False,False,False,False,True
+1040,Downtown Dubai,1780000,822,2165.45,1,2,False,True,False,False,False,False,False,True
+1041,Al Furjan,350000,378,925.93,0,1,False,False,False,False,False,False,False,True
+1042,Dubai Hills Estate,2100000,1969,1066.53,3,3,True,False,False,False,False,False,False,True
+1043,Dubai Sports City,615000,822,748.18,1,2,False,False,False,False,False,False,False,True
+1044,Dubai Marina,2395000,1875,1277.33,3,3,False,True,False,False,False,False,False,True
+1045,Dubai Marina,654000,624,1048.08,1,1,False,False,False,False,False,False,False,False
+1046,Dubai Marina,1599999,1180,1355.93,2,2,False,True,True,False,False,False,False,False
+1047,Business Bay,600000,530,1132.08,0,1,False,True,False,False,False,True,False,True
+1048,Dubai Marina,3000000,1746,1718.21,3,4,False,False,False,False,False,False,False,False
+1049,DIFC,1250000,942,1326.96,1,2,False,False,True,False,False,False,False,True
+1050,Palm Jumeirah,624888,321,1946.69,0,1,False,True,False,False,False,False,False,True
+1051,Dubai Festival City,1950000,2256,864.36,3,4,True,False,True,False,False,False,False,True
+1052,Palm Jumeirah,2702000,1034,2613.15,1,2,False,False,False,False,False,False,False,True
+1053,Jumeirah Beach Residence,4610000,1789,2576.86,2,3,True,False,False,False,False,False,False,True
+1054,Jumeirah Beach Residence,1980000,705,2808.51,1,2,False,False,False,False,False,False,False,True
+1055,Jumeirah Beach Residence,5800000,2590,2239.38,4,5,False,False,False,False,False,False,False,True
+1056,Jumeirah Beach Residence,3650000,1967,1855.62,2,3,False,False,False,False,False,False,False,True
+1057,The Views,1300000,1343,967.98,2,2,False,True,True,False,False,False,False,True
+1058,Jumeirah Beach Residence,1600000,1731,924.32,2,3,False,False,False,False,False,True,False,True
+1059,Jumeirah Beach Residence,2140000,766,2793.73,1,2,False,False,False,False,False,False,False,True
+1060,Palm Jumeirah,3300000,2250,1466.67,3,3,False,False,False,False,False,False,False,False
+1061,Downtown Dubai,1550000,1040,1490.38,1,2,False,False,False,False,False,False,False,True
+1062,Downtown Dubai,2250000,1378,1632.8,1,2,False,True,False,False,False,False,False,True
+1063,Old Town,888888,810,1097.39,1,1,False,False,True,False,False,False,True,True
+1064,Al Furjan,399000,380,1050.0,0,1,False,True,True,False,False,False,False,True
+1065,The Views,815000,857,950.99,1,1,False,False,True,False,False,False,False,True
+1066,Jumeirah Beach Residence,5750000,2574,2233.88,3,4,False,True,True,False,False,False,False,True
+1067,Downtown Dubai,1175000,1088,1079.96,1,2,False,True,True,False,False,False,False,True
+1068,Dubai Marina,1049950,1258,834.62,2,2,False,True,False,False,False,False,False,True
+1069,Palm Jumeirah,1650000,1589,1038.39,2,2,False,False,False,False,False,False,False,True
+1070,Al Kifaf,1359000,990,1372.73,1,2,False,False,False,False,False,False,False,True
+1071,Downtown Dubai,1600000,1105,1447.96,2,3,False,False,False,False,False,False,False,True
+1072,Downtown Dubai,1650000,1725,956.52,2,3,False,False,False,False,False,False,False,False
+1073,Dubai Marina,2950000,2590,1139.0,4,5,True,True,False,False,False,False,False,True
+1074,Downtown Dubai,1700000,1560,1089.74,2,3,False,True,True,False,False,False,False,True
+1075,The Views,1500000,2528,593.35,3,3,False,False,True,False,False,False,False,True
+1076,Dubai Marina,595000,613,970.64,1,2,False,False,True,False,False,False,False,True
+1077,Meydan,1075000,1703,631.24,2,2,True,False,True,False,False,False,False,False
+1078,Jumeirah Village Circle,695000,1474,471.51,2,3,False,False,False,False,False,False,False,False
+1079,Jumeirah Beach Residence,1200000,1286,933.13,2,2,False,False,False,False,False,False,False,True
+1080,Greens,1120000,1286,870.92,2,2,False,False,False,False,False,False,False,False
+1081,Downtown Dubai,950000,774,1227.39,1,2,False,False,False,False,False,False,False,False
+1082,Mohammed Bin Rashid City,1761627,1018,1730.48,1,1,False,False,False,False,False,False,False,True
+1083,Mohammed Bin Rashid City,828241,670,1236.18,1,2,False,True,False,False,False,False,False,True
+1084,Mohammed Bin Rashid City,1439112,1129,1274.68,2,3,False,True,False,False,False,False,False,True
+1085,Mohammed Bin Rashid City,1650000,1228,1343.65,2,3,False,True,True,True,False,False,False,False
+1086,Dubai Marina,3499000,5757,607.78,4,5,False,False,False,False,False,False,False,True
+1087,Jumeirah Beach Residence,1350000,1400,964.29,2,3,False,False,True,False,False,False,False,True
+1088,Dubai Marina,1999950,1875,1066.64,2,3,True,True,False,False,False,False,False,True
+1089,Al Furjan,1225000,1700,720.59,3,4,True,False,True,False,False,False,False,True
+1090,Jumeirah Village Circle,750000,1321,567.75,2,3,False,False,False,False,False,False,False,True
+1091,DIFC,3950000,2621,1507.06,3,3,False,False,False,False,False,False,False,True
+1092,Downtown Dubai,3700000,1518,2437.42,2,3,False,False,False,False,False,True,False,True
+1093,Downtown Dubai,15873000,5383,2948.73,4,5,True,True,True,False,False,False,False,True
+1094,Downtown Dubai,1050000,860,1220.93,1,2,False,False,False,False,False,False,False,True
+1095,Downtown Dubai,1450000,1198,1210.35,2,3,False,False,False,False,False,False,False,True
+1096,Jumeirah Village Circle,603000,997,604.81,1,2,False,False,False,False,False,False,False,True
+1097,Jumeirah Beach Residence,5399990,2590,2084.94,4,4,True,True,False,False,False,True,False,True
+1098,Jumeirah Beach Residence,2300000,1180,1949.15,2,3,False,True,False,False,False,True,False,True
+1099,The Views,1599999,1478,1082.54,2,2,False,False,False,False,False,False,False,False
+1100,Meydan,1235251,853,1448.13,2,2,False,False,False,False,False,False,False,True
+1101,Greens,590000,758,778.36,1,1,False,False,True,False,False,False,False,True
+1102,Downtown Dubai,1599900,1450,1103.38,2,3,False,False,True,False,False,False,False,False
+1103,Motor City,460000,809,568.6,0,1,False,False,True,False,False,False,False,True
+1104,Jumeirah Lake Towers,700000,759,922.27,1,2,False,True,False,False,False,False,False,False
+1105,Jumeirah Village Circle,699503,852,821.01,1,2,False,True,True,False,False,False,False,True
+1106,Jumeirah Village Circle,1199789,1392,861.92,3,4,True,True,True,False,False,False,False,True
+1107,Jumeirah Village Circle,620502,851,729.14,1,2,True,True,True,False,False,False,False,True
+1108,Jumeirah Village Circle,759502,848,895.64,2,3,True,True,True,False,False,False,False,True
+1109,Jumeirah Village Circle,1204504,1820,661.82,3,4,True,True,True,False,False,False,False,True
+1110,Jumeirah Village Circle,661300,678,975.37,1,2,False,True,False,False,False,False,False,True
+1111,Jumeirah Village Circle,954206,1312,727.29,2,3,False,True,True,False,False,False,False,True
+1112,Jumeirah Village Circle,995786,1592,625.49,2,3,False,True,True,False,False,False,False,True
+1113,Jumeirah Village Circle,1045734,1592,656.87,2,3,False,True,True,False,False,False,False,True
+1114,Jumeirah Village Circle,670728,728,921.33,1,2,False,True,False,False,False,False,False,True
+1115,Dubai Marina,1800000,775,2322.58,1,2,False,False,False,False,False,False,False,True
+1116,Dubai Marina,2050000,1480,1385.14,2,3,False,True,False,False,False,False,False,True
+1117,Jumeirah Village Circle,439205,401,1095.27,0,1,False,True,False,False,False,False,False,True
+1118,Jumeirah Village Circle,660606,678,974.35,1,2,False,True,True,False,False,False,False,True
+1119,Jumeirah Village Circle,619490,851,727.96,1,2,True,True,True,False,False,False,False,True
+1120,Jumeirah Village Circle,692503,751,922.11,1,2,False,True,False,False,False,False,False,True
+1121,Jumeirah Village Circle,660600,675,978.67,1,2,False,True,True,False,False,False,False,True
+1122,Jumeirah Village Circle,954502,1311,728.07,2,3,False,True,True,False,False,False,False,True
+1123,Jumeirah Village Circle,630205,870,724.37,1,2,True,True,False,False,False,False,False,True
+1124,Jumeirah Village Circle,990876,1592,622.41,2,3,False,True,True,False,False,False,False,True
+1125,Jumeirah Village Circle,670728,728,921.33,1,2,False,True,False,False,False,False,False,True
+1126,Jumeirah Village Circle,620720,803,773.0,1,2,False,True,False,False,False,False,False,True
+1127,Jumeirah Village Circle,759081,998,760.6,2,3,True,True,True,False,False,False,False,True
+1128,Dubai Marina,2200000,1973,1115.05,3,2,True,False,False,False,False,False,False,True
+1129,Downtown Dubai,1019000,915,1113.66,1,1,False,True,True,True,False,False,False,True
+1130,Downtown Dubai,1050000,838,1252.98,1,2,False,False,True,False,False,False,False,True
+1131,Dubai Marina,1199000,848,1413.92,1,2,False,False,False,True,False,False,False,True
+1132,The Hills,2000000,1459,1370.8,2,3,False,False,True,False,False,False,False,True
+1133,Dubai Marina,1450000,838,1730.31,1,2,False,False,False,False,False,False,False,True
+1134,Dubai Creek Harbour (The Lagoons),1800000,1567,1148.69,2,3,False,False,False,False,False,False,False,True
+1135,The Views,848950,750,1131.93,1,1,False,False,True,False,False,False,False,True
+1136,Palm Jumeirah,992888,637,1558.69,1,1,False,False,False,False,False,False,False,True
+1137,Meydan,525000,330,1590.91,0,1,False,False,False,False,False,False,False,True
+1138,Culture Village,750000,607,1235.58,0,1,False,False,False,False,False,False,False,True
+1139,Jumeirah Village Circle,280000,387,723.51,0,1,False,False,True,False,False,False,False,False
+1140,Palm Jumeirah,1650000,2000,825.0,3,4,True,False,True,False,False,False,False,True
+1141,Dubai Marina,1975000,1386,1424.96,2,3,False,True,True,False,False,False,False,True
+1142,Dubai Marina,1900000,1386,1370.85,2,3,False,True,True,False,False,False,False,True
+1143,Jumeirah Village Circle,759502,956,794.46,2,3,True,True,True,False,False,False,False,True
+1144,Jumeirah Village Circle,661205,671,985.4,1,2,True,True,True,False,False,False,False,True
+1145,Jumeirah Village Circle,965789,1313,735.56,2,3,False,True,False,False,False,False,False,True
+1146,Jumeirah Village Circle,630503,751,839.55,1,2,False,True,False,False,False,False,False,True
+1147,Jumeirah Village Circle,990598,1425,695.16,2,3,False,True,True,False,False,False,False,True
+1148,Downtown Dubai,4365888,1709,2554.64,3,3,False,False,False,False,False,False,False,True
+1149,Meydan,1250000,1535,814.33,2,2,True,True,True,False,False,False,False,True
+1150,Palm Jumeirah,3499999,2281,1534.41,3,4,False,True,False,False,False,False,False,True
+1151,Old Town,1750000,1024,1708.98,1,2,False,False,False,False,False,True,False,False
+1152,Old Town,1900000,1442,1317.61,1,2,False,True,False,False,False,False,False,False
+1153,Dubai Marina,1800000,2164,831.79,3,2,False,False,True,False,False,False,False,True
+1154,Downtown Dubai,3000000,2056,1459.14,2,4,True,True,False,False,False,False,False,True
+1155,Downtown Dubai,2199950,1510,1456.92,2,3,False,True,False,False,False,False,False,False
+1156,Jumeirah Village Circle,620504,820,756.71,1,2,True,True,True,False,False,False,False,True
+1157,Jumeirah Village Circle,759503,978,776.59,2,3,True,True,True,False,False,False,False,True
+1158,Jumeirah Village Circle,954503,1314,726.41,2,3,True,True,True,False,False,False,False,True
+1159,Jumeirah Village Circle,630504,718,878.14,1,2,True,True,True,False,False,False,False,True
+1160,Jumeirah Village Circle,950504,1415,671.73,2,3,True,True,True,False,False,False,False,True
+1161,Downtown Dubai,1650000,1455,1134.02,2,3,False,False,False,False,False,False,False,False
+1162,Jumeirah Village Circle,610000,746,817.69,1,2,True,True,True,False,False,False,False,True
+1163,Jumeirah Village Circle,929999,1093,850.87,2,3,True,True,True,False,False,False,False,True
+1164,Jumeirah Village Circle,626999,950,660.0,1,2,True,True,True,False,False,False,False,True
+1165,Downtown Dubai,1900000,1400,1357.14,2,3,False,False,True,False,False,False,False,True
+1166,Jumeirah Village Circle,1250000,2490,502.01,3,4,True,True,True,False,False,False,False,True
+1167,Jumeirah Village Circle,440500,520,847.12,0,1,False,True,True,False,False,False,False,True
+1168,Jumeirah Village Circle,620503,835,743.12,1,2,True,True,True,False,False,False,False,True
+1169,Jumeirah Village Circle,1190502,1492,797.92,3,4,True,True,True,False,False,False,False,True
+1170,Dubai Marina,850000,592,1435.81,1,1,False,False,False,False,False,False,False,False
+1171,Jumeirah Village Circle,661615,692,956.09,1,2,False,True,False,False,False,False,False,True
+1172,Jumeirah Village Circle,954366,1316,725.2,2,3,False,True,False,False,False,False,False,True
+1173,Dubai Marina,895000,982,911.41,2,2,False,False,False,False,False,False,False,False
+1174,Business Bay,766000,468,1636.75,1,2,False,True,True,True,True,True,True,True
+1175,Jumeirah Village Circle,619502,851,727.97,1,2,True,True,True,False,False,False,False,True
+1176,Dubai Hills Estate,2750000,2195,1252.85,3,2,True,False,False,False,False,False,False,False
+1177,DAMAC Hills,1200000,1085,1105.99,2,3,False,False,False,False,False,False,False,False
+1178,Greens,440000,440,1000.0,0,1,False,True,False,False,False,False,False,False
+1179,Jumeirah Village Circle,2050906,3688,556.1,4,5,False,True,False,False,False,False,False,True
+1180,Dubai Harbour,1400000,750,1866.67,1,2,False,True,False,False,False,False,False,False
+1181,Dubai Harbour,2450000,1200,2041.67,2,3,False,True,False,False,False,False,False,False
+1182,Dubai Harbour,1175000,745,1577.18,1,2,False,True,True,False,False,False,False,True
+1183,The Hills,1500000,1282,1170.05,2,2,False,True,True,False,False,False,False,True
+1184,International City,731000,933,783.49,2,2,False,False,True,False,False,False,False,True
+1185,Dubai Marina,1500000,968,1549.59,1,2,False,False,False,False,False,False,False,False
+1186,Palm Jumeirah,2500000,1223,2044.15,1,2,False,True,False,False,False,False,False,True
+1187,Jumeirah Lake Towers,700000,829,844.39,1,1,False,False,False,False,False,False,False,True
+1188,Jumeirah Beach Residence,1200000,638,1880.88,1,1,False,False,False,False,False,False,False,True
+1189,Palm Jumeirah,14560000,3234,4502.16,3,4,True,False,False,False,False,False,False,True
+1190,Dubai Marina,2150000,1006,2137.18,2,2,False,False,False,False,False,False,False,False
+1191,Downtown Dubai,3100000,1995,1553.88,3,5,True,False,False,False,False,False,False,True
+1192,Dubai Marina,1390000,1775,783.1,3,3,True,False,False,False,False,False,False,False
+1193,Jumeirah Beach Residence,1350000,1882,717.32,3,4,True,False,True,False,False,False,False,True
+1194,Dubai Marina,1900000,1067,1780.69,2,2,False,False,False,False,False,False,False,False
+1195,Dubai Marina,1130000,1226,921.7,2,2,False,False,False,False,True,False,False,False
+1196,Remraam,468999,1205,389.21,1,1,False,False,False,False,False,False,False,False
+1197,Remraam,503000,758,663.59,1,2,False,False,False,False,False,False,False,False
+1198,Remraam,308999,494,625.5,0,1,False,False,False,False,False,False,False,True
+1199,Jumeirah Village Circle,599900,829,723.64,1,2,False,False,False,False,False,False,False,False
+1200,Dubai Marina,2100000,1663,1262.78,2,3,True,False,False,False,False,False,False,False
+1201,Motor City,1300000,1932,672.88,3,4,True,False,False,False,False,False,False,False
+1202,Downtown Dubai,2249888,1103,2039.79,1,2,False,True,False,False,False,False,False,True
+1203,Downtown Dubai,3999888,1639,2440.44,2,3,False,True,False,False,False,False,False,True
+1204,Dubai South (Dubai World Central),290000,437,663.62,0,1,False,False,True,False,False,False,False,False
+1205,Dubai Marina,1000000,725,1379.31,1,2,False,False,False,False,False,False,False,False
+1206,Dubai South (Dubai World Central),550000,882,623.58,1,2,True,False,True,False,False,False,False,False
+1207,Dubai South (Dubai World Central),400000,516,775.19,0,1,False,False,False,False,False,False,False,True
+1208,Dubai Land,700000,1390,503.6,2,3,False,False,False,False,False,False,False,False
+1209,Jumeirah,5500000,1521,3616.04,1,2,True,False,False,False,False,False,False,True
+1210,Downtown Dubai,2400000,1049,2287.89,1,2,False,True,False,False,False,False,False,True
+1211,Business Bay,748888,427,1753.84,0,1,False,False,False,False,False,False,False,True
+1212,City Walk,1400000,943,1484.62,1,2,False,False,False,False,False,False,False,True
+1213,Dubai Marina,2200000,2314,950.73,3,4,True,False,False,False,False,False,False,True
+1214,Dubai Marina,1650000,1793,920.25,2,3,False,False,False,False,False,False,False,True
+1215,Al Furjan,725000,950,763.16,2,3,False,False,True,False,False,False,False,True
+1216,Motor City,900000,1845,487.8,2,2,False,False,False,False,False,False,False,False
+1217,Dubai Marina,950000,1198,792.99,2,2,False,False,False,False,False,False,False,False
+1218,The Views,2000000,1680,1190.48,3,4,True,False,False,False,False,False,False,True
+1219,Dubai Creek Harbour (The Lagoons),1600000,1162,1376.94,2,3,False,True,True,False,False,False,False,True
+1220,Dubai Creek Harbour (The Lagoons),1971905,1441,1368.43,3,3,False,False,False,False,False,False,False,True
+1221,Jumeirah Village Circle,1600000,2512,636.94,2,3,False,True,True,True,False,False,False,True
+1222,Business Bay,1299999,896,1450.89,1,2,False,False,False,False,False,False,False,False
+1223,Old Town,1525000,934,1632.76,1,2,False,False,False,True,True,False,True,True
+1224,Business Bay,2800000,2370,1181.43,3,4,True,False,True,False,False,False,False,True
+1225,Greens,1095000,1295,845.56,2,2,False,False,True,False,False,False,False,True
+1226,Business Bay,720000,584,1232.88,0,1,False,False,False,False,False,False,False,True
+1227,The Views,1300000,850,1529.41,1,1,False,False,False,False,False,False,False,False
+1228,Downtown Dubai,2700000,2056,1313.23,2,4,False,False,False,False,False,False,False,False
+1229,Dubai Marina,3500000,3562,982.59,3,5,False,False,False,False,False,False,False,False
+1230,Dubai Hills Estate,1280000,1200,1066.67,2,2,False,False,True,False,False,False,False,True
+1231,The Views,1600000,1408,1136.36,2,1,False,False,False,False,False,False,False,False
+1232,Jumeirah Village Circle,725000,814,890.66,1,2,False,False,False,False,False,False,False,False
+1233,Jumeirah Lake Towers,1305000,1338,975.34,2,3,False,False,True,False,False,False,False,True
+1234,Dubai Marina,1675000,1376,1217.3,2,3,False,True,False,False,False,False,False,False
+1235,Jumeirah Beach Residence,1400000,1402,998.57,2,3,False,True,True,False,False,False,False,True
+1236,Downtown Dubai,1550000,844,1836.49,1,2,False,False,True,False,False,False,False,True
+1237,Al Barsha,493314,418,1180.18,0,1,False,True,False,False,False,False,False,False
+1238,Old Town,2100000,1433,1465.46,2,3,False,True,False,False,False,False,False,True
+1239,Downtown Dubai,1750000,1635,1070.34,2,3,False,False,False,False,False,False,False,False
+1240,Palm Jumeirah,1875000,1008,1860.12,1,2,False,False,False,False,False,False,False,True
+1241,Barsha Heights (Tecom),400000,296,1351.35,0,1,False,False,False,False,False,False,False,False
+1242,Jumeirah Lake Towers,1350000,1650,818.18,2,3,True,False,False,False,False,False,False,True
+1243,Dubai Marina,795000,592,1342.91,1,1,False,True,True,False,False,False,False,True
+1244,Dubai Hills Estate,1450000,1362,1064.61,2,3,False,False,True,False,False,False,False,True
+1245,Dubai Marina,1150000,1300,884.62,2,3,False,True,False,False,False,True,False,True
+1246,The Views,849000,755,1124.5,1,1,False,False,True,False,False,False,False,True
+1247,Jumeirah Village Circle,555000,680,816.18,1,2,False,False,True,False,False,False,False,True
+1248,Downtown Dubai,2400000,1453,1651.75,2,3,False,True,True,False,False,False,False,True
+1249,Downtown Dubai,8924888,4535,1968.0,4,5,False,True,False,False,False,False,True,True
+1250,Downtown Dubai,4100000,1790,2290.5,3,4,True,True,True,False,False,False,False,True
+1251,Jumeirah Beach Residence,1550000,1374,1128.09,2,3,False,False,True,False,False,False,True,True
+1252,Downtown Dubai,2000000,1443,1386.0,2,3,False,True,True,False,False,False,False,True
+1253,World Trade Center,1750000,1744,1003.44,2,3,False,False,False,False,False,False,True,True
+1254,World Trade Center,2750000,2939,935.69,3,4,True,True,False,False,False,False,False,True
+1255,World Trade Center,1300000,1453,894.7,1,2,False,False,False,False,False,False,False,False
+1256,World Trade Center,4150000,3466,1197.35,4,5,False,True,False,False,False,False,False,True
+1257,World Trade Center,1250000,1249,1000.8,2,2,False,True,False,False,False,False,False,True
+1258,Downtown Dubai,3650000,1435,2543.55,2,2,False,True,False,False,False,False,False,True
+1259,Downtown Dubai,9900000,2562,3864.17,4,5,True,True,False,False,False,False,True,True
+1260,Old Town,2425000,1966,1233.47,3,4,True,True,False,False,False,False,False,True
+1261,Downtown Dubai,1299000,1300,999.23,2,2,False,False,False,False,False,False,False,True
+1262,World Trade Center,5499999,4155,1323.71,4,5,False,False,False,False,False,False,False,True
+1263,The Views,1390000,1329,1045.9,2,2,False,False,False,False,False,False,False,False
+1264,Al Barsha,620000,764,811.52,1,2,False,False,False,False,False,False,False,True
+1265,Jumeirah Village Circle,1290000,1993,647.27,3,4,False,True,True,False,False,False,False,True
+1266,The Views,880000,751,1171.77,1,1,False,False,False,False,False,False,False,False
+1267,Business Bay,780000,401,1945.14,0,1,False,True,False,False,False,False,False,True
+1268,Dubai Harbour,1410888,746,1891.27,1,2,False,False,False,False,False,False,False,True
+1269,Downtown Dubai,3500000,1485,2356.9,3,3,False,False,False,False,False,False,False,True
+1270,Dubai Creek Harbour (The Lagoons),1150000,801,1435.71,1,2,False,False,False,False,False,False,False,False
+1271,The Views,1550000,1334,1161.92,2,2,False,False,False,False,False,False,False,False
+1272,DAMAC Hills,1350000,1569,860.42,2,3,False,False,False,False,False,False,False,True
+1273,The Views,680000,430,1581.4,0,1,False,True,True,False,False,False,False,True
+1274,Al Barsha,697790,620,1125.47,1,2,False,True,False,False,False,False,False,True
+1275,Dubai Marina,950000,768,1236.98,1,1,False,False,False,False,False,False,False,True
+1276,Dubai Marina,1300000,1076,1208.18,1,2,False,True,False,False,False,False,False,True
+1277,Downtown Dubai,1850000,1406,1315.79,2,3,False,True,True,False,False,False,False,True
+1278,Motor City,860000,1358,633.28,2,3,False,False,False,False,False,False,False,False
+1279,Downtown Dubai,2150000,1711,1256.58,2,3,False,True,False,False,False,False,False,True
+1280,Dubai Marina,2000000,2352,850.34,2,2,False,False,False,False,False,False,False,True
+1281,Dubai Creek Harbour (The Lagoons),1500000,1141,1314.64,2,3,False,False,False,False,False,False,False,True
+1282,Downtown Dubai,2500000,1817,1375.89,3,4,True,True,True,False,False,False,False,True
+1283,Jumeirah Lake Towers,730000,946,771.67,1,2,False,True,True,False,False,True,False,True
+1284,World Trade Center,2800000,2937,953.35,3,4,True,True,True,False,False,False,False,True
+1285,Jumeirah Beach Residence,1500000,1902,788.64,3,4,True,False,False,False,False,False,False,True
+1286,Dubai Hills Estate,1471888,998,1474.84,2,2,False,False,False,False,False,False,False,False
+1287,Jumeirah Village Circle,1199999,1361,881.7,2,3,False,False,True,False,False,False,False,True
+1288,Business Bay,1602000,1349,1187.55,3,3,False,True,True,False,False,False,False,True
+1289,DIFC,1200000,1025,1170.73,1,2,False,False,False,False,False,False,False,False
+1290,Palm Jumeirah,2300000,1869,1230.6,2,2,False,False,False,False,False,False,False,True
+1291,Downtown Dubai,2225000,1378,1614.66,1,2,False,True,False,False,False,False,False,True
+1292,Al Barari,2100000,1917,1095.46,1,1,False,False,False,False,False,False,False,True
+1293,Al Barari,2300000,1915,1201.04,2,2,False,False,False,False,False,False,False,True
+1294,Downtown Dubai,2350000,1848,1271.65,2,2,False,True,False,False,False,False,False,False
+1295,Dubai Marina,2000000,1290,1550.39,2,3,False,False,False,False,False,False,False,True
+1296,Dubai Marina,2200000,1487,1479.49,2,3,False,False,False,False,False,False,False,True
+1297,Dubai Marina,2499950,1553,1609.76,2,3,False,True,False,False,False,False,False,True
+1298,Palm Jumeirah,1700000,1770,960.45,2,3,True,False,False,False,False,False,False,True
+1299,Dubai Harbour,1949888,1139,1711.93,2,2,False,True,False,False,False,False,False,False
+1300,Downtown Dubai,5796888,1861,3114.93,3,4,False,True,False,False,False,False,False,True
+1301,Palm Jumeirah,1100000,1303,844.21,1,2,True,True,True,False,False,False,False,True
+1302,Palm Jumeirah,2450000,2414,1014.91,3,4,True,True,False,False,False,False,False,False
+1303,The Views,999998,1351,740.19,2,2,False,False,False,False,False,False,False,True
+1304,Dubai Festival City,3100000,3116,994.87,3,5,True,False,False,False,False,False,False,False
+1305,Downtown Dubai,1650000,1450,1137.93,2,3,False,True,False,False,False,False,False,False
+1306,Downtown Dubai,1100000,933,1178.99,1,2,False,False,False,False,False,False,False,False
+1307,Arjan,575000,822,699.51,1,2,False,False,True,False,False,False,False,True
+1308,Arjan,720000,1052,684.41,2,2,False,False,True,False,False,False,False,True
+1309,Downtown Dubai,1700000,1105,1538.46,2,3,False,True,False,False,False,False,False,True
+1310,Downtown Dubai,1056711,674,1567.82,1,1,False,False,False,False,False,False,False,True
+1311,Downtown Dubai,2500000,1451,1722.95,2,3,False,True,False,False,False,False,False,True
+1312,Downtown Dubai,4500000,2220,2027.03,3,4,True,True,False,False,False,False,False,True
+1313,Dubai Hills Estate,1898000,2491,761.94,3,4,True,False,True,False,False,False,False,True
+1314,Jumeirah Lake Towers,650000,980,663.27,1,2,False,False,True,False,False,False,False,True
+1315,Downtown Dubai,2900000,1555,1864.95,2,3,False,False,False,False,False,False,False,False
+1316,Dubai Marina,590000,765,771.24,1,2,False,False,False,False,False,False,False,False
+1317,Dubai Marina,1650000,1376,1199.13,2,3,False,False,False,False,False,True,False,False
+1318,Jumeirah Beach Residence,1800000,1966,915.56,2,3,False,False,True,False,False,False,False,False
+1319,Dubai Harbour,1483888,745,1991.8,1,2,False,False,False,False,False,False,False,False
+1320,Dubai Marina,1390000,1356,1025.07,2,3,False,False,False,False,False,False,False,False
+1321,Jumeirah Beach Residence,2000000,2921,684.7,4,5,True,False,False,False,False,False,False,False
+1322,Downtown Dubai,1250000,1062,1177.02,2,3,False,False,False,False,False,False,False,True
+1323,Downtown Dubai,965000,1002,963.07,1,2,False,False,False,False,False,False,False,True
+1324,Jumeirah Beach Residence,2300000,1370,1678.83,2,3,False,True,True,False,False,False,True,True
+1325,Dubai Land,350000,770,454.55,1,1,False,False,False,False,False,False,False,False
+1326,Dubai Marina,1050000,768,1367.19,1,2,False,False,False,False,False,False,False,True
+1327,Jumeirah Lake Towers,530000,569,931.46,1,1,False,False,True,False,False,False,False,True
+1328,Jumeirah Village Circle,799000,1016,786.42,2,3,False,True,False,False,False,False,False,False
+1329,Dubai Sports City,400000,683,585.65,1,2,False,False,False,False,False,False,False,False
+1330,Jumeirah Village Circle,440000,790,556.96,1,1,False,False,False,False,False,False,False,False
+1331,Dubai Sports City,799000,1343,594.94,2,3,False,False,False,False,False,False,False,False
+1332,Al Furjan,600000,766,783.29,1,2,False,False,False,False,False,False,False,True
+1333,Motor City,1250000,2131,586.58,3,3,False,False,False,False,False,False,False,False
+1334,Business Bay,650000,619,1050.08,1,1,False,False,True,False,False,False,False,True
+1335,Town Square,670000,885,757.06,2,2,False,True,True,False,False,False,False,True
+1336,Downtown Dubai,999000,880,1135.23,1,1,False,True,False,False,False,False,False,True
+1337,Downtown Dubai,1650000,1517,1087.67,2,3,False,True,True,False,False,False,False,True
+1338,DAMAC Hills,700000,851,822.56,1,2,False,True,False,False,False,False,False,True
+1339,Meydan,2975000,2795,1064.4,4,5,True,True,True,False,False,False,False,True
+1340,Palm Jumeirah,3600000,2931,1228.25,3,4,False,False,True,False,False,False,False,True
+1341,Palm Jumeirah,3250000,4053,801.88,3,3,False,False,False,False,False,True,False,True
+1342,Remraam,650000,1006,646.12,2,2,False,False,False,False,False,False,False,True
+1343,Town Square,870000,1431,607.97,3,3,False,True,True,False,False,False,False,True
+1344,Al Barari,4300000,4026,1068.06,3,4,False,False,False,False,False,False,False,True
+1345,Mohammed Bin Rashid City,1230000,760,1618.42,1,2,False,True,False,False,False,False,False,True
+1346,Palm Jumeirah,1250000,1590,786.16,2,4,False,False,True,False,False,False,False,True
+1347,Palm Jumeirah,4200000,4053,1036.27,3,4,False,False,False,False,False,False,False,False
+1348,Dubai Production City (IMPZ),930000,1070,869.16,2,2,False,False,False,False,False,False,False,False
+1349,Greens,1600000,1767,905.49,3,2,False,False,False,False,False,False,False,False
+1350,Downtown Dubai,2700000,1838,1468.99,3,4,False,False,True,False,False,False,False,True
+1351,The Views,1399999,1237,1131.77,2,2,False,False,False,False,False,False,False,False
+1352,Bluewaters,2400000,1154,2079.72,1,1,False,False,True,False,False,False,False,True
+1353,Jumeirah Beach Residence,1180000,1294,911.9,2,3,False,False,False,False,False,False,False,False
+1354,Dubai Marina,1050000,1490,704.7,2,3,False,False,False,False,False,False,False,False
+1355,Bluewaters,2495000,1155,2160.17,1,2,False,True,False,False,False,False,False,True
+1356,Jumeirah Village Circle,370000,421,878.86,0,1,False,True,True,False,False,False,False,True
+1357,Downtown Dubai,1600000,1104,1449.28,2,2,False,True,False,False,False,False,False,False
+1358,Dubai Marina,2400000,1850,1297.3,3,4,False,False,False,False,False,False,False,False
+1359,Dubai Marina,2100000,2430,864.2,2,3,False,False,False,False,False,False,False,False
+1360,Business Bay,1200000,1967,610.07,2,4,True,False,False,True,False,False,True,True
+1361,Jumeirah Village Circle,620190,840,738.32,1,2,False,False,True,False,False,False,False,True
+1362,Jumeirah Village Circle,759000,895,848.04,2,3,True,False,True,False,False,False,False,True
+1363,Dubai Marina,919000,529,1737.24,0,1,False,False,False,False,False,False,False,True
+1364,Downtown Dubai,2399998,1338,1793.72,2,3,False,False,False,False,False,False,False,True
+1365,Jumeirah Village Circle,759000,895,848.04,2,2,True,True,True,False,False,False,False,True
+1366,Jumeirah Village Circle,1190500,1575,755.87,3,4,True,False,True,False,False,False,False,True
+1367,Jumeirah Village Circle,620190,840,738.32,1,2,True,True,True,False,False,False,False,True
+1368,Jumeirah Village Circle,1190000,1575,755.56,3,4,True,True,True,False,False,False,False,True
+1369,Jumeirah Village Circle,620190,840,738.32,1,2,False,False,True,False,False,False,False,False
+1370,Jumeirah Village Circle,759000,895,848.04,2,3,False,False,True,False,False,False,False,True
+1371,Jumeirah Village Circle,1190500,1575,755.87,3,4,False,False,True,False,False,False,False,True
+1372,Dubai Marina,1750000,1480,1182.43,2,2,False,False,True,False,False,False,False,True
+1373,Dubai Marina,1430000,868,1647.47,1,2,False,True,True,False,False,False,False,True
+1374,Meydan,2500000,2800,892.86,3,4,True,True,True,False,False,False,False,True
+1375,Downtown Dubai,2500000,1445,1730.1,2,2,False,False,True,False,False,False,False,True
+1376,Palm Jumeirah,3119900,1057,2951.66,1,1,False,False,False,False,False,False,False,True
+1377,Al Barari,2649999,2809,943.4,2,3,False,False,False,False,False,False,False,False
+1378,Jumeirah Village Circle,620190,840,738.32,1,2,True,False,True,False,False,False,False,True
+1379,Jumeirah Village Circle,759000,895,848.04,2,2,False,False,True,False,False,False,False,True
+1380,Dubai Marina,2000000,1282,1560.06,2,2,False,False,False,False,False,False,False,True
+1381,Jumeirah Village Circle,1190500,1575,755.87,3,3,True,False,True,False,False,False,False,True
+1382,Downtown Dubai,1800000,1167,1542.42,2,2,False,False,True,False,False,False,False,True
+1383,Jumeirah Village Circle,620190,840,738.32,1,2,True,False,True,False,False,False,False,True
+1384,Jumeirah Village Circle,759000,895,848.04,2,3,True,False,True,False,False,False,False,True
+1385,Al Sufouh,900000,1044,862.07,1,2,False,False,False,False,False,False,False,False
+1386,Greens,629999,754,835.54,1,1,False,False,True,False,False,False,False,True
+1387,Al Sufouh,849000,773,1098.32,1,2,False,False,False,False,False,False,False,False
+1388,Jumeirah Village Circle,1190500,1573,756.83,3,4,False,False,True,False,False,False,False,True
+1389,Downtown Dubai,1991888,1041,1913.44,1,2,False,False,False,False,False,False,False,False
+1390,Downtown Dubai,2850000,1262,2258.32,2,2,False,True,False,False,False,False,False,True
+1391,Jumeirah Beach Residence,1396000,849,1644.29,1,2,False,False,False,False,False,False,False,True
+1392,Downtown Dubai,1525000,739,2063.6,1,1,False,False,False,False,False,False,False,True
+1393,Downtown Dubai,3500000,1271,2753.74,2,3,False,True,False,False,False,False,False,True
+1394,Jumeirah Lake Towers,3100000,2903,1067.86,3,4,False,False,False,False,False,False,False,True
+1395,Downtown Dubai,1600000,1150,1391.3,2,3,False,False,False,False,False,False,False,True
+1396,Dubai Harbour,1926888,747,2579.5,1,2,True,True,False,False,False,False,False,False
+1397,Dubai Hills Estate,1254888,959,1308.54,2,3,False,True,False,False,False,False,False,True
+1398,Downtown Dubai,2900000,1484,1954.18,2,3,False,False,False,False,False,False,False,True
+1399,Palm Jumeirah,1550000,1975,784.81,2,3,False,True,False,False,False,False,False,False
+1400,Business Bay,2900000,3007,964.42,3,4,True,True,False,False,False,False,False,True
+1401,Mudon,1276000,1605,795.02,2,3,False,True,False,False,False,False,False,True
+1402,Mudon,1790000,1485,1205.39,3,4,False,True,False,False,False,False,False,True
+1403,Dubai Marina,1700000,1366,1244.51,2,3,False,False,False,False,False,False,False,True
+1404,Dubai Marina,949999,619,1534.73,1,1,False,False,False,False,False,False,False,True
+1405,Dubai Marina,1099000,1444,761.08,2,2,False,False,False,False,False,False,False,True
+1406,Dubai Sports City,400000,447,894.85,0,1,False,False,True,False,False,False,False,True
+1407,Jumeirah Beach Residence,2400000,1813,1323.77,3,3,False,False,False,False,False,False,False,False
+1408,Jumeirah Village Circle,500000,851,587.54,1,2,True,False,True,False,False,False,False,True
+1409,DIFC,2700000,1757,1536.71,2,3,False,True,True,False,False,False,False,True
+1410,Downtown Dubai,1284888,637,2017.09,1,2,False,False,False,False,False,False,False,True
+1411,Dubai Sports City,574000,1012,567.19,2,3,False,False,False,False,False,False,False,True
+1412,Downtown Dubai,1270888,637,1995.11,1,2,False,False,False,False,False,False,False,True
+1413,Dubai Marina,2200000,1787,1231.11,3,3,False,False,False,False,False,False,False,True
+1414,Business Bay,1850000,1967,940.52,3,3,False,False,False,False,False,False,False,False
+1415,Arjan,570000,703,810.81,1,2,False,False,True,False,False,False,False,True
+1416,Downtown Dubai,2800000,1607,1742.38,3,4,False,True,False,False,False,False,False,True
+1417,Motor City,795000,1642,484.17,2,2,False,False,False,False,False,False,False,False
+1418,Downtown Dubai,1599888,1443,1108.72,2,3,False,True,True,False,False,True,False,True
+1419,Palm Jumeirah,1425000,1800,791.67,2,2,False,True,False,False,False,False,False,True
+1420,Jumeirah Beach Residence,899000,1285,699.61,2,2,False,False,True,False,False,False,False,True
+1421,Dubai Marina,1599950,1324,1208.42,2,2,False,True,False,False,False,False,False,True
+1422,Palm Jumeirah,1399000,1145,1221.83,1,2,False,False,False,False,False,False,False,False
+1423,Downtown Dubai,1750000,1186,1475.55,1,2,False,False,False,False,False,False,False,False
+1424,Downtown Dubai,3500000,1506,2324.04,2,3,False,True,False,False,False,False,False,True
+1425,Jumeirah Beach Residence,2999999,2500,1200.0,3,2,True,True,True,False,False,False,False,True
+1426,Dubai Marina,2399950,1509,1590.42,2,2,False,True,False,False,False,False,False,False
+1427,Bluewaters,4500000,2102,2140.82,3,4,False,False,False,False,False,False,False,True
+1428,Dubai Marina,2999999,1674,1792.11,3,4,False,False,True,False,False,False,False,True
+1429,Jumeirah Beach Residence,1500000,640,2343.75,1,2,False,True,False,False,False,False,False,True
+1430,Jumeirah Beach Residence,3399999,1181,2878.92,3,4,False,True,False,False,False,False,False,True
+1431,Jumeirah Beach Residence,9999999,3641,2746.5,4,5,False,True,False,False,False,False,False,True
+1432,Dubai Marina,1400000,616,2272.73,1,1,False,True,False,False,False,False,False,True
+1433,Dubai Marina,2490000,2490,1000.0,3,4,True,False,False,False,False,False,False,True
+1434,Discovery Gardens,410000,828,495.17,1,2,False,False,True,False,False,False,True,True
+1435,Mohammed Bin Rashid City,799000,493,1620.69,1,1,False,False,True,False,False,False,False,True
+1436,Jumeirah Lake Towers,395000,450,877.78,0,1,False,False,True,False,False,False,True,True
+1437,Business Bay,1510000,1741,867.32,2,3,False,False,True,False,False,False,False,True
+1438,Business Bay,1500000,1741,861.57,2,3,False,False,True,False,False,False,False,True
+1439,Dubai Marina,1350000,1105,1221.72,2,2,False,False,False,False,False,False,False,False
+1440,Jumeirah Village Circle,349000,400,872.5,1,1,False,False,False,False,False,False,False,False
+1441,Jumeirah Village Circle,426000,390,1092.31,0,1,False,False,True,False,False,False,False,True
+1442,Jumeirah Beach Residence,5650000,2898,1949.62,5,4,False,False,False,False,False,False,False,True
+1443,Jumeirah Beach Residence,3100000,2918,1062.37,4,3,False,False,False,False,False,False,False,True
+1444,Dubai Marina,5500000,3277,1678.36,5,4,False,False,False,False,False,False,False,True
+1445,Jumeirah Village Circle,620190,840,738.32,1,2,True,False,True,False,False,False,False,True
+1446,Jumeirah Village Circle,759000,895,848.04,2,3,True,False,True,False,False,False,False,True
+1447,Jumeirah Village Circle,1190500,1575,755.87,3,4,True,False,True,False,False,False,False,True
+1448,Dubai Marina,1600000,1480,1081.08,2,3,False,True,False,False,False,True,False,True
+1449,Dubai Sports City,450000,727,618.98,1,2,False,False,True,False,False,False,False,True
+1450,Jumeirah Beach Residence,1395000,1807,772.0,3,4,False,False,False,False,False,False,False,True
+1451,Downtown Dubai,3090000,1714,1802.8,3,4,False,True,False,False,False,False,False,False
+1452,Downtown Dubai,4100000,2000,2050.0,3,5,True,False,False,False,False,False,False,True
+1453,Dubai Marina,800000,1739,460.03,2,3,False,False,True,False,False,False,False,True
+1454,Dubai Marina,720000,941,765.14,1,2,False,False,False,False,False,False,True,True
+1455,Town Square,494999,581,851.98,1,1,False,False,False,False,False,False,False,False
+1456,Dubai Marina,780000,542,1439.11,0,1,False,False,False,False,False,False,False,True
+1457,Palm Jumeirah,4800000,2873,1670.73,3,4,True,True,True,False,False,False,False,True
+1458,The Views,1250000,1722,725.9,2,3,False,False,False,False,False,False,False,False
+1459,Dubai Marina,1499998,2352,637.75,2,2,False,False,False,False,False,False,False,False
+1460,Jumeirah Village Circle,349999,584,599.31,1,2,False,False,False,False,False,False,False,True
+1461,Town Square,1420888,1438,988.1,3,3,False,False,True,False,False,False,True,True
+1462,Town Square,725888,700,1036.98,1,2,False,False,False,False,False,False,True,True
+1463,Town Square,1010888,1655,610.81,2,2,False,False,False,False,False,False,True,True
+1464,The Hills,2400000,1780,1348.31,3,3,True,True,True,False,False,False,False,True
+1465,Dubai Marina,1650000,1861,886.62,1,1,False,True,False,False,False,False,False,True
+1466,Business Bay,1698000,1512,1123.02,2,3,False,False,False,False,False,False,True,False
+1467,Bluewaters,1800000,1117,1611.46,1,2,False,False,False,False,False,False,False,True
+1468,Jumeirah,1737000,1163,1493.55,2,3,False,True,True,False,False,False,True,True
+1469,Jumeirah,1271000,732,1736.34,1,2,False,True,True,False,False,False,True,True
+1470,Jumeirah,4127000,1966,2099.19,3,4,False,True,True,False,False,False,True,True
+1471,Jumeirah Beach Residence,1230000,1294,950.54,2,3,False,False,False,False,False,False,False,True
+1472,Jumeirah Village Circle,380000,679,559.65,1,1,False,False,True,False,False,False,False,True
+1473,Downtown Dubai,940000,915,1027.32,1,1,False,True,True,True,False,False,False,True
+1474,Business Bay,2600000,2791,931.57,4,6,False,False,False,False,False,False,False,True
+1475,Business Bay,1789999,2050,873.17,3,5,False,False,False,False,False,False,False,True
+1476,Jumeirah Beach Residence,690000,714,966.39,0,1,False,False,False,False,False,False,False,True
+1477,Downtown Dubai,2100000,1624,1293.1,2,2,False,False,False,False,False,False,False,True
+1478,Downtown Dubai,2100000,1539,1364.52,2,2,False,False,False,False,False,False,False,True
+1479,Palm Jumeirah,1600000,1144,1398.6,1,2,False,True,True,True,False,False,False,True
+1480,Al Furjan,625000,823,759.42,1,2,False,False,True,False,False,False,False,True
+1481,Jumeirah Village Circle,658000,733,897.68,1,2,False,False,True,False,False,False,False,True
+1482,Arjan,845000,859,983.7,1,2,False,False,True,False,False,False,False,True
+1483,Jumeirah Village Circle,399990,504,793.63,0,1,False,False,False,False,False,False,True,False
+1484,Dubai Marina,1550000,860,1802.33,1,2,False,False,False,False,False,False,False,False
+1485,Dubai Marina,2299000,2328,987.54,3,4,False,True,False,False,False,False,True,True
+1486,Jumeirah Beach Residence,4100000,1800,2277.78,2,2,False,True,False,False,False,False,False,True
+1487,Downtown Dubai,12949888,3056,4237.53,4,4,False,True,False,False,False,False,False,True
+1488,Business Bay,890000,1155,770.56,1,2,False,False,False,False,False,False,False,True
+1489,Dubai Marina,2140000,1736,1232.72,3,3,False,False,False,False,False,False,False,True
+1490,Jumeirah Lake Towers,701150,758,925.0,1,2,False,False,True,False,False,True,False,True
+1491,Dubai Marina,1100000,1120,982.14,2,2,False,False,False,False,False,False,False,True
+1492,Downtown Dubai,2999900,1888,1588.93,2,2,False,True,False,False,False,True,False,True
+1493,Downtown Dubai,1724900,1096,1573.81,1,2,False,False,False,False,False,True,False,True
+1494,Discovery Gardens,419000,990,423.23,1,2,False,False,True,False,False,False,False,True
+1495,Dubai Marina,1250000,1140,1096.49,1,2,False,True,True,False,False,False,False,False
+1496,International City,415000,796,521.36,1,2,False,False,True,False,False,False,False,True
+1497,Dubai Production City (IMPZ),340000,828,410.63,1,2,False,False,True,False,False,False,False,True
+1498,Jumeirah Lake Towers,1254462,1378,910.35,2,3,False,False,True,False,False,True,False,True
+1499,Dubai Silicon Oasis,250000,353,708.22,0,1,False,False,False,False,False,False,False,True
+1500,Jumeirah Village Circle,750000,1478,507.44,2,4,False,False,False,False,False,False,False,True
+1501,Dubai Marina,1318000,1255,1050.2,2,2,False,False,False,False,False,False,False,True
+1502,Arjan,430000,468,918.8,0,1,False,False,True,False,False,False,False,True
+1503,Downtown Dubai,2100000,1049,2001.91,1,2,False,False,False,False,False,False,False,True
+1504,Downtown Dubai,2949900,1778,1659.11,2,3,False,True,False,False,False,True,False,True
+1505,Greens,1300000,1441,902.15,2,2,False,True,False,False,False,False,False,True
+1506,Dubai Marina,1300000,1330,977.44,2,2,False,True,True,False,False,False,False,True
+1507,Motor City,950000,1413,672.33,2,3,False,True,True,False,False,False,False,True
+1508,Dubai Marina,1075000,662,1623.87,1,2,False,True,True,False,False,False,False,True
+1509,Dubai Marina,730000,761,959.26,1,2,False,True,False,False,False,False,False,True
+1510,Business Bay,870000,981,886.85,2,3,False,False,False,False,False,False,False,True
+1511,Downtown Dubai,7500000,2704,2773.67,4,5,True,True,False,False,False,True,False,False
+1512,Dubai Harbour,1900000,1139,1668.13,2,2,False,True,False,False,False,False,True,True
+1513,Dubai Marina,875000,964,907.68,2,2,False,False,True,False,False,False,False,True
+1514,Palm Jumeirah,1550000,1777,872.26,2,3,False,False,False,False,False,False,False,False
+1515,Jumeirah,27500000,6735,4083.15,4,5,False,False,False,False,False,False,False,True
+1516,Dubai Silicon Oasis,1200000,2168,553.51,3,5,False,False,True,False,False,False,False,True
+1517,Downtown Dubai,3600000,880,4090.91,1,2,False,False,False,False,False,False,False,True
+1518,Jumeirah Lake Towers,875000,1380,634.06,2,2,False,False,False,False,False,False,False,True
+1519,DIFC,2100000,1836,1143.79,2,2,False,False,True,False,False,False,False,True
+1520,Dubai Land,475000,1054,450.66,2,2,False,True,True,False,False,False,False,True
+1521,Jumeirah Beach Residence,3400000,2918,1165.18,4,4,True,False,False,False,False,False,False,False
+1522,Downtown Dubai,5500000,2728,2016.13,3,4,True,True,False,False,False,False,False,True
+1523,Downtown Dubai,2360000,1712,1378.5,2,2,False,True,False,False,False,False,False,True
+1524,Al Furjan,989888,1400,707.06,2,3,False,False,False,False,False,False,False,False
+1525,Jumeirah Lake Towers,1253980,1378,910.0,2,3,False,True,True,False,False,True,False,True
+1526,Jumeirah Lake Towers,712250,770,925.0,1,2,False,True,True,False,False,True,False,True
+1527,Culture Village,6800000,4070,1670.76,4,4,True,True,True,False,False,False,False,True
+1528,Dubai Marina,1200000,1291,929.51,2,3,False,False,False,False,False,False,False,False
+1529,Downtown Dubai,4500000,2360,1906.78,3,4,False,False,True,False,False,False,False,True
+1530,Downtown Dubai,1850000,982,1883.91,1,2,False,False,True,False,False,False,False,True
+1531,Dubai Marina,3100000,1806,1716.5,3,4,True,True,False,False,False,False,False,True
+1532,Dubai Harbour,1100000,655,1679.39,1,2,False,True,False,False,False,False,False,False
+1533,Jumeirah Lake Towers,1275000,1435,888.5,2,4,True,False,False,False,False,False,False,True
+1534,Downtown Dubai,8500000,3077,2762.43,5,5,False,True,False,False,False,True,False,True
+1535,Jumeirah Beach Residence,1050000,1350,777.78,1,2,False,False,False,False,False,False,False,True
+1536,Dubai Marina,700000,975,717.95,1,2,False,False,True,False,False,False,False,True
+1537,Al Furjan,900000,1504,598.4,2,2,False,False,False,False,False,False,False,True
+1538,Business Bay,1200000,1332,900.9,2,3,False,False,False,False,False,False,False,False
+1539,Business Bay,1210000,1567,772.18,1,2,False,False,False,False,False,False,False,True
+1540,Greens,950000,1094,868.37,2,2,False,False,True,False,False,False,False,True
+1541,Jumeirah Beach Residence,1250000,1388,900.58,2,3,False,False,True,False,False,False,False,True
+1542,Downtown Dubai,2350000,1447,1624.05,2,3,False,True,False,False,False,False,False,True
+1543,DIFC,2700000,2070,1304.35,3,3,False,False,False,False,False,False,False,True
+1544,Downtown Dubai,1900000,1300,1461.54,2,3,False,True,True,False,False,False,False,True
+1545,Greens,1050000,1408,745.74,2,2,False,False,False,False,False,False,False,False
+1546,Palm Jumeirah,1500000,1583,947.57,2,3,False,False,False,False,False,False,False,False
+1547,Dubai Marina,1900000,1443,1316.7,2,2,False,False,False,False,False,False,False,False
+1548,Downtown Dubai,2789900,1546,1804.59,2,3,False,True,False,False,False,True,False,True
+1549,Downtown Dubai,3600000,2081,1729.94,3,4,False,False,True,False,False,False,False,True
+1550,Jumeirah Lake Towers,865000,1249,692.55,2,2,False,False,True,False,False,False,False,True
+1551,Dubai Land,520000,1039,500.48,2,3,False,False,False,False,False,False,False,False
+1552,Dubai Sports City,425000,682,623.17,1,1,False,True,False,False,False,False,False,True
+1553,Dubai Creek Harbour (The Lagoons),3159888,1589,1988.6,3,3,False,False,False,False,False,False,False,True
+1554,Downtown Dubai,2000000,1400,1428.57,2,3,False,False,True,False,False,False,False,True
+1555,Dubai Marina,1250000,1734,720.88,3,3,False,False,False,False,False,False,False,False
+1556,Jumeirah Lake Towers,1275000,2031,627.77,2,4,True,False,False,False,False,False,False,True
+1557,The Views,1548000,1318,1174.51,2,2,False,True,True,False,False,False,False,True
+1558,Motor City,625000,919,680.09,1,2,False,False,True,False,False,False,False,True
+1559,Dubai Sports City,520000,922,563.99,1,2,False,False,False,False,False,False,False,True
+1560,Dubai Sports City,465000,813,571.96,1,2,False,True,True,False,False,False,False,True
+1561,Dubai Marina,1400000,1376,1017.44,2,3,False,True,False,False,False,False,False,True
+1562,Dubai Marina,949000,958,990.61,1,2,False,False,False,False,False,False,False,True
+1563,Dubai Creek Harbour (The Lagoons),1200000,1133,1059.14,2,2,False,True,True,False,False,False,False,True
+1564,Dubai Marina,1599999,1547,1034.26,3,3,True,True,True,False,False,False,False,True
+1565,Downtown Dubai,2800000,1571,1782.3,2,3,False,False,False,False,False,False,False,False
+1566,Dubai Marina,2099950,1443,1455.27,2,3,False,False,False,False,False,False,False,True
+1567,Downtown Dubai,2100000,1618,1297.9,1,2,False,False,False,False,False,False,False,True
+1568,Mohammed Bin Rashid City,1248975,793,1575.0,2,2,False,False,True,False,False,False,False,True
+1569,Mohammed Bin Rashid City,757809,493,1537.14,1,1,False,False,True,False,False,False,False,True
+1570,Dubai Marina,1190000,1734,686.27,3,3,False,False,False,False,False,False,False,False
+1571,Arjan,1100000,1857,592.35,3,3,False,False,True,True,False,False,False,True
+1572,Barsha Heights (Tecom),950000,1397,680.03,2,3,False,True,False,False,False,False,False,True
+1573,Jumeirah Lake Towers,1400000,1690,828.4,2,3,True,True,False,False,True,False,False,True
+1574,Jumeirah Beach Residence,2650000,3022,876.9,4,5,True,False,False,False,False,False,False,True
+1575,Dubai Hills Estate,700000,654,1070.34,1,1,False,False,False,False,False,False,False,True
+1576,Dubai Marina,1000000,1305,766.28,2,2,False,False,False,False,False,False,False,False
+1577,Dubai Marina,720000,737,976.93,1,2,False,False,False,False,False,False,False,False
+1578,Palm Jumeirah,1800000,1991,904.07,2,2,False,False,False,False,False,False,False,False
+1579,Discovery Gardens,420000,925,454.05,1,2,False,False,True,False,False,False,False,True
+1580,Jumeirah Village Circle,474000,478,991.63,0,1,False,False,False,False,False,False,False,True
+1581,Dubai Marina,925000,841,1099.88,1,1,False,True,False,False,False,False,False,True
+1582,Dubai Production City (IMPZ),370000,712,519.66,1,2,False,False,False,False,False,False,False,True
+1583,Palm Jumeirah,17798550,6160,2889.38,3,5,True,False,False,False,False,True,True,False
+1584,Dubai Marina,1490000,2161,689.5,3,4,True,False,True,False,False,False,False,True
+1585,Jumeirah Beach Residence,7800000,2586,3016.24,3,4,False,False,False,False,False,False,False,False
+1586,Dubai Creek Harbour (The Lagoons),2027888,1070,1895.22,2,2,False,False,True,False,False,False,True,True
+1587,Dubai Marina,840477,474,1773.16,0,1,False,True,True,False,False,False,True,True
+1588,Dubai Marina,2700000,2363,1142.62,3,4,True,False,False,False,False,False,False,True
+1589,Business Bay,1349888,1055,1279.51,2,3,False,True,False,False,False,False,False,True
+1590,Business Bay,1349888,1388,972.54,2,3,False,True,False,False,False,False,False,True
+1591,Dubai Marina,949999,971,978.37,1,3,False,False,False,False,False,False,False,True
+1592,International City,220000,484,454.55,0,1,False,False,True,False,False,False,False,False
+1593,Palm Jumeirah,6500000,2629,2472.42,3,5,True,False,False,False,False,False,False,True
+1594,Downtown Dubai,1025000,1062,965.16,2,3,False,True,False,False,False,False,False,True
+1595,Greens,645000,754,855.44,1,1,False,False,True,False,False,False,False,True
+1596,Jumeirah Beach Residence,2899999,1181,2455.55,2,3,False,True,False,False,False,False,False,True
+1597,Business Bay,900000,616,1461.04,0,1,False,False,True,False,False,False,False,True
+1598,Motor City,599999,1140,526.31,1,2,False,False,False,False,False,False,False,False
+1599,Business Bay,1550000,1300,1192.31,2,3,False,True,False,False,False,False,False,True
+1600,Meydan,2974999,2795,1064.4,4,6,True,False,False,False,False,False,False,True
+1601,DAMAC Hills,1601000,1525,1049.84,2,2,False,False,True,False,False,False,False,False
+1602,Dubai Harbour,2142888,1133,1891.34,2,3,False,True,True,False,False,False,False,True
+1603,Dubai Harbour,1715000,789,2173.64,1,2,False,True,True,False,False,False,False,True
+1604,Dubai Harbour,2551888,1252,2038.25,2,2,False,True,True,False,False,False,False,True
+1605,Jumeirah Beach Residence,3800000,2150,1767.44,2,2,False,False,False,False,False,False,False,True
+1606,Dubai Creek Harbour (The Lagoons),1050000,760,1381.58,1,2,False,True,True,False,False,False,True,True
+1607,Palm Jumeirah,2300943,1095,2101.32,2,3,False,False,False,False,False,False,False,True
+1608,Downtown Dubai,1265000,1241,1019.34,2,3,False,False,False,False,False,False,False,True
+1609,Dubai Production City (IMPZ),230000,362,635.36,0,1,False,False,True,False,False,False,False,True
+1610,Dubai Production City (IMPZ),230000,380,605.26,0,1,False,False,True,False,False,False,False,True
+1611,Discovery Gardens,300000,493,608.52,0,1,False,False,True,False,False,False,False,True
+1612,Dubai Healthcare City,500000,474,1054.85,0,1,False,True,False,False,False,False,False,True
+1613,Downtown Dubai,17888888,5253,3405.46,4,4,False,True,False,False,False,False,False,True
+1614,Dubai Marina,1350000,1330,1015.04,2,3,False,False,True,False,False,False,True,True
+1615,Dubai Marina,3125000,1814,1722.71,3,4,True,False,False,False,False,False,False,True
+1616,The Views,1340000,1347,994.8,2,2,False,True,False,False,False,False,False,True
+1617,Downtown Dubai,810000,727,1114.17,1,1,False,False,True,False,False,False,False,True
+1618,Dubai Marina,1000000,660,1515.15,1,2,False,False,False,False,False,False,False,True
+1619,Dubai Marina,930000,723,1286.31,1,2,False,False,True,False,False,False,False,True
+1620,Dubai Marina,1800000,1328,1355.42,2,3,False,False,True,False,False,False,False,True
+1621,Al Furjan,850000,1398,608.01,2,2,False,False,True,False,False,False,False,True
+1622,Dubai Sports City,550000,1322,416.04,2,3,False,False,True,False,False,False,False,True
+1623,Downtown Dubai,1600000,742,2156.33,1,1,False,False,False,False,False,False,False,True
+1624,Business Bay,600000,485,1237.11,0,1,False,False,False,True,False,False,False,True
+1625,Al Furjan,675000,877,769.67,1,1,False,False,False,False,False,False,False,False
+1626,Business Bay,1170000,914,1280.09,1,1,False,True,True,False,False,False,False,True
+1627,Business Bay,2000000,2043,978.95,3,3,False,True,True,False,False,False,False,True
+1628,Business Bay,1698000,1512,1123.02,2,3,True,False,True,False,False,False,True,True
+1629,Dubai Harbour,4335888,1700,2550.52,3,3,False,False,False,False,False,False,False,True
+1630,Dubai Creek Harbour (The Lagoons),3029888,1662,1823.04,3,3,False,False,False,False,False,False,False,True
+1631,Downtown Dubai,2166888,1087,1993.46,2,2,False,False,False,False,False,False,False,True
+1632,Downtown Dubai,4507888,1604,2810.4,3,3,False,False,False,False,False,False,False,True
+1633,DAMAC Hills,718000,769,933.68,1,2,False,False,False,False,False,False,False,True
+1634,DAMAC Hills,718000,769,933.68,1,2,False,False,False,False,False,False,False,True
+1635,DAMAC Hills,546000,509,1072.69,0,1,False,False,False,False,False,False,False,True
+1636,DAMAC Hills,718000,769,933.68,1,2,False,False,False,False,False,False,False,True
+1637,DAMAC Hills,546000,509,1072.69,0,1,False,False,False,False,False,False,False,True
+1638,Business Bay,1870000,1237,1511.72,2,2,False,False,False,False,False,True,False,True
+1639,DAMAC Hills,1442977,1302,1108.28,1,1,False,False,True,False,False,False,False,False
+1640,DAMAC Hills,1645000,1619,1016.06,2,2,False,False,True,False,False,False,False,False
+1641,Dubai Marina,3690888,1747,2112.7,3,3,False,False,False,False,False,False,False,True
+1642,Business Bay,709000,469,1511.73,1,1,False,False,True,False,False,False,False,False
+1643,Business Bay,710000,465,1526.88,1,1,False,False,True,False,False,False,False,False
+1644,Business Bay,713000,470,1517.02,1,1,False,False,True,False,False,False,False,False
+1645,Business Bay,786000,466,1686.7,1,1,False,True,False,False,False,False,False,True
+1646,Business Bay,794000,471,1685.77,1,1,False,True,False,False,False,False,False,True
+1647,Business Bay,1288000,913,1410.73,2,2,False,True,False,False,False,False,False,True
+1648,Business Bay,690000,428,1612.15,0,1,False,False,False,False,False,True,False,True
+1649,Business Bay,999000,696,1435.34,1,1,False,False,False,False,False,True,False,True
+1650,Business Bay,2437000,1696,1436.91,3,3,False,False,False,False,False,True,False,True
+1651,Business Bay,2439000,1686,1446.62,3,3,False,False,False,False,False,True,False,True
+1652,Business Bay,2448000,1696,1443.4,3,3,False,False,False,False,False,True,False,True
+1653,Business Bay,2312000,1046,2210.33,1,2,False,True,False,False,False,False,False,True
+1654,Business Bay,1644000,991,1658.93,2,2,False,False,False,False,False,False,False,True
+1655,Dubai Marina,3863000,1923,2008.84,3,4,False,True,False,False,False,True,False,True
+1656,Dubai Marina,3890000,1939,2006.19,3,4,False,True,False,False,False,True,False,True
+1657,Business Bay,1915000,2000,957.5,3,4,True,True,True,False,False,False,False,True
+1658,The Views,1340000,1400,957.14,2,2,False,False,True,False,False,False,False,True
+1659,Business Bay,560000,491,1140.53,0,1,False,True,False,False,False,False,False,True
+1660,Jumeirah Village Circle,999000,1574,634.69,2,3,False,False,False,False,False,False,False,True
+1661,Jumeirah Village Circle,1300000,1481,877.79,2,4,False,False,False,False,False,False,False,True
+1662,Dubai Marina,2750000,1657,1659.63,3,4,False,True,False,False,False,False,False,True
+1663,Dubai Harbour,2160888,1171,1845.34,2,3,False,False,False,False,False,False,False,False
+1664,The Hills,4278888,3607,1186.27,3,3,True,True,False,False,False,False,False,True
+1665,Al Furjan,950000,1556,610.54,3,4,False,False,True,False,False,False,False,True
+1666,Jumeirah Beach Residence,3900000,2170,1797.24,3,3,True,True,True,False,False,False,False,False
+1667,Greens,620000,764,811.52,1,1,False,False,True,False,False,False,False,True
+1668,Meydan,700000,676,1035.5,1,2,False,True,True,False,False,True,False,True
+1669,Downtown Dubai,1200000,831,1444.04,1,2,False,False,True,False,False,False,False,True
+1670,Jumeirah Lake Towers,810000,889,911.14,2,2,False,False,False,False,False,False,False,True
+1671,Downtown Dubai,1100000,744,1478.49,1,2,False,False,False,False,False,False,False,False
+1672,The Hills,3762888,2191,1717.43,3,3,True,True,False,False,False,False,False,True
+1673,Downtown Dubai,2299000,1445,1591.0,2,3,False,False,False,False,False,False,False,True
+1674,Palm Jumeirah,1800000,1158,1554.4,1,2,False,False,False,False,False,True,False,True
+1675,Motor City,1000000,1642,609.01,2,3,False,False,True,False,False,False,False,True
+1676,Jumeirah Village Circle,489100,560,873.39,0,1,False,False,False,False,False,False,False,True
+1677,Jumeirah Village Circle,480000,514,933.85,0,1,False,False,False,False,False,False,False,True
+1678,Business Bay,850000,410,2073.17,0,1,False,True,False,False,False,False,False,True
+1679,DAMAC Hills,330000,294,1122.45,0,1,False,False,False,False,False,False,False,True
+1680,Dubai Marina,650000,693,937.95,1,2,False,False,False,False,False,False,False,True
+1681,Jumeirah Village Circle,680000,770,883.12,1,2,False,False,True,False,False,False,False,True
+1682,Jumeirah Beach Residence,5170000,1959,2639.1,4,4,False,False,True,False,False,False,False,True
+1683,Jumeirah Village Circle,595000,743,800.81,1,2,True,False,False,False,False,False,False,True
+1684,Downtown Dubai,1500000,985,1522.84,1,2,False,False,False,False,False,False,False,True
+1685,Downtown Dubai,3950000,2010,1965.17,3,3,False,True,False,False,False,False,False,True
+1686,Greens,1780000,2050,868.29,3,3,False,False,False,False,False,False,False,False
+1687,Jumeirah Village Triangle,1550000,1566,989.78,2,2,False,False,False,False,False,False,False,False
+1688,Dubai Marina,935000,609,1535.3,1,2,False,False,False,False,False,False,False,True
+1689,Downtown Dubai,4362888,1192,3660.14,2,3,False,False,False,False,True,False,False,False
+1690,Downtown Dubai,19498888,5253,3711.95,4,5,False,False,False,False,False,False,False,False
+1691,Jumeirah Village Circle,420000,887,473.51,1,2,False,False,False,False,False,False,False,False
+1692,Greens,1790000,2128,841.17,3,4,False,False,True,False,False,False,False,True
+1693,Downtown Dubai,1586888,607,2614.31,1,2,False,False,False,False,False,False,False,False
+1694,Jumeirah Beach Residence,2000000,2921,684.7,3,3,False,False,False,False,False,False,False,True
+1695,Motor City,1175000,2218,529.76,2,3,False,False,False,False,False,False,False,False
+1696,Motor City,900000,1550,580.65,2,3,False,False,False,False,False,False,False,False
+1697,Downtown Dubai,11000000,3134,3509.89,5,6,False,False,False,False,False,False,False,True
+1698,Business Bay,850000,455,1868.13,0,1,False,False,False,False,False,False,False,True
+1699,Town Square,1088888,1410,772.26,3,3,False,True,False,False,False,False,False,True
+1700,Town Square,1088888,1365,797.72,3,3,False,False,False,False,False,False,False,True
+1701,Jumeirah Lake Towers,650000,896,725.45,1,2,False,False,True,False,False,False,False,True
+1702,Jumeirah Lake Towers,920000,1184,777.03,2,3,False,False,True,False,False,False,False,True
+1703,Jumeirah Lake Towers,3000000,3593,834.96,3,4,True,False,False,False,False,False,False,True
+1704,Jumeirah Beach Residence,3350000,3112,1076.48,4,4,True,True,False,False,False,False,False,True
+1705,Palm Jumeirah,4400000,2398,1834.86,3,4,False,False,False,False,False,True,False,True
+1706,Business Bay,480000,513,935.67,0,1,False,True,False,False,False,False,False,True
+1707,Dubai Festival City,2100000,2267,926.33,3,4,True,False,False,False,False,False,False,True
+1708,Jumeirah Beach Residence,695000,713,974.75,0,1,False,False,False,False,False,False,False,True
+1709,Al Kifaf,2100000,1612,1302.73,2,2,False,True,False,False,False,False,False,True
+1710,Jumeirah Beach Residence,2749000,2455,1119.76,4,5,True,True,True,False,False,False,False,True
+1711,Al Sufouh,839000,906,926.05,1,2,False,False,False,False,False,False,False,False
+1712,Jumeirah Beach Residence,5900000,1923,3068.12,2,3,False,True,False,False,False,False,False,True
+1713,Dubai Marina,3000000,1867,1606.86,3,3,False,False,False,False,False,False,False,True
+1714,Jumeirah Village Circle,711000,747,951.81,1,2,False,True,True,False,False,False,False,True
+1715,Umm Suqeim,1444000,875,1650.29,1,1,False,False,False,False,False,False,False,True
+1716,The Views,1750000,1642,1065.77,2,2,False,True,False,False,False,False,False,False
+1717,Palm Jumeirah,3511888,1666,2107.98,3,3,False,True,False,False,False,False,False,False
+1718,Palm Jumeirah,624888,321,1946.69,0,1,False,True,False,False,False,False,False,False
+1719,Jumeirah,2270000,1216,1866.78,2,3,False,False,False,False,False,False,False,True
+1720,Jumeirah Village Circle,1200000,1218,985.22,2,3,False,False,False,False,False,False,False,False
+1721,Dubai Marina,1750000,2761,633.83,3,4,True,False,True,False,False,False,False,True
+1722,Downtown Dubai,2150000,1367,1572.79,2,2,False,True,False,False,False,False,False,True
+1723,Dubai Land,395000,1057,373.7,1,2,False,False,True,False,False,False,False,False
+1724,Jumeirah Beach Residence,699999,713,981.77,0,1,False,False,False,False,False,False,False,False
+1725,Dubai Hills Estate,896000,915,979.23,1,2,False,False,False,False,False,False,False,True
+1726,Dubai Marina,777950,709,1097.25,1,1,False,True,False,False,False,False,False,True
+1727,Motor City,600000,1044,574.71,1,2,False,False,False,False,False,False,False,True
+1728,Dubai Marina,1000000,1305,766.28,2,3,False,True,True,False,False,False,False,True
+1729,Culture Village,6800000,4070,1670.76,4,4,True,True,True,False,False,True,False,True
+1730,Motor City,450000,625,720.0,0,1,False,False,False,False,False,False,False,True
+1731,Al Barari,1307392,966,1353.41,1,2,False,False,False,False,False,False,False,False
+1732,wasl gate,690777,730,946.27,2,2,False,True,False,False,False,False,False,True
+1733,Dubai Sports City,330000,454,726.87,0,1,False,False,False,False,False,False,False,False
+1734,Dubai Sports City,400000,709,564.17,1,2,False,False,False,False,False,False,False,False
+1735,Palm Jumeirah,1850000,1296,1427.47,1,1,False,True,False,False,False,False,False,True
+1736,Jumeirah Village Circle,650000,514,1264.59,0,1,False,False,False,False,False,False,False,True
+1737,Meydan,1249999,1534,814.86,2,3,True,False,True,False,False,False,False,True
+1738,DIFC,2500000,1757,1422.88,2,3,False,True,False,False,False,False,False,True
+1739,Jumeirah Lake Towers,500000,620,806.45,1,1,False,False,True,False,False,False,False,True
+1740,Al Sufouh,2000000,1783,1121.7,3,4,False,False,False,False,False,False,False,False
+1741,Palm Jumeirah,1200000,1633,734.84,2,3,True,True,True,False,False,False,False,True
+1742,Palm Jumeirah,1250000,791,1580.28,1,2,False,False,False,False,False,False,False,True
+1743,Downtown Dubai,4600000,2019,2278.36,3,4,False,True,False,False,False,False,False,True
+1744,Jumeirah Lake Towers,674000,940,717.02,1,2,False,False,False,False,False,False,False,True
+1745,Downtown Dubai,1490000,1198,1243.74,2,3,False,False,False,False,False,False,False,False
+1746,Dubai Marina,1300000,822,1581.51,1,2,False,True,True,False,False,False,False,True
+1747,The Views,1750000,1642,1065.77,2,2,False,False,False,False,False,False,False,True
+1748,Jumeirah Village Circle,559999,1071,522.87,1,2,False,False,False,False,False,False,False,True
+1749,Dubai Marina,850000,1328,640.06,2,3,False,True,False,False,False,False,False,False
+1750,Mirdif,1419000,1330,1066.92,2,3,True,False,True,False,False,False,False,True
+1751,Mirdif,1696000,1600,1060.0,3,3,True,False,True,False,False,False,False,True
+1752,Downtown Dubai,2500000,1329,1881.11,2,3,False,True,False,False,False,False,False,True
+1753,Business Bay,1590000,1325,1200.0,2,3,False,True,True,False,False,True,False,False
+1754,Downtown Dubai,1400000,1356,1032.45,2,3,False,False,False,False,False,False,False,True
+1755,Jumeirah Lake Towers,385000,398,967.34,0,1,False,True,False,False,False,False,False,True
+1756,Dubai Hills Estate,1700000,1541,1103.18,2,3,False,True,False,False,False,False,False,True
+1757,Dubai Hills Estate,1500000,1315,1140.68,2,3,False,True,True,False,False,False,False,True
+1758,Business Bay,1150000,943,1219.51,1,2,False,False,False,False,False,False,False,True
+1759,Downtown Dubai,1500000,856,1752.34,1,2,False,False,False,False,False,False,False,True
+1760,Business Bay,799999,929,861.14,1,2,False,False,False,False,False,False,False,True
+1761,Business Bay,2425000,2000,1212.5,3,5,True,False,False,False,False,False,False,True
+1762,Business Bay,1698000,1512,1123.02,2,3,True,False,True,False,False,False,True,True
+1763,Umm Suqeim,2300000,1623,1417.13,2,2,False,False,False,False,False,False,False,True
+1764,Dubai Marina,4950888,2334,2121.2,4,4,False,False,True,False,False,False,False,True
+1765,Jumeirah,1366000,816,1674.02,1,1,False,True,False,False,False,False,False,True
+1766,Jumeirah,4905000,1574,3116.26,1,1,True,False,False,False,False,False,False,True
+1767,Jumeirah,9209000,2249,4094.71,2,2,True,False,False,False,False,False,False,True
+1768,DAMAC Hills,730000,777,939.51,1,1,False,False,False,False,False,False,False,False
+1769,Downtown Dubai,1200000,1026,1169.59,1,2,False,False,False,False,False,False,False,True
+1770,Downtown Dubai,3499888,1639,2135.38,2,3,False,True,False,False,False,False,False,True
+1771,Downtown Dubai,2099888,1133,1853.39,1,2,False,False,False,False,False,False,False,True
+1772,Business Bay,1375000,1270,1082.68,2,2,False,False,False,False,False,False,False,True
+1773,Dubai Marina,1400000,1371,1021.15,2,3,False,False,False,False,False,False,False,True
+1774,Downtown Dubai,1000000,909,1100.11,1,2,False,False,False,False,False,False,False,True
+1775,Dubai Marina,1980000,1853,1068.54,3,3,False,False,False,False,False,False,False,True
+1776,Jumeirah Village Circle,1113661,1194,932.71,2,3,False,False,False,False,False,False,False,True
+1777,Jumeirah Village Circle,649411,690,941.18,1,1,False,False,False,False,False,False,False,True
+1778,Dubai Hills Estate,1850000,1638,1129.43,3,4,False,False,False,False,False,False,False,True
+1779,Discovery Gardens,420000,947,443.51,1,2,False,False,False,False,False,False,False,True
+1780,Downtown Dubai,2600000,1485,1750.84,2,3,False,False,True,False,False,False,False,False
+1781,International City,550000,824,667.48,1,2,False,False,False,False,False,False,False,True
+1782,Al Furjan,770000,906,849.89,2,2,False,False,False,False,False,False,False,False
+1783,Dubai Healthcare City,558000,325,1716.92,1,1,False,True,True,False,False,False,False,True
+1784,Remraam,260000,401,648.38,0,1,False,False,False,False,False,False,False,True
+1785,Downtown Dubai,5796888,1861,3114.93,3,4,False,False,False,False,False,False,False,True
+1786,Jebel Ali,420000,430,976.74,0,1,False,False,False,False,False,False,False,True
+1787,Meydan,940000,758,1240.11,1,2,False,False,False,False,False,False,False,True
+1788,Downtown Dubai,1800000,1232,1461.04,2,2,False,False,True,False,False,False,False,True
+1789,Umm Suqeim,2512000,1504,1670.21,2,2,False,False,False,False,False,False,False,True
+1790,Downtown Dubai,4943888,1214,4072.4,2,2,False,True,False,False,False,False,False,False
+1791,Downtown Dubai,5876888,1557,3774.49,3,3,False,True,False,False,False,False,False,False
+1792,Business Bay,995000,696,1429.6,1,1,False,False,False,False,False,True,False,True
+1793,Dubai Marina,1045000,1185,881.86,1,2,False,False,False,False,False,False,False,True
+1794,Business Bay,1600000,1751,913.76,2,3,True,False,False,False,False,False,False,True
+1795,Dubai Marina,2500000,2992,835.56,3,5,False,False,False,False,False,False,False,False
+1796,Jumeirah Village Circle,360000,432,833.33,0,1,False,True,False,False,False,False,False,True
+1797,Jumeirah Beach Residence,1540000,763,2018.35,1,2,False,False,False,False,False,False,False,True
+1798,Jumeirah Village Circle,1350000,1358,994.11,2,2,True,True,False,False,False,False,False,True
+1799,Jumeirah Village Circle,1350000,1357,994.84,2,2,True,True,False,False,False,False,False,True
+1800,Jumeirah Lake Towers,899999,1328,677.71,2,3,False,False,False,False,False,False,False,True
+1801,Jumeirah Village Circle,1350000,1354,997.05,2,2,True,True,False,False,False,False,False,True
+1802,Jumeirah Beach Residence,3800000,1897,2003.16,3,2,False,False,False,False,False,False,False,True
+1803,Jumeirah Village Circle,1350205,1342,1006.11,2,2,True,True,False,False,False,False,False,True
+1804,Downtown Dubai,2000000,1133,1765.23,1,2,False,False,False,False,False,False,True,True
+1805,Dubai Marina,3300000,3456,954.86,3,5,False,False,False,False,False,False,False,False
+1806,The Hills,1650000,1558,1059.05,2,2,False,True,True,False,False,False,False,True
+1807,Jumeirah Village Circle,661504,675,980.01,1,2,False,True,False,False,False,False,False,True
+1808,Jumeirah Village Circle,958205,1311,730.9,2,3,True,True,False,False,False,False,False,True
+1809,Jumeirah Lake Towers,840000,1152,729.17,2,2,False,False,False,False,False,False,False,False
+1810,Greens,1600000,1797,890.37,3,3,False,False,False,False,False,False,False,True
+1811,Dubai Marina,1650000,1303,1266.31,2,3,False,True,True,False,False,False,False,True
+1812,Jumeirah Village Circle,619500,851,727.97,1,2,True,True,False,False,False,False,False,True
+1813,Jumeirah Village Circle,750204,1045,717.9,2,3,True,True,False,False,False,False,False,True
+1814,DIFC,2400000,1782,1346.8,2,3,False,False,False,False,False,False,False,False
+1815,Jumeirah Village Circle,900000,967,930.71,1,2,False,False,False,False,False,False,False,True
+1816,Jumeirah Village Circle,365000,419,871.12,0,1,False,False,True,False,False,False,False,True
+1817,Jumeirah Village Circle,650503,751,866.18,1,2,False,True,True,False,False,False,False,True
+1818,Jumeirah Village Circle,999505,1198,834.31,2,3,True,True,True,False,False,False,False,True
+1819,Jumeirah,2250000,1341,1677.85,2,3,False,True,False,False,False,False,False,True
+1820,DIFC,1550000,960,1614.58,1,2,False,False,True,False,False,False,False,True
+1821,Jumeirah Village Circle,610502,812,751.85,1,2,True,True,True,False,False,False,False,True
+1822,Dubai Marina,580000,484,1198.35,1,1,False,False,True,False,False,False,False,True
+1823,Jumeirah Beach Residence,3400000,2918,1165.18,4,4,False,False,False,False,False,False,False,False
+1824,Umm Suqeim,2192000,1351,1622.5,2,2,False,True,False,False,False,False,True,True
+1825,Umm Suqeim,2448000,1702,1438.31,2,2,True,True,False,False,False,False,True,True
+1826,Umm Suqeim,2112000,1359,1554.08,2,2,True,True,False,False,False,False,True,True
+1827,Jumeirah Village Circle,699505,840,832.74,1,2,False,True,True,False,False,False,False,True
+1828,Umm Suqeim,2121000,1378,1539.19,2,2,True,True,False,False,False,False,True,True
+1829,Jumeirah Village Circle,370000,372,994.62,0,1,False,True,True,False,False,False,False,True
+1830,Business Bay,1525000,1300,1173.08,2,3,False,False,False,False,False,False,False,True
+1831,Dubai Marina,950000,841,1129.61,1,1,False,True,True,False,False,False,False,True
+1832,Dubai Harbour,2245888,1143,1964.91,2,2,False,False,False,False,False,False,False,True
+1833,Dubai Marina,1550000,1323,1171.58,2,2,False,True,True,False,False,False,False,True
+1834,The Views,1212000,1302,930.88,2,3,False,False,False,False,False,False,False,True
+1835,Dubai Marina,1550000,1233,1257.1,2,2,False,True,False,False,False,False,False,False
+1836,Dubai Marina,1100000,884,1244.34,1,2,False,True,False,False,False,False,False,True
+1837,Al Barari,2800000,2745,1020.04,2,3,False,False,False,False,False,False,False,True
+1838,Jumeirah Lake Towers,400888,415,966.0,0,1,False,True,False,False,False,False,False,True
+1839,Jumeirah Lake Towers,400888,415,966.0,0,1,False,True,False,False,False,False,False,True
+1840,Umm Suqeim,2100000,1300,1615.38,2,2,False,True,False,False,False,False,False,True
+1841,Jumeirah Beach Residence,1500000,1058,1417.77,1,2,False,True,True,False,False,False,False,True
+1842,Dubai Marina,1250000,1377,907.77,2,2,False,False,False,False,False,False,False,False
+1843,The Views,1750000,1642,1065.77,2,3,False,True,False,False,False,False,False,True
+1844,Dubai Creek Harbour (The Lagoons),1100000,899,1223.58,1,1,False,False,False,False,False,False,False,True
+1845,Jumeirah Village Circle,443850,422,1051.78,0,1,False,False,False,False,False,False,False,True
+1846,Downtown Dubai,3200000,1709,1872.44,3,4,False,True,False,False,False,False,False,True
+1847,Business Bay,2950000,3039,970.71,3,4,True,False,True,False,False,False,False,True
+1848,Dubai Residence Complex,270000,460,586.96,0,1,False,False,False,False,False,False,False,True
+1849,Jumeirah Lake Towers,499000,672,742.56,1,1,False,False,True,False,False,False,False,True
+1850,Umm Suqeim,2112000,1359,1554.08,2,3,False,True,True,False,False,False,False,True
+1851,Downtown Dubai,4000000,2023,1977.26,3,3,True,True,False,False,False,False,False,True
+1852,Dubai Marina,700000,591,1184.43,1,1,False,True,False,False,False,False,False,False
+1853,Business Bay,920000,778,1182.52,1,2,False,False,True,False,False,False,False,True
+1854,Palm Jumeirah,1650000,1890,873.02,1,2,False,False,False,False,False,False,False,True
+1855,Greens,1599990,2059,777.07,3,3,False,True,False,False,False,False,False,True
+1856,Dubai Marina,1500000,2412,621.89,3,4,True,False,True,False,False,False,False,True
+1857,Jumeirah Lake Towers,400888,403,994.76,0,1,False,True,False,False,False,True,False,True
+1858,Jumeirah Lake Towers,760888,904,841.69,1,2,False,True,False,False,False,True,True,True
+1859,Jumeirah Lake Towers,1005888,1073,937.45,2,2,False,True,False,False,False,True,False,False
+1860,Jumeirah Lake Towers,1550888,1517,1022.34,3,3,False,True,False,False,False,False,False,True
+1861,Dubai Land,590000,1094,539.31,2,2,False,False,False,False,False,False,False,True
+1862,Dubai Marina,1750000,1324,1321.75,2,2,False,False,False,False,False,False,False,False
+1863,Dubai Marina,2600000,2205,1179.14,3,4,False,False,False,False,False,False,False,False
+1864,Jumeirah Beach Residence,2400000,1842,1302.93,2,2,False,False,False,False,False,False,False,False
+1865,DIFC,795000,769,1033.81,1,2,False,False,False,False,False,True,False,True
+1866,Dubai Marina,1975000,2979,662.97,3,3,False,False,False,False,False,False,False,False
+1867,Al Furjan,838000,928,903.02,2,3,False,False,False,False,False,False,False,True
+1868,DIFC,2300000,1836,1252.72,2,3,False,False,False,False,False,False,False,False
+1869,Palm Jumeirah,34340000,8722,3937.17,4,6,True,True,True,True,False,True,True,True
+1870,Mohammed Bin Rashid City,1781920,1184,1505.0,2,3,False,False,False,False,False,False,False,False
+1871,Dubai Harbour,1352888,745,1815.96,1,1,False,False,True,False,False,False,True,True
+1872,Mohammed Bin Rashid City,2800000,2012,1391.65,3,3,True,False,True,False,False,False,False,False
+1873,Palm Jumeirah,15950000,5049,3159.04,4,6,True,True,True,False,False,False,True,False
+1874,Town Square,488888,698,700.41,1,2,False,False,False,False,False,False,False,True
+1875,Dubai Harbour,1459888,758,1925.97,1,1,False,False,False,False,False,False,False,True
+1876,Dubai Marina,1350000,1579,854.97,2,4,False,False,False,False,False,False,False,False
+1877,Jumeirah Beach Residence,1499000,1884,795.65,3,3,False,False,False,False,False,False,False,False
+1878,Downtown Dubai,2130888,791,2693.92,1,2,False,True,False,False,False,False,False,True
+1879,Dubai Creek Harbour (The Lagoons),890000,760,1171.05,1,1,False,True,True,False,False,False,False,True
+1880,Jumeirah Lake Towers,2400000,2798,857.76,3,5,True,True,True,False,False,False,False,True
+1881,The Views,1850000,1400,1321.43,2,2,False,True,True,False,False,False,False,True
+1882,Dubai Marina,2090000,1061,1969.84,2,2,False,False,False,False,False,False,False,True
+1883,Jumeirah Beach Residence,1970000,882,2233.56,1,2,False,True,False,False,False,False,False,True
+1884,Jumeirah Beach Residence,3300000,1180,2796.61,2,3,False,True,False,False,False,False,False,True
+1885,Palm Jumeirah,31440000,6542,4805.87,4,6,True,True,True,False,False,True,True,True
+1886,Dubai Harbour,4856888,2088,2326.1,3,3,True,False,True,False,False,False,True,True
+1887,City Walk,1396000,1672,834.93,1,2,False,False,False,False,False,False,False,False
+1888,Dubai Marina,1300000,1843,705.37,3,3,True,False,False,False,False,False,False,True
+1889,Palm Jumeirah,1400000,1173,1193.52,1,1,False,False,False,False,False,False,False,False
+1890,Jumeirah Beach Residence,3800000,1807,2102.93,3,3,False,True,False,False,False,False,False,True
+1891,Culture Village,7000000,4068,1720.75,4,6,False,False,False,False,False,False,False,False
+1892,Dubai South (Dubai World Central),1175000,3247,361.87,3,2,False,False,False,True,False,False,False,True
+1893,Jumeirah Beach Residence,2000000,857,2333.72,1,2,False,False,True,False,False,False,False,True
+1894,Downtown Dubai,980888,1088,901.55,1,1,False,True,False,False,False,False,False,True
+1895,Dubai Marina,1350000,1578,855.51,2,4,False,False,False,False,False,False,False,False
+1896,Downtown Dubai,18040888,5253,3434.4,4,4,True,False,False,False,False,False,False,True
+1897,Al Quoz,360000,600,600.0,0,1,False,False,True,False,False,False,False,True
+1898,Palm Jumeirah,2700000,1076,2509.29,1,2,False,False,False,False,False,False,False,True
+1899,Dubai Sports City,550000,847,649.35,1,2,False,True,True,False,False,False,True,True
+1900,Mohammed Bin Rashid City,1500000,1087,1379.94,2,2,False,True,True,False,False,False,False,True
+1901,Mohammed Bin Rashid City,1230000,760,1618.42,1,2,False,True,False,False,False,False,False,True
+1902,Dubai Creek Harbour (The Lagoons),2900000,1930,1502.59,3,5,True,False,True,False,False,False,False,True
+1903,Jumeirah Village Circle,675000,740,912.16,1,2,False,False,False,True,False,False,False,True
+1904,Jumeirah Lake Towers,760887,800,951.11,1,2,False,True,False,False,False,False,False,True
